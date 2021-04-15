@@ -1,2 +1,2 @@
 Hello all
-Website: https://bleunguts.github.io
+Website: https://bleunguts.github.io/bleunguts/
