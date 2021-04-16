@@ -2,6 +2,16 @@
 
 C# / C++ Financial Engineering Analyst Developer 
 
+![CS Logo](https://bleunguts.github.io/bleunguts/images/cslogo.png)
+![CA Logo](https://bleunguts.github.io/bleunguts/images/CreditAgricolelogo.png)
+![TSB Logo](https://bleunguts.github.io/bleunguts/images/LloydsLogo.png)
+![Traf Logo](https://bleunguts.github.io/bleunguts/images/trafiguralogo.png)
+![UBS Logo](https://bleunguts.github.io/bleunguts/images/UBSlogo.png)
+![IGT Logo](https://bleunguts.github.io/bleunguts/images/igtlogo.png)
+![GS Logo](https://bleunguts.github.io/bleunguts/images/gslogo.png)
+![Siemens Logo](https://bleunguts.github.io/bleunguts/images/siemens-logo-4.png)
+![basis Logo](https://bleunguts.github.io/bleunguts/images/basisdesignlogo.png)
+![uts Logo](https://bleunguts.github.io/bleunguts/images/utslogo.png)
 ## Navigate
 - [portfolio](https://bleunguts.github.io/bleunguts/portfolio)
 - [home](https://bleunguts.github.io/bleunguts)
