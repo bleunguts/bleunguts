@@ -2,7 +2,7 @@
 
 C# / C++ Financial Engineering Analyst Developer 
 
-![CS Logo](https://bleunguts.github.io/bleunguts/images/cslogo.png)
+![CS Logo](https://bleunguts.github.io/bleunguts/images/CSlogo.PNG)
 
 ![CA Logo](https://bleunguts.github.io/bleunguts/images/CreditAgricolelogo.png)
 
@@ -12,15 +12,15 @@ C# / C++ Financial Engineering Analyst Developer
 
 ![UBS Logo](https://bleunguts.github.io/bleunguts/images/UBSlogo.png)
 
-![IGT Logo](https://bleunguts.github.io/bleunguts/images/igtlogo.png)
+![IGT Logo](https://bleunguts.github.io/bleunguts/images/IGTLogo.png)
 
-![GS Logo](https://bleunguts.github.io/bleunguts/images/gslogo.png)
+![GS Logo](https://bleunguts.github.io/bleunguts/images/GSlogo.png)
 
 ![Siemens Logo](https://bleunguts.github.io/bleunguts/images/siemens-logo-4.png)
 
-![basis Logo](https://bleunguts.github.io/bleunguts/images/basisdesignlogo.png)
+![basis Logo](https://bleunguts.github.io/bleunguts/images/BasisDesignLogo.png)
 
-![uts Logo](https://bleunguts.github.io/bleunguts/images/utslogo.png)
+![uts Logo](https://bleunguts.github.io/bleunguts/images/UTSlogo.png)
 
 ## Navigate
 - [portfolio](https://bleunguts.github.io/bleunguts/portfolio)
