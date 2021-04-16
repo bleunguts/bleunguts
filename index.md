@@ -17,3 +17,5 @@ C# / C++ Financial Engineering Analyst Developer
 - [portfolio](https://bleunguts.github.io/bleunguts/portfolio)
 - [home](https://bleunguts.github.io/bleunguts)
 
+[editor on GitHub](https://github.com/bleunguts/bleunguts/edit/gh-pages/index.md)
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
