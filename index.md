@@ -2,25 +2,23 @@
 
 C# / C++ Financial Engineering Analyst Developer 
 
-![CS Logo](https://bleunguts.github.io/bleunguts/images/CSlogo.PNG)
+![CS Logo](https://bleunguts.github.io/bleunguts/images/CSlogo.PNG) 
+![CA Logo](https://bleunguts.github.io/bleunguts/images/CreditAgricolelogo.PNG)
+![TSB Logo](https://bleunguts.github.io/bleunguts/images/LloydsLogo.PNG)
 
-![CA Logo](https://bleunguts.github.io/bleunguts/images/CreditAgricolelogo.png)
+![Traf Logo](https://bleunguts.github.io/bleunguts/images/trafiguralogo.PNG)
 
-![TSB Logo](https://bleunguts.github.io/bleunguts/images/LloydsLogo.png)
+![UBS Logo](https://bleunguts.github.io/bleunguts/images/UBSlogo.PNG)
 
-![Traf Logo](https://bleunguts.github.io/bleunguts/images/trafiguralogo.png)
+![IGT Logo](https://bleunguts.github.io/bleunguts/images/IGTLogo.PNG)
 
-![UBS Logo](https://bleunguts.github.io/bleunguts/images/UBSlogo.png)
-
-![IGT Logo](https://bleunguts.github.io/bleunguts/images/IGTLogo.png)
-
-![GS Logo](https://bleunguts.github.io/bleunguts/images/GSlogo.png)
+![GS Logo](https://bleunguts.github.io/bleunguts/images/GSlogo.PNG)
 
 ![Siemens Logo](https://bleunguts.github.io/bleunguts/images/siemens-logo-4.png)
 
-![basis Logo](https://bleunguts.github.io/bleunguts/images/BasisDesignLogo.png)
+![basis Logo](https://bleunguts.github.io/bleunguts/images/BasisDesignLogo.PNG)
 
-![uts Logo](https://bleunguts.github.io/bleunguts/images/UTSlogo.png)
+![uts Logo](https://bleunguts.github.io/bleunguts/images/UTSlogo.PNG)
 
 ## Navigate
 - [portfolio](https://bleunguts.github.io/bleunguts/portfolio)
