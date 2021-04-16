@@ -6,7 +6,6 @@ description: Billy Leung
 author: Billy Leung
 
 # --- List of links in the navigation bar --- #
-
 navbar-links:
  About Me: "aboutme"
  CV Portfolio: "portfolio"
@@ -25,8 +24,6 @@ url-pretty: "bleunguts.github.io"
 
 plugins:
   - jekyll-relative-links
-  - jekyll-paginate
-  - jekyll-sitemap
 relative_links:
   enabled: true
   collections: true
