@@ -2,12 +2,9 @@
 
 C# / C++ Financial Engineering Analyst Developer 
 
-[home](https://bleunguts.github.io/bleunguts)
-[portfolio](https://bleunguts.github.io/bleunguts)
-
-## Projects
-- FXTrader C#
-- OptionsPricer C++
+## Navigate
+- [portfolio](https://bleunguts.github.io/bleunguts/portfolio)
+- [home](https://bleunguts.github.io/bleunguts)
 
 ## Markdown
 
