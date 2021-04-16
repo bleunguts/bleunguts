@@ -14,8 +14,8 @@ C# / C++ Financial Engineering Analyst Developer
 ![uts Logo](https://bleunguts.github.io/bleunguts/images/UTSLogo.PNG)
 
 ## Navigate
-- [portfolio](https://bleunguts.github.io/bleunguts/portfolio)
-- [home](https://bleunguts.github.io/bleunguts)
+- [cv portfolio](https://bleunguts.github.io/bleunguts/portfolio)
+- [home page](https://bleunguts.github.io/bleunguts)
 
 [editor on GitHub](https://github.com/bleunguts/bleunguts/edit/gh-pages/index.md)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
