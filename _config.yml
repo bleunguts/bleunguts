@@ -1,6 +1,7 @@
 theme: jekyll-theme-architect
 title: Portfolio
 description: Billy Leung
+baseurl : /bleunguts
 
 # Your name to show in the footer
 author: Billy Leung
