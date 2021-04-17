@@ -2,6 +2,13 @@
 
 C# / C++ Financial Engineering Analyst Developer 
 
+## Navigate
+- [cv portfolio](https://bleunguts.github.io/bleunguts/portfolio)
+- [home page](https://bleunguts.github.io/bleunguts)
+
+[editor on GitHub](https://github.com/bleunguts/bleunguts/edit/gh-pages/index.md)
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 ![CS Logo](https://bleunguts.github.io/bleunguts/images/CSlogo.PNG) 
 ![CA Logo](https://bleunguts.github.io/bleunguts/images/CreditAgricolelogo.PNG)
 ![TSB Logo](https://bleunguts.github.io/bleunguts/images/lloydslogo.PNG)
@@ -12,10 +19,3 @@ C# / C++ Financial Engineering Analyst Developer
 ![Siemens Logo](https://bleunguts.github.io/bleunguts/images/siemens-logo-4.png)
 ![basis Logo](https://bleunguts.github.io/bleunguts/images/BasisDesignLogo.PNG)
 ![uts Logo](https://bleunguts.github.io/bleunguts/images/UTSLogo.PNG)
-
-## Navigate
-- [cv portfolio](https://bleunguts.github.io/bleunguts/portfolio)
-- [home page](https://bleunguts.github.io/bleunguts)
-
-[editor on GitHub](https://github.com/bleunguts/bleunguts/edit/gh-pages/index.md)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
