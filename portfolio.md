@@ -1,6 +1,6 @@
 **[HOME](https://bleunguts.github.io/bleunguts)**   
 # CV Portfolio
-This portfolio consists of three sub sections spanning from 2003 to present (sub-sections: 2003-2007, 2008-2014, 2014-2020)
+This portfolio consists of three sub sections spanning from 2003 to present (sub-sections: 2003-2007, 2008-2014, 2013-2020)
 
 # _PORTFOLIO_
 
