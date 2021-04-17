@@ -3,7 +3,8 @@
 This portfolio consists of three sub sections spanning from 2003 to present (sub-sections: 2013-2020, 2008-2014, 2003-2007)
 
 Below is a career snapshot, click on the corresponding link to see an in-depth portfolio for that placement.
-
+Period | Title
+------------ | -------------
 Sep2013 - Apr 2020 | Equity Derivatives C# Developer @ Credit Suisse
 Jan 2013 – Aug 2013	| FX WPF C# GUI Developer @ Lloyds 
 Feb 2012 – Jan 2013	| FX Low Latency Pricing & Execution C# Developer Credit Agricole
