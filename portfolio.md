@@ -20,4 +20,4 @@ Feb 2003 – Jun 2003	| C# ASP.NET/ J2EE Web Developer @ FarEdge | N/A
 Aug 2000 – Feb 2001	| C++ Hardware Developer @ Basis Design | N/A
 
 
-== *Portfolios describe projects and achievements in much more in-depth detail than my CV.* ==
+\* *Portfolios describe projects and achievements in much more in-depth detail than my CV.* 
