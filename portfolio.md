@@ -1,5 +1,5 @@
-**[HOME](https://bleunguts.github.io/bleunguts)** | **[PORTFOLIO](https://bleunguts.github.io/bleunguts/portfolio)** | **[2013-2020](https://bleunguts.github.io/bleunguts/portfolio2020)** | **[2008-2013](https://bleunguts.github.io/bleunguts/portfolio2013)** | **[2003-2007](https://bleunguts.github.io/bleunguts/portfolio2007)** 
-# PORTFOLIO
+**[HOME](https://bleunguts.github.io/bleunguts)** | **[CV PORTFOLIO](https://bleunguts.github.io/bleunguts/portfolio)** | **[2013-2020](https://bleunguts.github.io/bleunguts/portfolio2020)** | **[2008-2013](https://bleunguts.github.io/bleunguts/portfolio2013)** | **[2003-2007](https://bleunguts.github.io/bleunguts/portfolio2007)** 
+# CV PORTFOLIO
 This portfolio consists of three sub sections spanning from 2003 to present (sub-sections: 2013-2020, 2008-2013, 2003-2007)
 
 Below is a career snapshot, click on the corresponding link to see an in-depth portfolio for that placement.
