@@ -1,9 +1,9 @@
-[home](https://bleunguts.github.io/bleunguts)
+[home](https://bleunguts.github.io/bleunguts) **[CV PORTFOLIO](https://bleunguts.github.io/bleunguts/portfolio)**
 # Summary
 
 C# / C++ Financial Engineering Analyst Developer 
 
-**[CV PORTFOLIO](https://bleunguts.github.io/bleunguts/portfolio)**
+
 
 ![CS Logo](https://bleunguts.github.io/bleunguts/images/CSlogo.PNG) 
 ![CA Logo](https://bleunguts.github.io/bleunguts/images/CreditAgricolelogo.PNG)
