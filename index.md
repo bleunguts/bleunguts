@@ -1,4 +1,4 @@
-**[HOME](https://bleunguts.github.io/bleunguts)**   **[CV PORTFOLIO](https://bleunguts.github.io/bleunguts/portfolio)**
+**[CLICK HERE FOR CV PORTFOLIO](https://bleunguts.github.io/bleunguts/portfolio)** **[HOME](https://bleunguts.github.io/bleunguts)**   
 # Summary
 
 C# / C++ Financial Engineering Analyst Developer 
