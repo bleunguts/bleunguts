@@ -3,7 +3,7 @@
 
 C# / C++ Financial Engineering Analyst Developer 
 
-> Navigate to [cv portfolio](https://bleunguts.github.io/bleunguts/portfolio) for detailed portfolio of experience
+** [CV PORTFOLIO](https://bleunguts.github.io/bleunguts/portfolio) **
 
 ![CS Logo](https://bleunguts.github.io/bleunguts/images/CSlogo.PNG) 
 ![CA Logo](https://bleunguts.github.io/bleunguts/images/CreditAgricolelogo.PNG)
