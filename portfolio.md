@@ -1,29 +1,6 @@
 **[HOME](https://bleunguts.github.io/bleunguts)**   
 # CV Portfolio
-This is the Portfolio of Billy Leung.
-# Table of Contents
-
-(Credit Suisse) Giraffe Core 2
-
-(Credit Suisse) Giraffe Yeti 4
-
-[Credit Agricole 7](#_Toc69387065)
-
-[Lloyds 8](#_Toc69387066)
-
-[Trafigura 8](#_Toc69387067)
-
-[UBS 9](#_Toc69387068)
-
-[International Gaming Technology (IGT) 9](#_Toc69387069)
-
-[Goldman Sachs 10](#_Toc69387070)
-
-[Siemens 13](#_Toc69387071)
-
-[AMAT 16](#_Toc69387072)
-
-[UTS 18](#_Toc69387073)
+This portfolio consists of three sub sections spanning from 2003 to present (sub-sections: 2003-2007, 2008-2014, 2014-2020)
 
 # _PORTFOLIO_
 
