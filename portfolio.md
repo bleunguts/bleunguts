@@ -2,7 +2,7 @@
 # CV PORTFOLIO
 This portfolio consists of three sub sections spanning from 2003 to present (sub-sections: 2013-2020, 2008-2013, 2003-2007)
 
-Below is a career snapshot, click on the corresponding link to see an in-depth portfolio for that placement.
+Below is a career snapshot, click on the corresponding link to see an in-depth portfolio for that placement.  
 
 Period | Title | Link
 ------------ | ------------- | -------------
@@ -18,3 +18,5 @@ Jun 2004 – Jul 2005	| Mortgage C# Developer @AMAT | **[2003-2007](https://bleu
 Jul 2003 – Jun 2004	| C#/C++/Java Developer @ UTS | **[2003-2007](https://bleunguts.github.io/bleunguts/portfolio2007)**
 Feb 2003 – Jun 2003	| C# ASP.NET/ J2EE Web Developer @ FarEdge | N/A
 Aug 2000 – Feb 2001	| C++ Hardware Developer @ Basis Design | N/A
+
+== *Portfolios describe projects and achievements in much more in-depth detail than my CV.* ==
