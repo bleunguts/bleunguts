@@ -15,8 +15,8 @@ Other Languages: Kotlin
 ![AspNet Logo](https://bleunguts.github.io/bleunguts/images/tech/AspNetLogo.PNG)
 ![WPF Logo](https://bleunguts.github.io/bleunguts/images/tech/WPFLogo.PNG)
 ![Reactive Logo](https://bleunguts.github.io/bleunguts/images/tech/ReactiveLogo.PNG)
-![Rider Logo](https://bleunguts.github.io/bleunguts/images/tech/jetbrainsriderlogo.PNG)
 ![VS Logo](https://bleunguts.github.io/bleunguts/images/tech/VsLogo.PNG)
+![Rider Logo](https://bleunguts.github.io/bleunguts/images/tech/jetbrainsriderlogo.PNG)
 
 ![Kotlin Logo](https://bleunguts.github.io/bleunguts/images/tech/kotlinlogo.PNG)
 ![Intellij Logo](https://bleunguts.github.io/bleunguts/images/tech/IntellijLogo.PNG)
