@@ -9,7 +9,7 @@ Other Languages: Kotlin / Java 8
 
 *An in-depth detailed portfolio of my work experience is available* *[here](https://bleunguts.github.io/bleunguts/portfolio)*
 
-![CSharp Logo](https://bleunguts.github.io/bleunguts/images/tech/CSharp.PNG)
+![CSharp Logo](https://bleunguts.github.io/bleunguts/images/tech/csharplogo.PNG)
 ![Cpp Logo](https://bleunguts.github.io/bleunguts/images/tech/cpluspluslogo.PNG)
 ![DotNet Logo](https://bleunguts.github.io/bleunguts/images/tech/DotNetCoreLogo.PNG)
 ![AspNet Logo](https://bleunguts.github.io/bleunguts/images/tech/AspNetLogo.PNG)
@@ -19,7 +19,7 @@ Other Languages: Kotlin / Java 8
 ![Fix Logo](https://bleunguts.github.io/bleunguts/images/tech/FixLogo.PNG)
 ![Reuters Logo](https://bleunguts.github.io/bleunguts/images/tech/ReutersLogo.PNG)
 ![Symphony Logo](https://bleunguts.github.io/bleunguts/images/tech/SymphonyLogo.PNG)
-![Splunk Logo](https://bleunguts.github.io/bleunguts/images/tech/splunklogo.PNG)
+![Splunk Logo](https://bleunguts.github.io/bleunguts/images/tech/splunkenterpriselogo.PNG)
 
 ![Rider Logo](https://bleunguts.github.io/bleunguts/images/tech/jetbrainsriderlogo.PNG)
 ![VS Logo](https://bleunguts.github.io/bleunguts/images/tech/VsLogo.PNG)
