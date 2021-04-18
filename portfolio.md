@@ -1,6 +1,6 @@
-**[HOME](https://bleunguts.github.io/bleunguts)** | **[CV PORTFOLIO](https://bleunguts.github.io/bleunguts/portfolio)** | **[2020-2013](https://bleunguts.github.io/bleunguts/portfolio2020)** | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007)** 
+**[HOME](https://bleunguts.github.io/bleunguts)** | **[CV PORTFOLIO](https://bleunguts.github.io/bleunguts/portfolio)** | **[2020-2013](https://bleunguts.github.io/bleunguts/portfolio2020)** | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007)** | **[2003-2000](https://bleunguts.github.io/bleunguts/portfolio2003)**
 # CV PORTFOLIO
-This portfolio consists of three sub sections spanning from 2003 to present (sub-sections: 2013-2020, 2008-2013, 2003-2007)
+This portfolio consists of several sub sections spanning from 2000 to present (sub-sections: 2013-2020, 2008-2013, 2003-2007, 2000-2003)
 
 Below is a career snapshot, click on the corresponding link to see an in-depth portfolio for that placement.  
 
@@ -16,8 +16,8 @@ Feb 2018 – Nov 2018	| Core Slang/SecDb Strategist @Goldman Sachs | **[2013-200
 Jul 2005 – Jul 2007	| R&D C#/C++ Software Engineer @Siemens | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007)**
 Jun 2004 – Jul 2005	| Mortgage C# Developer @AMAT | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007)**
 Jul 2003 – Jun 2004	| C#/C++/Java Developer @ UTS | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007)**
-Feb 2003 – Jun 2003	| C# ASP.NET/ J2EE Web Developer @ FarEdge | N/A
-Aug 2000 – Feb 2001	| C++ Hardware Developer @ Basis Design | N/A
+Feb 2003 – Jun 2003	| C# ASP.NET/ J2EE Web Developer @ FarEdge | **[2003-2000](https://bleunguts.github.io/bleunguts/portfolio2003)**
+Aug 2000 – Feb 2001	| C++ Hardware Developer @ Basis Design | **[2003-2000](https://bleunguts.github.io/bleunguts/portfolio2003)**
 
 
 \* *Portfolios describe projects and achievements with in-depth details compare with that of my CV.* 
