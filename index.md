@@ -5,7 +5,7 @@ C# / C++ Financial Engineering Analyst Developer
 
 Core Skills: C# / C++ .NET
 
-Other Languages: Kotlin / Java 8
+Other Languages: Kotlin 
 
 *An in-depth detailed portfolio of my work experience is available* *[here](https://bleunguts.github.io/bleunguts/portfolio)*
 
