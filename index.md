@@ -26,3 +26,8 @@ Other Languages: Kotlin
 ![Splunk Logo](https://bleunguts.github.io/bleunguts/images/tech/splunkenterpriselogo.PNG)
 ![Reuters Logo](https://bleunguts.github.io/bleunguts/images/tech/ReutersLogo.PNG)
 ![Fix Logo](https://bleunguts.github.io/bleunguts/images/tech/FixLogo.PNG)
+
+## Projects
+* FX real-time trading app on [github](https://github.com/bleunguts/FXTrader)
+* SOLID pricinples CoffeeMaker implementation on [github](https://github.com/bleunguts/CoffeeMaker)
+* Options Pricing C++ demo focusing on pricing algorithms on [github](https://github.com/bleunguts/OptionsPricerCpp)
