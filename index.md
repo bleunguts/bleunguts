@@ -13,14 +13,14 @@ Other Languages: Kotlin / Java 8
 ![Cpp Logo](https://bleunguts.github.io/bleunguts/images/tech/cpluspluslogo.PNG)
 ![DotNet Logo](https://bleunguts.github.io/bleunguts/images/tech/DotNetCoreLogo.PNG)
 ![AspNet Logo](https://bleunguts.github.io/bleunguts/images/tech/AspNetLogo.PNG)
-![Reactive Logo](https://bleunguts.github.io/bleunguts/images/tech/ReactiveLogo.PNG)
 ![WPF Logo](https://bleunguts.github.io/bleunguts/images/tech/WPFLogo.PNG)
-![ActiveMQ Logo](https://bleunguts.github.io/bleunguts/images/tech/ActiveMQLogo.PNG)
+![Reactive Logo](https://bleunguts.github.io/bleunguts/images/tech/ReactiveLogo.PNG)
 ![Rider Logo](https://bleunguts.github.io/bleunguts/images/tech/jetbrainsriderlogo.PNG)
 ![VS Logo](https://bleunguts.github.io/bleunguts/images/tech/VsLogo.PNG)
 
 ![Kotlin Logo](https://bleunguts.github.io/bleunguts/images/tech/kotlinlogo.PNG)
 ![Intellij Logo](https://bleunguts.github.io/bleunguts/images/tech/IntellijLogo.PNG)
+![ActiveMQ Logo](https://bleunguts.github.io/bleunguts/images/tech/ActiveMQLogo.PNG)
 
 ![Fix Logo](https://bleunguts.github.io/bleunguts/images/tech/FixLogo.PNG)
 ![Reuters Logo](https://bleunguts.github.io/bleunguts/images/tech/ReutersLogo.PNG)
