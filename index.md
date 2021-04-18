@@ -20,10 +20,12 @@ Other Languages: Kotlin / Java 8
 ![Reuters Logo](https://bleunguts.github.io/bleunguts/images/tech/ReutersLogo.PNG)
 ![Symphony Logo](https://bleunguts.github.io/bleunguts/images/tech/SymphonyLogo.PNG)
 ![Splunk Logo](https://bleunguts.github.io/bleunguts/images/tech/splunklogo.PNG)
+
 ![Rider Logo](https://bleunguts.github.io/bleunguts/images/tech/RiderLogo.PNG)
 ![VS Logo](https://bleunguts.github.io/bleunguts/images/tech/VsLogo.PNG)
 ![Kotlin Logo](https://bleunguts.github.io/bleunguts/images/tech/kotlinlogo.PNG)
 ![Intellij Logo](https://bleunguts.github.io/bleunguts/images/tech/IntellijLogo.PNG)
+
 
 ![CS Logo](https://bleunguts.github.io/bleunguts/images/CSlogo.PNG) 
 ![CA Logo](https://bleunguts.github.io/bleunguts/images/CreditAgricolelogo.PNG)
