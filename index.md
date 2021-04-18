@@ -11,12 +11,13 @@ Other Languages: Kotlin / Java 8
 
 ![CSharp Logo](https://bleunguts.github.io/bleunguts/images/tech/csharplogo.PNG)
 ![Cpp Logo](https://bleunguts.github.io/bleunguts/images/tech/cpluspluslogo.PNG)
-![Kotlin Logo](https://bleunguts.github.io/bleunguts/images/tech/kotlinlogo.PNG)
 ![DotNet Logo](https://bleunguts.github.io/bleunguts/images/tech/DotNetCoreLogo.PNG)
 ![AspNet Logo](https://bleunguts.github.io/bleunguts/images/tech/AspNetLogo.PNG)
 ![Reactive Logo](https://bleunguts.github.io/bleunguts/images/tech/ReactiveLogo.PNG)
 ![WPF Logo](https://bleunguts.github.io/bleunguts/images/tech/WPFLogo.PNG)
 ![ActiveMQ Logo](https://bleunguts.github.io/bleunguts/images/tech/ActiveMQLogo.PNG)
+![Kotlin Logo](https://bleunguts.github.io/bleunguts/images/tech/kotlinlogo.PNG)
+
 ![Fix Logo](https://bleunguts.github.io/bleunguts/images/tech/FixLogo.PNG)
 ![Reuters Logo](https://bleunguts.github.io/bleunguts/images/tech/ReutersLogo.PNG)
 ![Symphony Logo](https://bleunguts.github.io/bleunguts/images/tech/SymphonyLogo.PNG)
