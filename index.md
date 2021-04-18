@@ -21,8 +21,8 @@ Other Languages: Kotlin
 ![Kotlin Logo](https://bleunguts.github.io/bleunguts/images/tech/kotlinlogo.PNG)
 ![Intellij Logo](https://bleunguts.github.io/bleunguts/images/tech/IntellijLogo.PNG)
 ![ActiveMQ Logo](https://bleunguts.github.io/bleunguts/images/tech/ActiveMQLogo.PNG)
+![Symphony Logo](https://bleunguts.github.io/bleunguts/images/tech/SymphonyLogo.PNG)
 
 ![Fix Logo](https://bleunguts.github.io/bleunguts/images/tech/FixLogo.PNG)
 ![Reuters Logo](https://bleunguts.github.io/bleunguts/images/tech/ReutersLogo.PNG)
-![Symphony Logo](https://bleunguts.github.io/bleunguts/images/tech/SymphonyLogo.PNG)
 ![Splunk Logo](https://bleunguts.github.io/bleunguts/images/tech/splunkenterpriselogo.PNG)
