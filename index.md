@@ -41,7 +41,7 @@ These include:
 * software sales and rapid prototyping
 * high-end business scaling with distributed computing & computing grids
 * working with cross-regional disparate teams
-* passion for end-user deliver and a permeating CAN DO attitude!
+* passion for end-user delivery and a permeating CAN DO attitude!
 
 ## GitHub Projects
 * FX real-time trading app on [github](https://github.com/bleunguts/FXTrader)
