@@ -8,7 +8,7 @@ Period | Title | Link
 ------------ | ------------- | -------------
 Sep2013 - Apr 2020 | Equity Derivatives Risk Developer @ Credit Suisse | **[2020-2013](https://bleunguts.github.io/bleunguts/portfolio2020)**
 Jan 2013 – Aug 2013	| FX WPF C# GUI Developer @ Lloyds | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** 
-Feb 2012 – Jan 2013	| FX Low Latency Pricing & Execution C# Developer Credit Agricole | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** 
+Feb 2012 – Jan 2013	| FX Low Latency Pricing & Execution C# Developer @ Credit Agricole | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** 
 Apr 2011  - Jan 2012 |Commodities C# Developer @ Trafigura | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** 
 Mar 2010 – Oct 2010	| C# Developer @UBS | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** 
 Jan 2009 – Jan 2010	| C# Developer @ IGT | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** 
