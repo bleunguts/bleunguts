@@ -1,7 +1,7 @@
 **[CLICK HERE FOR CV PORTFOLIO](https://bleunguts.github.io/bleunguts/portfolio)** 
 # Summary
 
-C# / C++ Financial Engineering Analyst Developer 
+C# / C++ Analyst Developer specializing in Financial Markets / Engineering 
 
 Core Skills: C# / C++ .NET
 
