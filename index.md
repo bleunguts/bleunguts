@@ -11,6 +11,7 @@ Other Languages: Kotlin / Java 8
 
 ![CSharp Logo](https://bleunguts.github.io/bleunguts/images/tech/csharplogo.PNG)
 ![Cpp Logo](https://bleunguts.github.io/bleunguts/images/tech/cpluspluslogo.PNG)
+![Kotlin Logo](https://bleunguts.github.io/bleunguts/images/tech/kotlinlogo.PNG)
 ![DotNet Logo](https://bleunguts.github.io/bleunguts/images/tech/DotNetCoreLogo.PNG)
 ![AspNet Logo](https://bleunguts.github.io/bleunguts/images/tech/AspNetLogo.PNG)
 ![Reactive Logo](https://bleunguts.github.io/bleunguts/images/tech/ReactiveLogo.PNG)
@@ -23,7 +24,6 @@ Other Languages: Kotlin / Java 8
 
 ![Rider Logo](https://bleunguts.github.io/bleunguts/images/tech/jetbrainsriderlogo.PNG)
 ![VS Logo](https://bleunguts.github.io/bleunguts/images/tech/VsLogo.PNG)
-![Kotlin Logo](https://bleunguts.github.io/bleunguts/images/tech/kotlinlogo.PNG)
 ![Intellij Logo](https://bleunguts.github.io/bleunguts/images/tech/IntellijLogo.PNG)
 
 
