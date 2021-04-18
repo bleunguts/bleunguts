@@ -26,9 +26,3 @@ Other Languages: Kotlin
 ![Reuters Logo](https://bleunguts.github.io/bleunguts/images/tech/ReutersLogo.PNG)
 ![Symphony Logo](https://bleunguts.github.io/bleunguts/images/tech/SymphonyLogo.PNG)
 ![Splunk Logo](https://bleunguts.github.io/bleunguts/images/tech/splunkenterpriselogo.PNG)
-
-
-
-
-[editor on GitHub](https://github.com/bleunguts/bleunguts/edit/gh-pages/index.md)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
