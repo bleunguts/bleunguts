@@ -27,6 +27,22 @@ Other Languages: Kotlin
 ![Reuters Logo](https://bleunguts.github.io/bleunguts/images/tech/ReutersLogo.PNG)
 ![Fix Logo](https://bleunguts.github.io/bleunguts/images/tech/FixLogo.PNG)
 
+## Consultancy Experience
+I have been in the industry for 20 years starting my career in start-ups and body shops with the first decade focusing on engineering applications (door controllers, smart card, elevator control).  In 2008 I decided to move to UK to specialize in finance domain and have been working for investment banks and other financial institutions.
+
+I have acquired a diverse range of skills having been involved in consultancy and large firms throughout the software inception to delivery phase.
+
+These include:
+* core software development
+* strong focus on business analysis and client-facing
+* data analytics in splunk, dashboards, alerts design to capture business intelligence
+* release maangement and coordination for large systems with many dependent sub-systems
+* software end-user group training & presentation
+* software sales and rapid prototyping
+* high-end business scaling with distributed computing & computing grids
+* working with cross-regional disparate teams
+* passion for end-user deliver and a permeating CAN DO attitude!
+
 ## GitHub Projects
 * FX real-time trading app on [github](https://github.com/bleunguts/FXTrader)
 * SOLID pricinples CoffeeMaker implementation on [github](https://github.com/bleunguts/CoffeeMaker)
