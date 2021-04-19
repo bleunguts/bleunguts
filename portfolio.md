@@ -20,7 +20,7 @@ Feb 2003 – Jun 2003	| C# ASP.NET/ J2EE Web Developer @ FarEdge | **[2003-2000]
 Aug 2000 – Feb 2001	| C++ Hardware Developer @ Basis Design | **[2003-2000](https://bleunguts.github.io/bleunguts/portfolio2003)**
 
 
-\* *Portfolios describe projects and achievements with in-depth details compare with that of my CV.* 
+\* *Portfolios describe projects and achievements with greater detail than my CV.* 
 
 ![CS Logo](https://bleunguts.github.io/bleunguts/images/CSlogo.PNG) 
 ![CA Logo](https://bleunguts.github.io/bleunguts/images/CreditAgricolelogo.PNG)
