@@ -7,7 +7,7 @@ Core Skills: C# / C++ .NET
 
 Other Languages: Kotlin 
 
-*An in-depth detailed portfolio of my work experience is available* *[here](https://bleunguts.github.io/bleunguts/portfolio)*
+*An in-depth detailed portfolio describing my work experience is available* *[here](https://bleunguts.github.io/bleunguts/portfolio)*
 
 ![CSharp Logo](https://bleunguts.github.io/bleunguts/images/tech/csharplogo.PNG)
 ![Cpp Logo](https://bleunguts.github.io/bleunguts/images/tech/cpluspluslogo.PNG)
