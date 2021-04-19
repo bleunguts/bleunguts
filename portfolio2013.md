@@ -3,7 +3,7 @@
 
 _This section outlines the projects I have been involved in during the period 2008 – 2013._
 
-# Lloyds (BJSS consultant)
+# Lloyds
 
 **Period** _:_ Feb &#39;13 - Sep &#39;13
 
@@ -24,7 +24,7 @@ _This section outlines the projects I have been involved in during the period 20
 - Implemented features related to Dodd Frank regulations with enhancements to the model pricing configuration module used by trading to configure the FX pricing models
 - Coordinated face-to-face with the trading desk to source requirements for a WPF custom control which presented traders with a hybrid dropdown and check box control with tool tips to help them select different pricing configurations
 
-# Credit Agricole (BJSS consultant)
+# Credit Agricole
 
 **Period** _:_ Feb &#39;12 – Feb &#39;13
 
@@ -50,7 +50,7 @@ _This section outlines the projects I have been involved in during the period 20
 - Participating in the team which implemented price and trader spreads stream aggregation push-based SOA design pattern, an extension to the existing price/spread tick pub sub model
 - Conducted Root cause Analysis for trading losses which involved investigating price and order execution logs. Commonly related to latency and system latency tolerance limit, so isolated offending code, and utilized Redgate Performance Profiler to isolate limiting code. Presented and resolved performance designs to the price subscription and trade execution pipeline.
 
-# Trafigura (BJSS consultant)
+# Trafigura
 
 **Period** _:_ Apr &#39;11 – Jan &#39;12
 
