@@ -36,14 +36,14 @@ These include:
 * core software development
 * strong focus on business analysis and client-facing
 * data analytics in splunk, dashboards, alerts design to capture business intelligence
-* release maangement and coordination for large systems with many dependent sub-systems
+* release management and coordination for large systems with many dependent sub-systems
 * software end-user group training & presentation
 * software sales and rapid prototyping
 * high-end business scaling with distributed computing & computing grids
-* working with cross-regional disparate teams
+* working with cross-regional disparate teams in open source git PR platforms
 * passion for end-user delivery and a permeating CAN DO attitude!
 
 ## GitHub Projects
 * FX real-time trading application looking at engineering concepts in scalability on [github](https://github.com/bleunguts/FXTrader)
-* My implemention of the SOLID pricinples CoffeeMaker on [github](https://github.com/bleunguts/CoffeeMaker)
+* My implemention of the SOLID pricinples Coffee Maker Mark IV on [github](https://github.com/bleunguts/CoffeeMaker)
 * Options Pricing C++ demo working with monte-carlo and blackscholes routines [github](https://github.com/bleunguts/OptionsPricerCpp)
