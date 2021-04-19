@@ -3,7 +3,7 @@
 
 _This section outlines the projects I have been involved in during the period 2008 – 2013._
 
-# Credit Agricole
+# Credit Agricole (BJSS consultant)
 
 **Period** _:_ Feb &#39;12 – Feb &#39;13
 
@@ -11,25 +11,25 @@ _This section outlines the projects I have been involved in during the period 20
 
 **Team Members:** 10+
 
-**Technologies:** C#, Winforms, Infragistics Windows Controls, low-latency development, .NET remoting, ECN FIX protocol, TypeMock, ANTS Performance Profiler, Reactive Extensions (RX)
+**Technologies:** C#, Winforms, Infragistics Windows Controls, low-latency, .NET remoting, ECN FIX protocol, TypeMock, ANTS Performance Profiler, Reactive Extensions (RX)
 
 **Environments:** Windows
 
-**Methodology:** Agile, Design Patterns for price/spread tick subscription model
+**Methodology:** Agile
 
-**Description:** Foreign Exchange eCommerce in-house system low-latency real-time pricing and trading execution platform. The Winform GUI system subscribes to RMDS Reuters price ticks and calculates and publishes sales prices to external clients through ECN FIX channels (360T, FXALL,RTFX) and for internal traders via a Request For Quote (RFQ) or auto-trading config screens.
+**Description:** In house eCommerce FX low-latency real-time pricing and trading execution platform. The GUI subscribes to RMDS Reuters price ticks and calculates and publishes sales prices to external clients through ECN FIX channels (360T, FXALL,RTFX) and for internal traders via a Request For Quote (RFQ) or auto-trading configuration screen.
 
 **Projects:**
 
 - Developing enhancements and support for new products for the following asset classes FX Spot, FX Forwards, FX Swaps, Options (Vanilla Sales &amp; Structured FX)
 - Included spread calculation based on traders and sales spread building forward points for corresponding derivative products (Forwards, Swaps, Options)
-- Streaming new RICS from RMDS to generate live price ticks as input to the eCommerce system, implemented resilence due to dropped price ticks via conflation
+- Streaming new RICS from RMDS to generate live price tick input feed into the eCommerce platform, Implemented conflation of dropped price ticks improving overall system resilience.
 - Support new QuickFix protocol ECN (360T, FXALL) for publishing prices to external downstream market interbank platforms
-- Cash Deal Request for Quote(RFQ) GUI development screen for in-house traders to add their spreads before executing trades
-- Implemented price and trader spreads stream aggregation push-based SOA design
-- Root cause Analysis for trading losses which involved investigating price and order execution issues via log file inspection related to latency (system latency tolerance limit). Identified business critical doing code performance analysis using Redgate Performance Profiler &amp; performance counters. Presented and resolved performance designs to the price subscription and trade execution pipeline.
+- Cash Deal Request for Quote(RFQ) GUI development screen for traders to add their spreads in the FX pricing module
+- Participating in the team which implemented price and trader spreads stream aggregation push-based SOA design pattern, an extension to the existing price/spread tick pub sub model
+- Conducted Root cause Analysis for trading losses which involved investigating price and order execution logs. Commonly related to latency and system latency tolerance limit, so isolated offending code, and utilized Redgate Performance Profiler to isolate limiting code. Presented and resolved performance designs to the price subscription and trade execution pipeline.
 
-# Lloyds
+# Lloyds (BJSS consultant)
 
 **Period** _:_ Feb &#39;13 - Sep &#39;13
 
@@ -37,20 +37,20 @@ _This section outlines the projects I have been involved in during the period 20
 
 **Team Members:** 3
 
-**Technologies:** WPF, C# .NET 4.5, PRISM, MVVM, WPFToolkit, NUnit, WCF Soap Webservices
+**Technologies:** WPF, C# .NET 4.5, PRISM, MVVM, WPFToolkit, NUnit, WCF SOAP WebServices
 
 **Environments:** Windows
 
 **Methodology:** Agile
 
-**Description:** WPF GUI development for LBG&#39;s core ecommerce FX system responsible for markup structuring and model pricing configuration store. WCF GUI client interfacing via WCF Web services to a Java Soap webservice.
+**Description:** WPF GUI development for LBG&#39;s core ecommerce FX system responsible for mark-up structuring and model pricing configuration store. WCF GUI client interfacing via WCF Web services with the Java SOAP web server.
 
 **Projects:**
 
-- Implemented features related to Dodd Frank regulations by developing enhancements to the model pricing configuration used by trading to collaborate their FX pricing models
-- Speaking directly with the trading desk to source requirements for a WPF custom control which presented traders with a hybrid dropdown and check box control with tool tips to help them select different pricing configurations
+- Implemented features related to Dodd Frank regulations with enhancements to the model pricing configuration module used by trading to configure the FX pricing models
+- Coordinated face-to-face with the trading desk to source requirements for a WPF custom control which presented traders with a hybrid dropdown and check box control with tool tips to help them select different pricing configurations
 
-# Trafigura
+# Trafigura (BJSS consultant)
 
 **Period** _:_ Apr &#39;11 – Jan &#39;12
 
@@ -58,26 +58,26 @@ _This section outlines the projects I have been involved in during the period 20
 
 **Team Members:** 30 +
 
-**Technologies:** C#/VB.NET, VS 2008 &amp; VS 2010, WPF, WiX, MSBuild, VB6, Teamcity, Sql Server, NUnit, NCoverage, Visual Basic 6, SAP Business Objects
+**Technologies:** C#/VB.NET, VS 2008/2010, WinForms, WiX, MSBuild, VB6, Teamcity, NCoverage, SQL Server, NUnit, VB 6, SAP Business Objects
 
 **Environments:** Windows
 
 **Methodology:** Agile
 
-**Description:** Lead developer (BJSS) for Trafigura&#39;s integral Oil &amp; Metals legacy enterprise platform. Supervision and mentoring 10+ team members in the implementation &amp; delivery of development effort.
+**Description:** Lead developer for Trafigura&#39;s Oil &amp; Metals legacy enterprise platform. Supervision and mentoring 10+ team members with implementation &amp; delivery.
 
 **Consultancy Experience** :
 
 One of the major things our consultancy team came in to solve was the sensitivity of the releasing to the production and the impact of defects.
 
-I drove innovations to enhance code quality, code analytics, devising global development standards, team hiring and building for the trade capture and derivatives trading system
+I drove innovations to enhance code quality, code analytics, devising development best practices and coding standards, team hiring for developing the trade capture trading system.
 
-Achieved client recognition and awarded exclusivity multiplying our consultancy headcount more than ten fold
+Achieved client recognition and gained exclusivity for BJSS, yielding an explosion of consultancy headcount deeming this a consultancy success for our consultancy.
 
 **Projects:**
 
-- Front office/Middle office development for Trafigura&#39;s integral platform in Trade Capture, Derivatives trading (primarily Oil &amp; NATGAS Futures/Options/Swaps)
-- Implemented additional BS model calibration parameters in the Oils Options module
+- Middle office development for Trafigura&#39;s integral platform in Trade Capture, Derivatives trading (primarily Oil &amp; NATGAS Futures/Options/Swaps)
+- Implemented additional BlackScholes model calibration parameters in the Oils Options module
 - Release management activities which include coordinating with up to seven teams to bring release artefacts into a global &amp; volatile production environment
 
 -
@@ -88,25 +88,25 @@ Achieved client recognition and awarded exclusivity multiplying our consultancy 
 
 **Length** _:_ 7 months
 
-**Team Members:** 5 (1 PM, 3 offshore devs)
+**Team Members:** 5 (1 PM, 3 offshore developers)
 
 **Technologies:** C# 3.5 .NET, .NET XML Web Services, VC++8, SVN SQL Server 2005, NUnit, WiX C++ Extensions, Wise for Windows MSI
 
 **Environments:** Windows
 
-**Methodology:** Agile, Cruise Control, Trac
+**Methodology:** Agile, Cruise Control
 
-**Description:**
+**Description:** I acted as the C#/C++ Architect responsible for leading development of the self-service products and deployment tools for the &#39;Distributed Storage System group&#39; at UBS.
 
-I acted as the C#/C++ Architect which was responsible for leading development of the self-service products and deployment tools for the &#39;Distributed Storage System group&#39; at UBS.
+Helped shape the engineering roadmap work which required revisions to the architecture to give the deployment tools used by UBS staff a plug-and-play feature architecture.
 
-Helped shape the engineering/roadmap work which required revisions to the architecture to give the deployment tools used by UBS staff a pluggable feature architecture .
-
-The core product was ADT Studio deployment tool for traders working in Fixed income (FIRC), FX (FXCCT) and Equities
+The core product was ADT Studio used by traders in Fixed income (FIRC), FX (FXCCT) and Equities to browse and install UBS in-house software.
 
 **Projects:**
 
 - C# feature development for ADT Studio packaging tool with a C++ gateway
+- Conceptualized and Designed Plugin SDK for bank app owners to write their own plugins that they can drop into ADT Studio enabling their new apps to be downloaded by traders
+- Refactored code with dependency inversion principle so that the primary SDK interfaces can be offered to consumers of the Plugin SDK
 - Development of folder/file security to adhere to UBS security policy standards
 - Development of authentication and authorization via Active Directory groups
 - Technology assessment BITS (Background Information Transfer Service) a WIN32 COM API for downloading and uploading files via http inbuilt into win32 kernel
@@ -118,7 +118,7 @@ The core product was ADT Studio deployment tool for traders working in Fixed inc
 
 **Length** _:_ 1 year
 
-**Team Members:** 4 (1 scrum master, 3 devs)
+**Team Members:** 4 (1 scrum master, 3 developers)
 
 **Technologies:** C# 3.5.NET, LINQ, Remoting, WCF, MS UnitTest, MoQ, Windsor IoC, VC++ 7, SQL Server 2005, Game Machine Protocol Development, WPF
 
@@ -126,16 +126,14 @@ The core product was ADT Studio deployment tool for traders working in Fixed inc
 
 **Methodology:** Scrum plugin for TFS, TFS Team Explorer, TDD
 
-**Description:**
-
-IGT has been the leading company specializing in design, manufacturing, distribution and sales of computerized gaming equipment. Greenfield development of a new CVT gaming system which manages an enterprise of FOBT betting terminals (C# server, C++ transport layer, .NET 3.5)
+**Description:** IGT specializes in design, manufacturing, distribution and sales of computerized gaming equipment. This role involved Greenfield development of a new CVT gaming system which manages an enterprise of FOBT betting terminals (C# server, C++ transport layer, .NET 3.5)
 
 **Projects:**
 
-- Develop orchestrating system that distributes game packages to hardware game terminals. (C#, gaming protocol SSAS)
-- Develop communications to BetServer C++ that receives a random seed for betting outcome calculations
-- Implementing features on the Ticket in and Ticket out bet terminal management module (C#)
-- Estate wide reporting module of gaming terminal PnL.
+- Developed orchestrating system that distributes game packages to hardware game terminals. (C#, gaming protocol SSAS)
+- Developed communications to BetServer C++ that receives a random seed for betting outcome calculations
+- Implemented features on the Ticket in and Ticket out bet terminal management module (C#)
+- Developed estate wide reporting module of gaming terminal PnL.
 
 # Goldman Sachs
 
@@ -143,69 +141,54 @@ IGT has been the leading company specializing in design, manufacturing, distribu
 
 **Length** _:_ 10 months
 
-**Team Members:** 200+ strategists (5 x teams Core QA, Core Install, Core Devs, Core Dbs, Quant Core Devs)
+**Team Members:** 100+ strategists (5 teams in Core; Core QA, Core Install, Core Devs, Core Dbs, Quant Core Devs)
 
-**Technologies:** Slang SecDb, secdb inbuilt routines, quant routines, markup-language,
-
-dynamic table market data generation API, UI toolkit API
+**Technologies:** Slang SecDb, Secdb inbuilt routines, quant routines, markup-language, dynamic table market data generation API, UI toolkit API
 
 Low level diagnosis; VC++ 6 / 8, Java 1.4/1.6, Shell Scripting, CVS
 
-pricing models tests algorithms, quantitative routines, automated regression testing Infrastructure development, slang technology tools, issue tracking tools, performance analysis tools development
+Pricing models tests algorithms, quantitative routines, automated regression testing Infrastructure development, Slang technology tools, issue tracking tools, performance analysis tools development
 
 **Environments:** Windows / RHEL4 Linux / Solaris
 
-**Methodology:** Agile
+**Methodology:** Open Source, Code Approvals
 
-**Description:**
+**Description:** As a Core QA strategist we are expected to employ our leadership and intiative in identifying areas within the platform that require a QA focus and act at an electrifying pace to take said issues to resolution in such a fast-paced, complex, mission critical environment. SecDb distributes financial calculations units world-wide via its in-house compute grid and spans over equities, commodities, fixed income, IRP, new markets worldwide (NY, LDN, TKO, HK, BGL).
 
-As a Goldman&#39;s core strategies QA member we are given a sole focus, teams to communicate with leadership and initiative we identify areas within the environment that require a QA focus and take to resolution. This strategies model is imperative in such a fast-paced, critical investment banking context.
+I worked on a regular basis with the world-class team of core devs core quant team, core install team, desk strategists focusing on the relentlessly tight bi-weekly SecDB releases.
 
-As part of Core QA team we deal with complex Quality Assurance techniques, such as code inspection of design flaws / possible future defects, handling implied assumptions from developer to developer, building a timely distributed regression testing daily infrastructure for global testing, analysis of cyclomatic complexity of code, and ultimately, low level API test crafting for complex code entry points.
+This involved but not limited to capturing production issues from desks or working laterally through code inspection and investigating owners and impacted parties via rapidly programming Slang scripts.
 
-Scalability and performance issues identification through code inspection, engineering techniques are also a crucial instrument as we are dealing with highly transactional, mission critical pricing/trading systems world wide.
+Code inspection to identify design flaws and following-up with analysis of such impact, risk and potential future issues to improve the code base, and was frequently involved in code inspection to identify scalability and performance issues during times of volatile trading volumes.
 
-Working as part of the core strategies team focusing in quality assurance in bi-weekly releases Slang / SecDb (Goldman Sachs financial programming platform). As a QA Operations Strategist, my role involves working closely with a world-class team of core developers, core quant team, core install team, desk strategists / traders focusing on high quality releases that are distributed to all financial units world-wide (equities, commodities, fixed income, IRP, new markets in NY, LDN, TKO, HK, BGL).
+Implementing improvements &amp; fine-tuning to ensure the timely delivery of the distributed regression rig results was a regular task, analysing of cyclomatic complexity of code to unveil potential issues in code, crafting tests for low level API code entry points such as popular programming paradigms that Slang exhibits.
 
-Working in a dynamic, high-paced &amp; with highly complex financial/API-level applications, judgment &amp; team collaboration skills are imperative as global releases have a direct impact on the bottom line of Goldman Sachs.
+Especially when sifting through contradictory implied assumptions from developer to developer, judgment &amp; team collaboration skills were imperative as global releases have a direct impact on the bottom line of Goldman Sachs.
 
-**Acheivements:**
+**Achievements:**
 
-- Major strength is in root-cause analysis of problem, suggesting solution to developer. My breadth of knowledge in programming languages allows me to effectively identify root cause (C++, Java, .NET).
+- Major strength is in root-cause analysis of problem, proposing solutions to core developers. My breadth of knowledge in programming languages allowed me to be effective in identifying root cause (C++, Java, .NET).
 - Balance of prioritization, liaising with skilled team members, making right judgments is a day-to-day aspect and plays a crucial part to the tight bi-weekly release schedule
-- Successfully conceptualized + implementing workflow enhancements into our existing QA Dashboard system (Slang). This required reacting responsively &amp; accurately to introducing changes in current procedures usually via designing eWorkflow enhancements, taking defects to resolution in a timely matter.
-- Contributed in improving core software release success rate from 5% to 100% (through diligent process optimization &amp; team command), thereafter was assigned responsible for signing off global releases of Slang / SecDb. Commended by upper management for improving the quality of global releases dramatically!
-- Working with team to bring resolution countless defects &amp; flaws in code preventing down-time in real-time trading systems effectively saving costs
-- Implemented / revised performance impact of releases which plays particular importance when introducing new OS platforms. Successfully drove QA process for VC6 to VC8 (.NET) upgrade for all applications/computers world-wide. With my experience of VC++ migrations to .NET and understanding of memory / speed potential issues. In 2006 core has failed to release VC8 because of the complexity of a global upgrade from legacy VC6 to VC8. With my knowledge &amp; strategic planning, Goldman Sachs world-wide now utilizes VC8 for all its pricing/financial applications.
-- Have experience with dealing with financial pricing applications,
-- Have crafted the Core QA presence in LDN – I started off as the sole member in LDN needing to determine, the requirements of the role, how to best utilize the differences in time-zones between LDN + NY. Successfully conceptualized + implementing workflow enhancements into our existing QA Dashboard system (Slang). This required reacting responsively &amp; accurately to introducing changes in current procedures usually via designing eWorkflow enhancements using Slang &amp; SecDb. My contribution has allowed LDN team to grow reaching 2 members now.
-- Improved core software release success rate from 5% to 100% (through diligent process optimization &amp; team command), thereafter was assigned responsible for signing off global software releases.
-- Implemented / revised performance impact of releases which plays particular importance when introducing new OS platforms. Successfully drove QA process for VC6 to VC8 (.NET) upgrade for all applications/computers world-wide. With my experience of VC++ migrations to .NET and understanding of memory / speed potential issues, Goldman Sachs world-wide now utilizes VC8 for all its pricing/financial applications.
+- Contributed in improving core software release success rate from 5% to 100% (through diligent process optimization &amp; team command), thereafter received recognition by the Core team and thereafter I was assigned responsible for final signing off of SecDb releases. Commended by upper management for improving the quality of global releases!
+- Working with team to bring resolution of many defects &amp; flaws in code that was inflicting down-time in real-time trading which consequently reduced system risk.
+- Successfully drove QA process for VC6 to VC8 (.NET) upgrade for all applications/computers world-wide. In 2006 core has failed to release VC8 because of the complexity of a global upgrade from legacy VC6 to VC8. Leveraging from my prior experience in VC++ migrations to .NET and depth of understanding in memory / performance potential issues Goldman Sachs world-wide now utilizes VC8 for all its pricing/financial applications.
+- Gained experience with dealing with financial pricing applications
+- Created the Core QA presence in LDN – I started off as the sole member in LDN needing to determine, the requirements of the role, how to best utilize the differences in time-zones between LDN and NY. My contribution has allowed the LDN team to grow to two members as per date.
+- Successfully conceptualized and implemented workflow enhancements into our existing QA Dashboard in Slang. Required accurate identification of workflow inefficiencies, implementing the enhancement and socializing in a timely matter.
 
 **Projects:**
 
-- RAMS (Regression Analysis) distributed calcs running on EventD (in-house grid built on C++ CORBA)
+- RAMS (Regression Analysis) distributed over 1 billion calculation units running on the in-house grid to test regressions in releases or pricing sensitive changes
 - Price regression analysis on all SecDb assets (equities, commodities, fixed income, IRP)
-- Day-to-day PreProd differences analysis, analysis of test results including pricing model tests, pricing variation results, SecDb Core technology test results. As it is infeasible for tests to always cover every aspect of system, inspection of code to identify flaws in design plays a very important role in preventing defects from hitting production.
-- Conceptualize, implement and refine test algorithms for our cutting-edge proprietary systems, based on inspection of application code, known defects and very limited functional requirements.
-- Critique &amp; offer analysis/solutions to C++ models / quant routines that are pricing incorrectly
+- Day-to-day PreProd differences analysis, analysis of test results including pricing model tests, pricing variation results, SecDb Core technology test results.
+
+As it is infeasible to achieve test coverage for every aspect of system, pioneered an idea to use code inspection as to identify flaws in design and worked with core devs to resolve issues preventing production defect rate.
+
+- Conceptualize, implement and refine test algorithms systems, based on inspection of application code, known defects and very limited functional requirements.
 - Heavy design + development of workflow tools, Designing &amp; implementing tools for the QA infrastructure are a day-to-necessity at GS.
 - Implemented speed / memory diagnosis tool that helps identify where in application discrepancy exists
-- Tracking desks reports on software release issues, these come in any form email / phone / reasoning. Nature of production defects are critical and have a direct financial impact.
-- Tracking issues that have been reported / found through testing / deduced from inspection to resolution. This requires performing root cause analysis, finding offending developers, working with desks / traders ensuring their applications are in safe position in a highly complex financial environment
-- Root cause analysis of price discrepencies and working with developers to resolve the issue.
-- Worked with Backout Variables to back out problematic features during release
+- Tracking desks reports on software release issues via email or phone or reasoning from communications. As the nature of production defects are critical and often hold financial impact this was a crucial part of my role.
+- Tracking issues that have been reported / found through testing / deduced from inspection to resolution. This requires performing root cause analysis, finding offending developers, working with desks / traders ensuring their applications are in safe position in a highly complex and critical financial environment.
+- Root cause analysis of price discrepancies and working with developers to resolve the issue.
+- Worked with feature switches to back out problematic features during release
 - Worked with development of code quality cyclomatic analysis to provide statistics for slang/secdb code
-- Analysis &amp; delivery of programming solution to critical production defects
-- Code inspection and Design/implementation of faciliting tools in Slang
-- Monitoring issues desks reports on software release issues. Software release defects are critical when they are released in production environments as they can have a direct financial impact.
-  - Tracking issues that have been reported / found through testing / deduced from evidence to resolution. This requires performing root cause analysis, finding developers responsible, working with desks / traders ensuring their applications are in safe position + working with developers to resolve desks problems.
-  - Major strength is in root-cause analysis of problem, suggesting solution to developer. My breadth of knowledge in programming languages allows me to effectively identify root cause (C++, Java, .NET).
-- Monitoring regression test results for different stages of releases.
-  - Analysis of test results including Pricing model tests, Pricing variation results, SecDb core technology test results
-  - Conceptualize, implement and refine test algorithms for our cutting-edge proprietary systems, based on inspection of application code, known defects and very limited functional requirements.
-  - Suggest reasons models or quant routines are pricing incorrectly
-- Heavy design + development of workflow tools, Designing &amp; implementing tools for the QA infrastructure is a day-to-day activity at GS.
-  - Implemented speed / memory diagnosis tool that helps identify where in application discrepancy exists
-  - Implemented changes to our eWorkflow system to allow for improvement in process workflows
-- Balance of prioritization, delegation to more skilled members, managing the tight bi-weekly schedule is crucial to day-to-day work in my role.
