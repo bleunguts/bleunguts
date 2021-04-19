@@ -28,9 +28,9 @@ Other Languages: Kotlin
 ![Fix Logo](https://bleunguts.github.io/bleunguts/images/tech/FixLogo.PNG)
 
 ## Consultancy Experience
-I have been in the industry for 20 years starting my career in start-ups and body shops with the first decade focusing on engineering applications (door controllers, smart card, elevator control).  In 2008 I decided to move to UK to specialize in the domain of finance and have been working for investment banks and other financial institutions since.
+I have been in the industry for 20 years starting my career in start-ups with the first eight years primarily in engineering software (door controllers, smart card, elevator control).  In 2008 I decided to move to UK to specialize in the domain of finance and have been working for investment banks and other financial institutions since.
 
-I have acquired a diverse range of skills as a result and have deoth of experience from software inception and concept development through to construction, delivery and post maintenance cycle.
+I have acquired a diverse range of skills as a result and obtained depth of experience being actively involved with software inception and concept development through to construction, delivery and post maintenance in greenfield and mature products.
 
 These include:
 * core software development
