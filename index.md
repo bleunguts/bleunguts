@@ -44,6 +44,6 @@ These include:
 * passion for end-user delivery and a permeating CAN DO attitude!
 
 ## GitHub Projects
-* FX real-time trading app on [github](https://github.com/bleunguts/FXTrader)
-* SOLID pricinples CoffeeMaker implementation on [github](https://github.com/bleunguts/CoffeeMaker)
-* Options Pricing C++ demo focusing on pricing algorithms on [github](https://github.com/bleunguts/OptionsPricerCpp)
+* FX real-time trading application looking at engineering concepts in scalability on [github](https://github.com/bleunguts/FXTrader)
+* My implemention of the SOLID pricinples CoffeeMaker on [github](https://github.com/bleunguts/CoffeeMaker)
+* Options Pricing C++ demo working with monte-carlo and blackscholes routines [github](https://github.com/bleunguts/OptionsPricerCpp)
