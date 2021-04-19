@@ -3,6 +3,27 @@
 
 _This section outlines the projects I have been involved in during the period 2008 – 2013._
 
+# Lloyds (BJSS consultant)
+
+**Period** _:_ Feb &#39;13 - Sep &#39;13
+
+**Length** _:_ 7 months
+
+**Team Members:** 3
+
+**Technologies:** WPF, C# .NET 4.5, PRISM, MVVM, WPFToolkit, NUnit, WCF SOAP WebServices
+
+**Environments:** Windows
+
+**Methodology:** Agile
+
+**Description:** WPF GUI development for LBG&#39;s core ecommerce FX system responsible for mark-up structuring and model pricing configuration store. WCF GUI client interfacing via WCF Web services with the Java SOAP web server.
+
+**Projects:**
+
+- Implemented features related to Dodd Frank regulations with enhancements to the model pricing configuration module used by trading to configure the FX pricing models
+- Coordinated face-to-face with the trading desk to source requirements for a WPF custom control which presented traders with a hybrid dropdown and check box control with tool tips to help them select different pricing configurations
+
 # Credit Agricole (BJSS consultant)
 
 **Period** _:_ Feb &#39;12 – Feb &#39;13
@@ -28,27 +49,6 @@ _This section outlines the projects I have been involved in during the period 20
 - Cash Deal Request for Quote(RFQ) GUI development screen for traders to add their spreads in the FX pricing module
 - Participating in the team which implemented price and trader spreads stream aggregation push-based SOA design pattern, an extension to the existing price/spread tick pub sub model
 - Conducted Root cause Analysis for trading losses which involved investigating price and order execution logs. Commonly related to latency and system latency tolerance limit, so isolated offending code, and utilized Redgate Performance Profiler to isolate limiting code. Presented and resolved performance designs to the price subscription and trade execution pipeline.
-
-# Lloyds (BJSS consultant)
-
-**Period** _:_ Feb &#39;13 - Sep &#39;13
-
-**Length** _:_ 7 months
-
-**Team Members:** 3
-
-**Technologies:** WPF, C# .NET 4.5, PRISM, MVVM, WPFToolkit, NUnit, WCF SOAP WebServices
-
-**Environments:** Windows
-
-**Methodology:** Agile
-
-**Description:** WPF GUI development for LBG&#39;s core ecommerce FX system responsible for mark-up structuring and model pricing configuration store. WCF GUI client interfacing via WCF Web services with the Java SOAP web server.
-
-**Projects:**
-
-- Implemented features related to Dodd Frank regulations with enhancements to the model pricing configuration module used by trading to configure the FX pricing models
-- Coordinated face-to-face with the trading desk to source requirements for a WPF custom control which presented traders with a hybrid dropdown and check box control with tool tips to help them select different pricing configurations
 
 # Trafigura (BJSS consultant)
 
@@ -191,4 +191,4 @@ As it is infeasible to achieve test coverage for every aspect of system, pioneer
 - Tracking issues that have been reported / found through testing / deduced from inspection to resolution. This requires performing root cause analysis, finding offending developers, working with desks / traders ensuring their applications are in safe position in a highly complex and critical financial environment.
 - Root cause analysis of price discrepancies and working with developers to resolve the issue.
 - Worked with feature switches to back out problematic features during release
-- Worked with development of code quality cyclomatic analysis to provide statistics for slang/secdb code
+- Worked with development of code quality cyclomatic analysis to provide statistics for slang/Secdb code
