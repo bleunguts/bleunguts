@@ -12,7 +12,7 @@ Feb 2012 – Jan 2013	| FX Low Latency Pricing & Execution C# Developer @ Credit
 Apr 2011  - Jan 2012 |Commodities C# Developer @ Trafigura | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** 
 Mar 2010 – Oct 2010	| C# Developer @UBS | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** 
 Jan 2009 – Jan 2010	| C# Developer @ IGT | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** 
-Feb 2018 – Nov 2018	| Core Slang/SecDb Strategist @Goldman Sachs | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** 
+Feb 2008 – Nov 2008	| Core Slang/SecDb Strategist @Goldman Sachs | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** 
 Jul 2005 – Jul 2007	| R&D C#/C++ Software Engineer @Siemens | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007)**
 Jun 2004 – Jul 2005	| Mortgage C# Developer @AMAT | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007)**
 Jul 2003 – Jun 2004	| C#/C++/Java Developer @ UTS | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007)**
