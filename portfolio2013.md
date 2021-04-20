@@ -66,9 +66,7 @@ _This section outlines the projects I have been involved in during the period 20
 
 **Description:** Lead developer for Trafigura&#39;s Oil &amp; Metals legacy enterprise platform. Supervision and mentoring 10+ team members with implementation &amp; delivery.
 
-**Consultancy Experience** :
-
-One of the major things our consultancy team came in to solve was the sensitivity of the releasing to the production and the impact of defects.
+**Consultancy Experience** : One of the major things our consultancy team came in to solve was the sensitivity of the releasing to the production and the impact of defects.
 
 I drove innovations to enhance code quality, code analytics, devising development best practices and coding standards, team hiring for developing the trade capture trading system.
 
