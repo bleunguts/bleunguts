@@ -55,7 +55,7 @@ _ **Description** _ **:** MMM is a real-time multimedia sequencing and laser har
 
 _ **Projects** _ **:**
 
-_MacroMediaManager_
+_Macro Media Manager(MMM)_
 
 - Developed Klystron oscilloscope generator that packs laser positiong coordinates into PCM audio signals via a multiplexer through to the laser mechanical hardware
 - Developed a real-time digital &amp; analog clock that draws the clock sprites with colour out to the laser hardware
