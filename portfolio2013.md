@@ -17,7 +17,7 @@ _This section outlines the projects I have been involved in during the period 20
 
 **Methodology:** Agile
 
-**Description:** WPF GUI development for LBG&#39;s core ecommerce FX system responsible for mark-up structuring and model pricing configuration store. WCF GUI client interfacing via WCF Web services with the Java SOAP web server.
+**Description:** WPF GUI development for LBG&#39;s core ecommerce FX system responsible for mark-up structuring and model pricing configuration store. WPF GUI client interfacing via WCF Web services with the Java SOAP web server.
 
 **Projects:**
 
