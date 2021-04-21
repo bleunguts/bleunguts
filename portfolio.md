@@ -11,7 +11,7 @@ Jan 2013 – Aug 2013	| FX WPF C# GUI Developer @ Lloyds | **[2013-2008](https:/
 Feb 2012 – Jan 2013	| FX Low Latency Pricing & Execution C# Developer @ Credit Agricole | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#credit-agricole)** 
 Apr 2011  - Jan 2012 |Commodities C# Developer @ Trafigura | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#trafigura)** 
 Mar 2010 – Oct 2010	| C# Developer @ UBS | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#ubs)** 
-Jan 2009 – Jan 2010	| C# Developer @ IGT | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#igt)** 
+Jan 2009 – Jan 2010	| C# Developer @ IGT | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#international-gaming-technology-igt)** 
 Feb 2008 – Nov 2008	| Core Slang/SecDb Strategist @ Goldman Sachs | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#goldman-sachs)** 
 Jul 2005 – Jul 2007	| R&D C#/C++ Software Engineer @ Siemens | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007#siemens)**
 Jun 2004 – Jul 2005	| Mortgage C# Developer @ AMAT | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007#amat)**
