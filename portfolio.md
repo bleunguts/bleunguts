@@ -7,17 +7,17 @@ Below is a career snapshot, click on the corresponding link to see an in-depth p
 Period | Title | Link
 ------------ | ------------- | -------------
 Sep2013 - Apr 2020 | Equity Derivatives Risk Developer @ Credit Suisse | **[2020-2013](https://bleunguts.github.io/bleunguts/portfolio2020)**
-Jan 2013 – Aug 2013	| FX WPF C# GUI Developer @ Lloyds | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** 
-Feb 2012 – Jan 2013	| FX Low Latency Pricing & Execution C# Developer @ Credit Agricole | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** 
-Apr 2011  - Jan 2012 |Commodities C# Developer @ Trafigura | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** 
-Mar 2010 – Oct 2010	| C# Developer @UBS | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** 
-Jan 2009 – Jan 2010	| C# Developer @ IGT | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** 
-Feb 2008 – Nov 2008	| Core Slang/SecDb Strategist @Goldman Sachs | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** 
-Jul 2005 – Jul 2007	| R&D C#/C++ Software Engineer @Siemens | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007)**
-Jun 2004 – Jul 2005	| Mortgage C# Developer @AMAT | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007)**
-Jul 2003 – Jun 2004	| C#/C++/Java Developer @ UTS | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007)**
-Feb 2003 – Jun 2003	| C# ASP.NET/ J2EE Web Developer @ FarEdge | **[2003-2000](https://bleunguts.github.io/bleunguts/portfolio2003)**
-Aug 2000 – Feb 2001	| C++ Hardware Developer @ Basis Design | **[2003-2000](https://bleunguts.github.io/bleunguts/portfolio2003)**
+Jan 2013 – Aug 2013	| FX WPF C# GUI Developer @ Lloyds | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#lloyds)** 
+Feb 2012 – Jan 2013	| FX Low Latency Pricing & Execution C# Developer @ Credit Agricole | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#creditagricole)** 
+Apr 2011  - Jan 2012 |Commodities C# Developer @ Trafigura | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#trafigura)** 
+Mar 2010 – Oct 2010	| C# Developer @UBS | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#ubs)** 
+Jan 2009 – Jan 2010	| C# Developer @ IGT | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#igt)** 
+Feb 2008 – Nov 2008	| Core Slang/SecDb Strategist @Goldman Sachs | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#goldmansachs)** 
+Jul 2005 – Jul 2007	| R&D C#/C++ Software Engineer @Siemens | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007#siemens)**
+Jun 2004 – Jul 2005	| Mortgage C# Developer @AMAT | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007#amat)**
+Jul 2003 – Jun 2004	| C#/C++/Java Developer @ UTS | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007#uts)**
+Feb 2003 – Jun 2003	| C# ASP.NET/ J2EE Web Developer @ FarEdge | **[2003-2000](https://bleunguts.github.io/bleunguts/portfolio2003#faredge)**
+Aug 2000 – Feb 2001	| C++ Hardware Developer @ Basis Design | **[2003-2000](https://bleunguts.github.io/bleunguts/portfolio2003#basisdesign)**
 
 
 \* *Portfolios describe projects and achievements with greater detail than my CV.* 
