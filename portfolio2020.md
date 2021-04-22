@@ -21,7 +21,7 @@ _ **Consultancy Experience:** _ Software engineering, Analyst Developer, Complex
 
 _ **Description** _ **:** Giraffe risk management system is the firm&#39;s strategic unification of trading and risk management. The Credit Suisse global franchise Global Markets, Equities, Fixed Income and Prime Brokerage runs off the Giraffe platform worldwide producing accurate data for trading and risk aggregation feeds servicing capital regulatory requirements and business requests from Trading
 
-Awarded the &quot;Risk Management House of the Year 2015 Award&quot; largely contributed to extremely small and fast product test and automated release cycle, well-engineered agile design effort, achieving efficient business requirements response and the risk-related requirements of regulators.
+Awarded the &quot;Risk Management House of the Year 2015 Award&quot; largely contributed to extremely small and fast product test and automated release cycle, well-engineered agile design effort, achieving efficient business requirements response and the risk-related requirements of regulators. https://www.risk.net/awards/2435442/risk-management-house-year-credit-suisse
 
 Among the eco-system of the many micro-services (80+) which constituents the giraffe platform, GIRAFFE core is the orchestrating development team that is the first-line face to trading and regulator&#39;s requirements.
 
