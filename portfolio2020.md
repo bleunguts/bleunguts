@@ -21,7 +21,9 @@ _ **Consultancy Experience:** _ Software engineering, Analyst Developer, Complex
 
 _ **Description** _ **:** Giraffe risk management system is the firm&#39;s strategic unification of trading and risk management. The Credit Suisse global franchise Global Markets, Equities, Fixed Income and Prime Brokerage runs off the Giraffe platform worldwide producing accurate data for trading and risk aggregation feeds servicing capital regulatory requirements and business requests from Trading
 
-Awarded the &quot;Risk Management House of the Year 2015 Award&quot; largely contributed to extremely small and fast product test and automated release cycle, well-engineered agile design effort, achieving efficient business requirements response and the risk-related requirements of regulators. https://www.risk.net/awards/2435442/risk-management-house-year-credit-suisse
+Awarded the &quot;Risk Management House of the Year 2015 Award&quot; largely contributed to extremely small and fast product test and automated release cycle, well-engineered agile design effort, achieving efficient business requirements response and the risk-related requirements of regulators.
+
+[https://www.risk.net/awards/2435442/risk-management-house-year-credit-suisse](https://www.risk.net/awards/2435442/risk-management-house-year-credit-suisse)
 
 Among the eco-system of the many micro-services (60+) which constituents the giraffe platform, GIRAFFE core is the orchestrating development team that is the first-line face to trading and regulator&#39;s requirements.
 
@@ -67,7 +69,7 @@ _ **Length** __:_ ~4 years
 
 _ **Team Members** _ **:**
 
-_ **Technologies** _ **:** C#, ASP.NET Web API 2, COM Interop with native/managed quant libs, Managed vs Unmanaged Memory analysis, Autofac DI, Quartz, KnockoutJS, SignalR, JQuery, Twitter Bootstrap, Typescript, WPF, NinJect, Owin, Nancy, Jquery, Knockout .JS, Telegraf/InfluxDB/Grafana Metrics, Oracle Coherence Cache,CacheCow.NET, ActiveMQ, IBM Symphony 5.0/7.0 Compute Grid, Splunk Enterprise Dashboard design, Splunk Enterprise Monitoring &amp; Alerts Design, Google Proto Buffers, WinDbg Crash Dump analysis, Redgate Memory/Peformance profiler, Nagios, SVN, Git, Teamcity, Octopus Deploy, MongoDB
+_ **Technologies** _ **:** C#, ASP.NET Web API 2, COM Interop with native/managed quant libs, Managed vs Unmanaged Memory analysis, Autofac DI, Quartz, KnockoutJS, SignalR, JQuery, Twitter Bootstrap, Typescript, WPF, NinJect, Owin, Nancy, Jquery, Knockout .JS, Telegraf/InfluxDB/Grafana Metrics, Oracle Coherence Cache,CacheCow.NET, ActiveMQ, IBM Spectrum Symphony 5/7 Grid, Splunk Enterprise Dashboard design, Splunk Enterprise Monitoring &amp; Alerts Design, Google Proto Buffers, WinDbg Crash Dump analysis, Redgate Memory/Peformance profiler, Nagios, SVN, Git, Teamcity, Octopus Deploy, MongoDB
 
 _ **Environments** _ **:** Windows /Linux HA Proxy Load balancers
 
@@ -97,7 +99,7 @@ _GiraffeRT (Giraffe Real-Time Risk Development)_
 
 _Yeti (Compute Grid Submitter)_
 
-- Development of valuation system utilizing grid technologies and bank&#39;s analytics libraries serviced by exposed REST API (ASP.NET WebApi)
+- Development of valuation system utilizing grid technologies and bank&#39;s analytics libraries serviced by exposed REST API (ASP.NET WebApi, IBM Spectrum Symphony 7)
 - Core programming of the IBM Symphony Grid API to launch worker calculations on the compute grid
 - Implementing priority of workload whereby acquired deep knowledge of grid scheduling policies and the internal algorithm of pre-emption of tasks based on priority, selective reclaim of compute resources. This would be exposed via the API to end users so they can prioritize huge workloads to get an idea
 - Designed dashboards to visualize the valuation compute on the grid such that the firm-wide 22,000 compute units can be visualized and monitored and reviewed for bottlenecks to maximise compute usage. Performance metrics were an integral part of periodic business capacity reporting as an attempt to manage the volatility of valuation volumes due to BAU or could be impact of certain design decisions. (Splunk Enterprise Dashboards and Alerts)
