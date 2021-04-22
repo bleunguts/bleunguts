@@ -23,7 +23,7 @@ _ **Description** _ **:** Giraffe risk management system is the firm&#39;s strat
 
 Awarded the &quot;Risk Management House of the Year 2015 Award&quot; largely contributed to extremely small and fast product test and automated release cycle, well-engineered agile design effort, achieving efficient business requirements response and the risk-related requirements of regulators. https://www.risk.net/awards/2435442/risk-management-house-year-credit-suisse
 
-Among the eco-system of the many micro-services (80+) which constituents the giraffe platform, GIRAFFE core is the orchestrating development team that is the first-line face to trading and regulator&#39;s requirements.
+Among the eco-system of the many micro-services (60+) which constituents the giraffe platform, GIRAFFE core is the orchestrating development team that is the first-line face to trading and regulator&#39;s requirements.
 
 As a Giraffe Core developer the responsibilities included coordinating with BAs and Quant team in implementing valuation of PVs &amp; risk for portfolio management, building risk scenarios to meet risk-related regulatory &amp; trading analysis needs, P&amp;L attribution using both revaluation and RBPNL methodologies, asset pricing dependency trees and the associated market data sourcing, price testing against 3rd party benchmark prices to satisfy product control regulatory requirements, trader EOD signoff calculation and overnight batch risk feeding.
 
