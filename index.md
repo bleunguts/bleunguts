@@ -47,3 +47,5 @@ Others include:
 * FX real-time trading application looking at engineering concepts in scalability on [github](https://github.com/bleunguts/FXTrader) 
 * My implemention of the SOLID pricinples Coffee Maker Mark IV on [github](https://github.com/bleunguts/CoffeeMaker)
 * Options Pricing C++ demo working with monte-carlo and blackscholes routines [github](https://github.com/bleunguts/OptionsPricerCpp)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbleunguts.github.io%2Fbleunguts&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
