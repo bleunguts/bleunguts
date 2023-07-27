@@ -124,7 +124,7 @@ _ **Environments** _ **:** Windows
 
 _ **Methodology** _ **:** Scrum plugin for TFS, TFS Team Explorer, TDD
 
-_ **Description** _ **:** IGT specializes in the design, manufacturing, distribution and sales of computerized slot gaming machines. This role involved Greenfield development of a new CVT gaming system which manages an enterprise of FOBT betting terminals (C# server, C++ transport layer, .NET 3.5)
+_ **Description** _ **:** IGT specializes in the design, manufacturing, distribution and sales of FOBT slot gaming terminals. This role involved Greenfield development of a new CVT gaming system which manages an enterprise of FOBT betting terminals (C# server, C++ transport layer, .NET 3.5)
 
 _ **Projects** _ **:**
 
@@ -155,7 +155,7 @@ _ **Description** _ **:** As a Core QA strategist we were expected to employ our
 
 I worked on a regular basis with the world-class team of core devs, core quants, core installs and desk strategists focusing on the unforgivingly tight bi-weekly SecDB releases.
 
-This involved but not limited to capturing production issues from desks or working laterally through code inspection and investigating owners and impacted parties by rapidly programming Slang scripts to traverse the hug, strategic, open-source eco-system.
+This involved but not limited to capturing production issues from desks or working laterally through code inspection and investigating owners and impacted parties by rapidly programming Slang scripts to traverse the strategic, colossal, open-source eco-system deployed on every computer globally within the investment bank.
 
 Code inspection to identify design flaws and following-up with analysis of such impact, risk and potential future issues to improve the code base, and was frequently involved in code inspection to identify scalability and performance issues during times of volatile trading volumes.
 
