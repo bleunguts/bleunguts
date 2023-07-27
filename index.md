@@ -18,8 +18,8 @@ Other Languages: Kotlin
 ![VS Logo](https://bleunguts.github.io/bleunguts/images/tech/VsLogo.PNG)
 ![Rider Logo](https://bleunguts.github.io/bleunguts/images/tech/jetbrainsriderlogo.PNG)
 
+![React Logo](https://bleunguts.github.io/bleunguts/images/tech/ReactLogo3.PNG)
 ![Kotlin Logo](https://bleunguts.github.io/bleunguts/images/tech/kotlinlogo.PNG)
-![React Logo](https://bleunguts.github.io/bleunguts/images/tech/ReactLogo2.PNG)
 ![Intellij Logo](https://bleunguts.github.io/bleunguts/images/tech/IntellijLogo.PNG)
 ![ActiveMQ Logo](https://bleunguts.github.io/bleunguts/images/tech/ActiveMQLogo.PNG)
 ![Symphony Logo](https://bleunguts.github.io/bleunguts/images/tech/SymphonyLogo.PNG)
