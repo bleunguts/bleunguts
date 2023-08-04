@@ -15,7 +15,7 @@ _ **Technologies** _ **:** C#, ASP.NET Core, SQL Server, SSRS, Redgate SQL Compa
 
 React 7, Jest, Enzyme shallow Test, Hooks, Router, States, Pagination, Bootstrap, AG Grid (Group & Pivot, Server-Side chunking), mobx, Typescript, Node JS, SSRS
 
-In-house MQ (over TibcoMQ), ChannelConsole, ChannelWorkbench, Primo Workflows, Primo Winforms-, JANE Quant Analytics, MonteCarlo Valuations
+In-house MQ, ChannelConsole, ChannelWorkbench, Primo Workflows, Primo Winforms-, JANE Quant Analytics, MonteCarlo Valuations
 
 _ **Environments** _ **:** Windows
 
@@ -29,74 +29,71 @@ Describe XVA and primo CVA desk
 
 Describe FRTB project
 
-_ **Projects** _ **:**
-
 We are responsible for the end-to-end delivery of numbers not only just implementation, including close communications with quants
 
-_FRTB CVA Epics_
+_ **Projects** _ **:**
 
-- Capital Breakdown Calculation
+_FRTB Capital Breakdown epic_
 
 FRTB CVA has a bespoke differs that it doesnt care about risk tenors as it aggregates at trade level, it will source risks from accounting. IIt runs capital calc at the end of the workflow and sourced hedge map, hedge allocation, hedge classification, cpty data from reference data in the workflow. It comes up with huge capital number that traders hedge against that capital calc
 
 - Capital Breakdown UI screen which breaks down capital by corporate divisions
-- Cap breakdown streen showing gross capital
-- Investigated inconsitent capital numbers and worked with quants to resolve .. debugged locally the COM calculator by spiking a test harness.
+- Cap breakdown screen showing gross capital
+- Investigated inconsistent capital numbers and worked with quants to resolve, debugged locally the COM calculator by spiking a test harness.
 
-- IMM EE Profile Value Curve sourced from IMM
-
-Initial Margin mandates cpty post collatoral against biltateral OTC derivs.
-
-InitialMargin Model invokes CRMD EE Prfoile in Json format with EEValues per IMM netting agreement. Draw 100 year curve of expsoure 50 horizon dates
-
-- Added hyper link BA-CVA drill down screen of netting set when user clicks EE Profile to pbring up this new modal shows table of EE Curve
-- React table design and batch omparison
-- backend changes of sourcing IMM risk data from Primo EPE service
+_FRTB Capital Calculator Hedges Verification epic_
 
 - Implemented the Hedge Verification MI screen which showed Capital Calc hedges
-  - validates whether hedges run in a batch - hedge routing rules and hedge trades are correct
-  - Had to re-run calc workflows risk data for sa calc, imm SA-CCR is used for BA calc
-  - Had to investigate calc workflow batches and analytics quant calls to ensure risk data as sourced properly, market environment that is built is built properly Risk Inputs, Deltas sources from RS (Results Service)
-- Implemented Hedge Allocation Validation feature
-  - that prevents same hedge and counterparty to be duplicated (React, C# backend changes)
-  - that validate fully allocated hedges 100% allocated per counterparty and hedge trade
-  - publishes hedge allocation for SA-CVA calcs
+- validates whether hedges run in a batch - hedge routing rules and hedge trades in the batch are correct
+- Had to re-run calc workflows risk data for sa calc, imm SA-CCR is used for BA calc
+- Had to investigate calc workflow batches and analytics quant calls to ensure risk data as sourced properly, market environment that is built is built properly Risk Inputs, Deltas sources from RS (Results Service)
 
-- Implemented Exclusion by book control used by global market risk team to run impact analysis
-  - changes to primo trade loading workflow to filter out books, required wiring from TRADES interface into controls microservice and saved to datbase
-  - full ui changes to allow books to be exclusion
-  - Modified netting set -\> trades in a batch screen to show book field
-  - backend changes to save exclusion rule
+_Exclusion by book control epic_
 
-Required full understanding of book sourcing, enriching netting set data with TRADES api
+Implemented Exclusion by book control used by global market risk team to run impact analysis
 
-- Implemented Risk Selection Modal that allows users to select risk CVA, SA-CCR, IMM EAD risk from different batches and follows the workflow to re-run capital calc based on those selected risk Shows pending state in capital run, and after kicking off a run the state management changes to run
+- changes to primo trade loading workflow to filter out books, required wiring from TRADES interface into controls microservice and saved to database
+- full UI changes to allow books to be exclusion
+- Modified netting set -\> trades in a batch screen to show book field
+- backend changes to save exclusion rule
+- Acquired deep understanding of book sourcing, enriching netting set data with TRADES api
 
-    - Had to investigate how risks are sourcd basd on RiskReport and how the valuation workflow calcs those risks
+_IMM EE Curve epic_
 
-- Spearhead UI innovation to use AG-GRID leveraging on the benefits of group & pivot, server-side chunking of huge capital data sets advanced excel exports, we enabled the core FRTB CVA risk results summary page giving trading the ability to pivot on netting set enhancing their managerial reporting efficiencies. we made capital reporting possible because it house 10,000,000 records
+Initial Margin mandates cpty post collateral against bilateral OTC derivs.
 
-    - Fixed CSS checkboxes
-    - designed custom risk selector cell templates which can be applied as a column template to new columns
-    - designed custom counterparty cell template which shows 'Not Found' when downstream systems did not contain counterparty meta data
-    - designed custom error cell template which can be applied as a column template to new columns to inherit a way to popup a detailed error modal with detailed stack information of the error message
-    - designed money cell risk scaling template which can be applied
-    - designed comparison column templates, baseline/selected/delta which allowed traders to compare two batches
-    - react grid look and feel changes
-    - designed overlay for loading screen
-    - debugging UI cells in React using Cell tags
+Initial Margin Model invokes CRMD EE Profile in JSON format with EE Values per IMM netting agreement. Draw 100 year curve of exposure 50 horizon dates
 
-- Hedge Risk Verification - hedges run in a batch that help highlight whether hedge routing rules are setup correctly for hedge trades, like user input of hedge allocation details
+- Added hyper link BA-CVA drill down screen of netting set when user clicks EE Profile to bring up this new modal shows table of EE Curve
+- React table design and batch comparison
+- backend changes of sourcing IMM risk data from Primo EPE service
 
-_FRTB CVA Tickets_
+_React AG-GRID risk summary epic_
 
-- Implmeneted quant calc exception popup that sources exceptions from backend
+Spearhead UI innovation to use AG-GRID leveraging on the benefits of group & pivot, server-side chunking of huge capital data sets advanced excel exports, we enabled the core FRTB CVA risk results summary page giving trading the ability to pivot on netting set enhancing their managerial reporting efficiencies. We made capital reporting possible because it house 10,000,000 records
+
+  - Fixed CSS checkboxes
+  - designed custom risk selector cell templates which can be applied as a column template to new columns
+  - designed custom counterparty cell template which shows 'Not Found' when downstream systems did not contain counterparty meta data
+  - designed custom error cell template which can be applied as a column template to new columns to inherit a way to popup a detailed error modal with detailed stack information of the error message
+  - designed money cell risk scaling template which can be applied
+  - designed comparison column templates, baseline/selected/delta which allowed traders to compare two batches
+  - react grid look and feel changes
+  - designed overlay for loading screen
+  - debugging UI cells in React using Cell tags
+
+_Features_
+
+  - Implemented Hedge Allocation feature by adding validation to prevent same hedge and counterparty to be duplicated, validate total hedges per cpty allocate to 100% allocated per counterparty before publication for the quant SA-CVA calcs. (React, C# backend changes)
+- Implemented Risk Selection Modal that allows users to select risk CVA, SA-CCR, IMM EAD risk from different batches and follows the workflow to re-run capital calc based on those selected risk. Shows pending state in capital run, and after kicking off a run the state management changes to run. Had to investigate how risks are sourced based on RiskReport and how the valuation workflow calcs those risks
+
+- Implemented quant calc exception popup that sources exceptions from backend
 - Fixed issue with applied controls returning wrong numbers for comparison folder
 - Fixed issue with missing reference data deleting entity screen
 - Fixed issue with csv export by migrating to ag-grid
 - Fixed defect with Controls validation of controls
 - Extended batch comparison screens so that risk values show column filter
-- Added dotnet metrics to the RiskService to identify issues with high memory use, analyzed with dotnet tools visualization
+- Added dotnet metrics to the RiskService to identify issues with high memory use, analysed with dotnet tools visualization
 - Enhanced Publishing reference data to file share so it can be sourced via the analytics
 
 # (Credit Suisse) Giraffe Real Time Intraday Risk
@@ -152,4 +149,3 @@ Regression consisted of GoLang runner which triggers Regression Workers that ope
 - Implemented enhancement to Regression Workers to handle Grpc connectivity between RiskSources
 - Resolved challenge when regressing single currency ladder reports (3 million data set like helped setup regressions onto openshift platform and scaled the RegressionWorker processes up with careful tuning of memory to solve this issue
 - Resolved challenge where regression runs timed out after 6 hours, implemented chunking strategy of reports so that RegressionWorkers can process the load in chunks broken down by sub report types
--
