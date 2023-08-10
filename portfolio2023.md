@@ -82,8 +82,6 @@ Implemented EE curve sourcing, EE & maturities are a key input to the BA-CVA com
 
 Spearhead UI innovation to leverage OTS AG-GRID group & pivot, advanced excel exports, server-side chunking to address the huge volume of expected capital requirements data sets.  We piloted the innovation by converting FRTB CVA risk results summary page with success as it gave the desk ability to pivot data to support reporting needs.  This lay the foundation of capital requirements reporting with expected 10 million record sets. (React 7 tables, AG-GRID)
 
-Enhanced features developed that improved future development effort:
-
 
 
     * look and feel changes using ag-grid styles, loading overlay screens using both AG-GRID client side, server-side chunking data models
@@ -107,6 +105,7 @@ Enhanced features developed that improved future development effort:
 * Fixed issue with missing reference data deleting entity screen (React, SQL)
 * Enhanced batch comparison screens so that risk values shows column filter (React 7 tables)
 * Enhanced RiskService with dotnet metrics to identify issues with server crashes due to high memory use (Backend C#, dotnet tools visualization)
+* Commended for my proactive drive, tenacity and team collaboration (as the knowledge was dispersed around members of the team, and infra teams) for setting up the risk system to run locally.  This included setting up various configs, system, profile, pricing configs and running cluster of calc workers, valuation snapshot server, results server, SQL dbs, and analytics configs to run a batch and price properly.
 
 
 # (Credit Suisse) Giraffe Real Time Intraday Risk 
@@ -125,44 +124,43 @@ Java/C# real-time OLAP relational algebra library, Scala, Scala Futures, GoLang,
 
 **_Methodology<span style="text-decoration:underline;">:</span>_** Scrum/Agile, Pair Programming, Micro-services, Legacy code patterns 
 
-**_Consultancy Experience_**: Systems integration risk system rationalisation, Real-time ticking table transformations, solving business delivery issues due to incomplete testing and lengthy releases 
+**_Consultancy Experience_**: Risk system rationalisation & System Integrations, Real-time OLAP relational table transformations, solving business delivery issues due to incomplete testing and lengthy releases 
 
-**_Description<span style="text-decoration:underline;">: </span>_**GRT is recognised as the banks unifying intraday platform (Equities and Rates) boasting simplicity, regularly automated and tested business deliveries and the gold standard of best utilization of the bank’s real-time OLAP relational algebra library which processes huge streams of financial data in real-time per day to be presented to trading as a WPF UI.
+**_Description<span style="text-decoration:underline;">: </span>_**GRT is recognised as the banks unifying intraday platform (for Equities and Rates) boasting simplicity, regular and tested (automated) business deliveries and also known as the gold standard of best utilization of the bank’s real-time OLAP relational algebra lib that processes streams huge financial data sets in real-time per day.
 
-Phase 1 of the risk rationalization programme involved conceptualizing and migration the raptor, the FX Spot & Forwards & Options as well as Spot Ladders, real-time P&L and spot and forwards prices publishing into the wider strategic GRT’s ecosystem.  
+I was involved in ‘Phase 1’ of the risk rationalization programme; migration of the bank’s FX intraday system that also publishes real-time P&L for spot/forwards/spot ladder but for the FX market. 
 
-This was a precedent challenge migrating Raptor which utilizes a different quant analytic stack (functional domain knowledge required, coupled with quant analytics libs) into GRT (looser coupled, tech first, quant second stack) whilst ensuring continual functioning FX desks (30 traders Zurich alone, 90+ users globally) which presented a different challenge of handling 3 million trades per day, and also different sourcing of risk number (direct Grpc tunnels, Redis, via RiskServer) depending on the velocity of trading. 
+The migration of FX into the wider GRT ecosystem, was a challenge as it utilized, different quant stack (a tighter coupling with Risk domain knowledge) into GRT (a looser coupled, tech first stack) whilst keeping FX desks worldwide running (30 traders Zurich alone, 90+ users globally).  The difference in volumes (3 million trades per day) and velocity of trading in the FX system also posed as a significant technical challenge.  
 
-We were responsible for analysing and lifting the risk server, the orchestrating component that streams risk results into the real-time OLAP relational platform hosted on 40+ windows hosts into GRT’s OLAP platform 80+ linux hosts in a staged, no-downtime in order to keep the business features online.  This involved porting table shapes, projections, filters, pivots into the GRT shell (Java/Scala/GoLang), extending the GRT WPF UI service discovery comms layer to hook into these new backend services (WPF/ C#) and modifications to the RiskServer employ Google ProtoBuf / GRPC connectivity to the Redis cache.   
+We decided to lift the risk server into GRT, the cluster of components that streams risk results into the real-time OLAP relational platform (hosted on 40+ Windows hosts) into GRT’s OLAP relation platform (80+ linux hosts) in a staged, no-downtime manner.  This involved development work in porting table shapes, projections, filters, pivots into the GRT shell (Java/Scala/GoLang), extending the GRT WPF UI service discovery comms layer to hook into these new backend services (WPF/ C#) and modifications to the FX RiskServer to support the transport pipe to the redis cache (Google ProtoBuf  GRPC).   
 
-To conclude the delivery of Phase 1, we implemented a risk results regression system that allowed us to validate risk numbers from windows to linux (leveraging some of GRT’s regression techniques) to predominantly address historical FX desk concerns of incomplete testing and lengthy release processes.  (GoLang, Java/Scala, Openshift/Kubernetes)
+We addressed the business concerns of irregular, untested releases by implementing a regression system cherry picking GRT components/patterns that validates risk numbers cross environments, in this case Windows vs Linux (GoLang, Java/Scala, Openshift/Kubernetes).
 
 **_Projects<span style="text-decoration:underline;">:</span>_**
 
 **_Risk Server migration_**
 
-The purpose is to migrate the main risk engine (Risk Server, C# webapi) that served results to UI via RiskAggregation lib via direct Grpc, Redis that also provided users real-time risk results streaming with on-the-fly slicing and dicing (filter,pivots,agg implemented with the in-house DSL)
+The purpose is to migrate the main risk engine (Risk Server, C# WebApi) that served results to the WPF UI through the OLAP relation library to source ticking real-time _risk data_, with on-the-fly pivots, filters, agg ability via various connectors (Grpc connector to RiskServer/Db and Redis).  The on-the-fly slicing and dicing library required us to port the logic using the in-house DSL.
 
 
 
-* Implement changes to RiskServer to decouple the risk streaming module into its own GrpcServer component (C# WebApi)
-* Extended GrpcServer discovery to work with WebU by implementing consul discovery layer into server
-* Refactored and added IoC containerization in Nancy for RiskServer components
-* Extended transformer that code generates the RiskAggregation lib DSL table definitions (1,000+ risk value table shape, joins/filters, projections, aggregation) from FX system to GRT. (GoLang)
-* Extended the WPF UI comms layer to discover the new linux servers based on a user whitelist to facilitate a staged release (C#, WPF)
-* Worked with domain experts to learn how to run risk reports (FX Spot/Forward and the Spot Ladder report) to figure out to validate risk numbers as a post migration test. Setup Ladder, PLExplain report to test changes which required understanding and configuring Trade Loading, Model Parameter setups and making sure valuationDependences were published correctly by the TradeCoordinator
-* Supported issues with migration with WPF GUI UI ticking data streams, implemented an external test to isolate the root cause, fix the issue and build it into the release pipeline.
-* Worked with domain experts on 'On demand risk report runs' 
-* Root cause analysis on GrpcServer hanging on shutdown using memory dumps and VS Parallel Task view.  Developed a test rig to reproduce and resolve the issue to do with too many open tcp connections causing a sync lock issue.
-* Investigated and fix OLAP library JDBC connection issue (RiskAggregation lib, Java Linux)
+* Paired with colleague to decouple the risk streaming into its own GrpcServer component (C# WebApi/SQL)
+* Extended GrpcServer discovery to work with the UI 
+* Extended the WPF UI comms layer to discover the new Linux servers based on a user whitelist to facilitate a staged release (C#, WPF)
+* Extended transformer that code generates the OLAP relational algebra DSL table definitions (1,000+ risk value table shape, joins/filters, projections, aggregation) from FX system to GRT. (GoLang)
+* Worked with domain experts to run risk reports (FX Spot/Forward and the Spot Ladder report) for initial testing in post migration. Gained understanding in Spot Ladder, PLExplain reports, configuring the Trade Loading setups
+* Worked with domain experts on 'On demand risk report runs'  which engages a separate code path as it is not a real-time report
+* Supported issues with migration with WPF GUI UI ticking data streams, implemented an external test to isolate the root cause, fix issues efficiently
+* Refactored RiskServer components to support Nancy IOC
+* Root cause analysis on GrpcServer hanging on shutdown using memory dumps and VS Parallel Task view. 
 
 **_Automated Regressions 	_**
 
-Regression consisted of GoLang runner which triggers Regression Workers that operate on OpenShift/Kubernetes to perform diffs between risk results for  the old system compared with the new system
+The regression system was built with a GoLang runner that triggers regression workers on OpenShift/Kubernetes. Diffs are performed on risk results and flags attention.
 
 
 
-* Extended the regression system to handle windows risk aggregation servers vs linux risk aggregation servers
-* Implemented enhancement to Regression Workers to handle Grpc connectivity between RiskSources
-* Resolved challenge when regressing single currency ladder reports (3 million data set like helped setup regressions onto openshift platform and scaled the RegressionWorker processes up with careful tuning of memory to solve this issue
-* Resolved challenge where regression runs timed out after 6 hours, implemented chunking strategy of reports so that RegressionWorkers can process the load in chunks broken down by sub report types
+* Setting up/instrumentation of regression runs between the old and new environments.
+* Implemented enhancement to Regression Workers to handle Grpc connectivity between RiskSources (In-house OLAP DSL)
+* Resolved challenge when regressing single currency ladder reports (3 million data sets) by scaling up on Openshift.  Configured new workers on the openshift platform and tuned memory consumption to get these heavy regression runs to work  (GoLang, Openshift)
+* Resolved challenge where regression runs timed out after 6 hours, implemented chunking strategy of reports so that RegressionWorkers can process the load in chunks broken down by sub report types.  (Scala)
