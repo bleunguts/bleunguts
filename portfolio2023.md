@@ -84,22 +84,19 @@ Spearhead UI innovation to leverage OTS AG-GRID group & pivot, advanced excel ex
 
 
 
-    * look and feel changes using ag-grid styles, loading overlay screens using both AG-GRID client side, server-side chunking data models
-    * designed comparison column templates, baseline/selected/delta which allowed traders to compare two data between batches
-    * designed custom risk selector cell templates that allowed users to select risk values for different batches
-    * designed custom counterparty cell template, applies UI styling, and 'Not Found' when no counterparty meta data is found
-    * designed money cell risk scaling template, number scaling, and RWA scaling can be applied
-    * designed custom error cell template, applies UI styling, which shows a link to popup of exception stack details
+* look and feel changes using ag-grid styles, loading overlay screens using both AG-GRID client side, server-side chunking data models
+* designed comparison column templates, baseline/selected/delta which allowed traders to compare two data between batches
+* designed custom risk selector cell templates that allowed users to select risk values for different batches
+* designed custom counterparty cell template, applies UI styling, and 'Not Found' when no counterparty meta data is found
+* designed money cell risk scaling template, number scaling, and RWA scaling can be applied
+* designed custom error cell template, applies UI styling, which shows a link to popup of exception stack details
 
 **_Other features_**
 
 
 
-    * Implemented Hedge Allocation validation that ensures hedges allocated per counterparty is 100% hedged before publication for the quant SA-CVA calcs to consume. (React, C# backend)
-* Implemented Risk Selection Modal that allows users to select risk results from different batch runs to re-run capital batches scenarios.
-
-    I conducted acceptance testing to verify low-level calcs was sourcing risk results correctly.
-
+* Implemented Hedge Allocation validation that ensures hedges allocated per counterparty is 100% hedged before publication for the quant SA-CVA calcs to consume. (React, C# backend)
+* Implemented Risk Selection Modal that allows users to select risk results from different batch runs to re-run capital batches scenarios.  I conducted acceptance testing to verify low-level calcs was sourcing risk results correctly.
 * Implemented calc error drill-in screen that sources detailed exception stacktrace from backend (React, Backend C#)
 * Fixed issue with applied controls returning wrong numbers for comparison folder
 * Fixed issue with missing reference data deleting entity screen (React, SQL)
