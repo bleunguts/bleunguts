@@ -126,7 +126,7 @@ The purpose is to migrate the main risk engine (Risk Server, C# WebApi) that ser
 * Refactored RiskServer components to support Nancy IOC
 * Root cause analysis on GrpcServer hanging on shutdown using memory dumps and VS Parallel Task view. 
 
-**_Automated Regressions 	_**
+**_Automated Regressions_**
 
 The regression system was built with a GoLang runner that triggers regression workers (Scala/Java) on OpenShift/Kubernetes. Diffs are performed on risk results between environments and results stored in Postgres to be displayed in the Kotlin UI .
 * Setting up and executing regression runs between environments
