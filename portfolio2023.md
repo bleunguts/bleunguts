@@ -35,6 +35,7 @@ The role demanded a risk functional background, self-drive, a strong sense of ow
 **_Projects<span style="text-decoration:underline;">:</span>_**
 
 **_FRTB Capital Requirements Breakdown story_**
+
 Computation of capital requirements is one of the main drivers of FRTB CVA, the trading desk is required to hedge against the huge resultant capital numbers produced in conjunction with Basel III.  This story required producing portfolio level capital requirements for SA-CVA, BA-CVA for the bank’s netting agreements.  Ongoing responsibility of this story involved root cause analysis on capital number discrepancies.
 * Extended the batch workflow to source hedge allocation reference data to be funnelled into the capital calculator (Backend C#, SQL stored procs, Batch workflow XAML)
 * Implemented Capital Breakdown UI screen which breaks down capital by legal entity and capital request, Gross Capital, Hedges applied, Net Capital (React UI, Backend C#)
@@ -42,12 +43,14 @@ Computation of capital requirements is one of the main drivers of FRTB CVA, the 
 * Resolved issues with incorrect pricing parameters issue, which required a combination of investigating valuation batch workflow parameters and debugging quant calculators (via COM interop) with supplied parameters.   Discussed with team and fixed by changing pricing model parameters in the pricing configuration store
 
 **_FRTB Capital Calculator Hedge Risk verification story_**
+
 This feature exposes hedge risk trades, credit quality reference data per netting set for a capital calc batch, key inputs to the capital calculator.
 * Implemented the Hedge Verification MI screen that exposed credit spread hedges, credit quality per netting set (key model inputs to the capital calculator).  (React, Backend C#)
 * Involved understanding and execution of capital calc workflows for testing, analysing valuation snapshot cache service for correct calc input parameters for the COM interop capital calculator quant libs 
 * Implemented backend logic to source published reference data (credit quality, region) and developed deeper understand of business workflow from  inputting credit quality into UI and the sequence of components it gets passed through to be correctly executed in the  valuation batch (Backend C#, SQL)
 
 **_Exclusion by book routing rule story_**
+
 Implemented Exclusion by book control used by the business to run impact analysis, e.g. running capital calcs with certain trading books routed to BA or excluded totally to capture diffs in capital numbers.
 * Implemented Book Exclusion UI screen to allow users to route trading books to BA-CVA or excluded  (React)
 * Enhanced trade loading sub-workflow by extending TRADES interface to support books and adding a new control to route selected books to correct valuation methodology (Backend C#, Analytics workflow, SQL)
@@ -55,12 +58,14 @@ Implemented Exclusion by book control used by the business to run impact analysi
 * Gained understanding and experience in setting up book sourcing, netting set enrichment with the TRADES interface to perform user acceptance testing on changes
 
 **_IMM EE Curve story_**
+
 Implemented EE curve sourcing which is a key input to the BA-CVA calc.
 * Implemented a popup screen that displays EE curve data up to fifty future horizon dates.    User design challenges faced due to high volume of curve data, discussed with team and implemented a single curve per netting set design which can be launched via the netting set->drill into screen.  (React UI, Backend C#)
 * Implemented batch comparison that compare  EE curves between batch runs 
 * Extended backend changes and batch workflow to source EE curves from the in-house EPE service
 
 **_React AG-GRID risk summary story_**
+
 Spearhead UI innovation to leverage the features of commercial AG-GRID group & pivot, advanced excel exports, server-side chunking which addressed a real issue of huge capital requirements data sets (10 million record set).  We piloted the innovation by converting FRTB CVA risk results summary page with success and not only were we able to build out the capital requirements screen efficiently, it gave the desk ability to address advanced reporting needs with AG-GRID group and pivots. (React 7 tables, AG-GRID)
 * look and feel changes using ag-grid styles, loading overlay screens using both AG-GRID client side, server-side chunking data models
 * designed comparison column templates, baseline/selected/delta which allowed traders to compare data between two batches
