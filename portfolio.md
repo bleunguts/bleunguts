@@ -1,13 +1,13 @@
 **[HOME](https://bleunguts.github.io/bleunguts)** | **[CV PORTFOLIO](https://bleunguts.github.io/bleunguts/portfolio)** | **[2023-2021](https://bleunguts.github.io/bleunguts/portfolio2023)** | **[2020-2013](https://bleunguts.github.io/bleunguts/portfolio2020)** | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007)** | **[2003-2000](https://bleunguts.github.io/bleunguts/portfolio2003)** 
 # CV PORTFOLIO
-This portfolio consists of several sub sections spanning from 2000 to present (sub-sections: 2013-2020, 2008-2013, 2003-2007, 2000-2003)
+This portfolio consists of several sub sections spanning from 2000 to present (sub-sections: 2023-2021, 2013-2020, 2008-2013, 2003-2007, 2000-2003)
 
 Below is a career snapshot, click on the corresponding link to see an in-depth portfolio for that placement.  
 
 Period | Title | Link
 ------------ | ------------- | -------------
-Mar2022 - Apr 2023 | Counterparty Credit Risk Developer @ Credit Suisse | **[2023-2021](https://bleunguts.github.io/bleunguts/portfolio2023)**
-Sep2021 - Mar 2022 | Intraday Risk Developer @ Credit Suisse | **[2023-2021](https://bleunguts.github.io/bleunguts/portfolio2023)**
+Mar2022 - Apr 2023 | Counterparty Credit Risk Developer @ Credit Suisse | **[2023-2022](https://bleunguts.github.io/bleunguts/portfolio2023)**
+Sep2021 - Mar 2022 | Intraday Risk Developer @ Credit Suisse | **[2022-2021](https://bleunguts.github.io/bleunguts/portfolio2023)**
 Sep2013 - Apr 2020 | Equity Derivatives Risk Developer @ Credit Suisse | **[2020-2013](https://bleunguts.github.io/bleunguts/portfolio2020)**
 Jan 2013 – Aug 2013	| FX WPF C# GUI Developer @ Lloyds | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#lloyds)** 
 Feb 2012 – Jan 2013	| FX Low Latency Pricing & Execution C# Developer @ Credit Agricole | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#credit-agricole)** 
