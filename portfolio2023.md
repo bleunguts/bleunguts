@@ -86,7 +86,7 @@ _Other features_
 - Fixed issue with applied controls returning incorrect comparison values due to flaws in comparison logic (React, Backend)
 - Enhanced batch comparison screens so that risk values shows column filter (React 7 tables)
 - Enhanced Risk Web Api with dotnet metrics that helped identify high memory usage resulting to server crashes and missing data in UI (Backend C#, dotnet tools visualization)
-- Commended for having proactive drive, tenacity and working with internal and external team members (as knowledge was scattered) for the successful set up of the risk system ecosystem to run on a local PC. (Launching the following: cluster of calc workers, in-house kubernetics service discovery/management service, valuation snapshot server, results server, risk and trades SQL DBs, and analytics pricing/system configs in order to achieve successful FRTB CVA valuation batch execution. Delivered confluence documentation and acted as go to support for local env runs as per necessary.
+- Commended for having proactive drive, tenacity and working with internal and external team members (as knowledge was scattered) for the successful set up of the risk system ecosystem to run on a local PC. (Launching the following: cluster of calc workers, in-house Kubernetics service discovery/management service, valuation snapshot server, results server, risk and trades SQL DBs, and analytics pricing/system configs in order to achieve successful FRTB CVA valuation batch execution. Delivered confluence documentation and acted as go to support for local env runs as per necessary.
 
 # (Credit Suisse) Giraffe Real Time Intraday Risk
 
@@ -100,7 +100,7 @@ _ **Technologies** _ **:** C#, WPF, .NET 4.7.2, Redis Cache 6.0, Nancy IoC, .NET
 
 Java/C# real-time OLAP relational algebra library, GoLang, Kotlin, Scala, Postgres, Linux, Openshift, Kubernetes, GIT feature branches, Shell scripting
 
-_ **Environments** _ **:** Windows / Linux / OpenShift/Kubernetes for Linux
+_ **Environments** _ **:** Windows, Linux, OpenShift/Kubernetes for Linux
 
 _ **Methodology** _ **:** Scrum/Agile, Pair Programming, Micro-services, Legacy code patterns
 
@@ -110,9 +110,9 @@ _ **Description** _ **:** GRT is recognised as the banks unifying intraday platf
 
 This programme involved migrating CS's FX intraday system that also publishes real-time P&L for spot/forwards/spot ladder but for the FX market into the wider and larger GRT ecosystem.
 
-Deemed as an unprecedented challenge by senior members, the FX system used a different banks quant stack, FX (C#/Java/Windows) being more tightly coupled to the quant (.NET interface) thus requiring Risk functional expertise with the strategic GRT (Java/Golang/C#/Linux) which is loosely coupled to quant stack via (JSON to C#). Also, the difference in the velocity of trading in FX and the huge volumes (3 million trades per day) posed a significant technical challenge, additionally the assumed no-downtime phased releases to ensure operational stability for the FX desks world-wide (30 traders Zurich alone, 90+ users globally).
+Deemed as an unprecedented challenge by senior members, the FX system (C#/Java/Windows) used a different quant stack, application tightly coupled to the quant (via .NET interface), requiring Risk functional expertise compared to the strategic GRT (Java/Golang/C#/Linux) that of a looser coupling to the quant stack (via JSON to .NET). Also, the difference in the velocity of trading and huge volumes (3 million trades per day) in FX posed a technical challenge,topped off with the high availability NFR from the FX desk (30 traders Zurich alone, 90+ users globally).
 
-The scope for Phase 1 required lifting the real-time risk results aggregation engine, the cluster of real time CS OLAP services from the FX windows platform (40+ Windows servers) and build it into the GRT Linux shell (80+ linux hosts). This involved development work in porting table shapes, projections, filters, pivots into the GRT shell (Java/Scala/GoLang), extending the GRT WPF UI service discovery comms layer to hook into these new backend services (WPF/ C#) and modifications to the FX RiskServer to support the transport piping to redis cache in Linux and the direct transport pipe from RiskServer to the new Linux OLAP services (C#/Google ProtoBuf GRPC/Java).
+The scope for this phase of the migration programme involved lifting the real-time risk results aggregation engine from the logical architecture; cluster of RT CS OLAP services on windows (40+ Windows hosts) and building it into the GRT shell (80+ linux hosts). This involved development work in particular porting table shapes, projections, filters, pivots into the GRT shell (Java/Scala/GoLang) to leverage linux stability/easier to scale/powered monitoring, extending the WPF UI service discovery comms layer to hook into these new backend services (WPF/ C#) and modifications to the FX RiskServer to support the transport piping to redis cache in Linux and the direct transport pipe from RiskServer to the new Linux OLAP services (C#/Google ProtoBuf GRPC/Java).
 
 In addition we implemented a regression system validates risk numbers cross environments, i.e. Windows vs Linux excelling development effort by cherry picking GRT regression components/ patterns (GoLang, Java/Scala, Openshift/Kubernetes).
 
@@ -120,7 +120,7 @@ _ **Projects** _ **:**
 
 _Risk Server migration_
 
-The purpose is to migrate the main risk engine (Risk Server, C# WebApi) that serves risk results to the WPF UI through the CS OLAP services cluster via its various connectors (Grpc connector to RiskServer/Db and Redis). Included migrating and porting sourcing/pivots/groupings/aggregations table definitions which are written in CS OLAP DSL.
+Migration of components of the main risk engine (Risk Server, C# WebApi) that serves risk results to the WPF UI via its various connectors (through the CS OLAP services cluster including DB/Redis, Grpc connector to RiskServer). Included migrating and porting sourcing/pivots/groupings/aggregations table definitions which are written in CS OLAP DSL.
 
 - Paired with colleague to decouple the risk data streaming into a new GrpcServer component (C# WebApi/SQL)
 - Extended the WPF UI communications layer to discover the new Linux servers based on a user whitelist to facilitate a staged release, Implemented external test to find root cause and fix efficiently to overcome the challenge of ticking UI data streams (C#, WPF, Consul)
@@ -133,6 +133,5 @@ _Automated Regressions_
 
 The regression system was built with a GoLang runner that triggers regression workers (Scala/Java) on OpenShift/Kubernetes to perform diffs between risk sets in two environments. The regression run results are stored in Postgres and visualized in Kotlin Ktor Web UI.
 
-- Implemented enhancement to Regression Workers to handle Grpc connectivity between RiskSources (In-house OLAP DSL)
 - Resolved challenge with huge volumes (3 million data set) when regressing single currency ladder reports by implement regression runners in Openshift/Kubernetes. Configured new workers on the openshift platform and tuned memory consumption to get these heavy regression runs to work (GoLang, Openshift)
 - Resolved challenge where regression runs timed out after 6 hours, implemented chunking strategy of reports so that RegressionWorkers can process the load in chunks broken down by sub report types. (Scala)
