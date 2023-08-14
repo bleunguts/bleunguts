@@ -47,7 +47,7 @@ Computation of capital requirements is one of the main drivers of FRTB CVA; the 
 
 _FRTB Capital Calculator Hedge Risk verification story_
 
-_This feature exposes key inputs to the capital calculator__for a capital batch_
+This feature exposes key inputs to the capital calculator__for a capital batch
 
 - Implemented the Hedge Verification MI screen that exposed credit spread hedges, credit quality per netting set (key model inputs to the capital calculator). (React, Backend C#)
 - Involved understanding and execution of capital calc workflows for testing, analysing valuation snapshot cache service for correct calc input parameters for the COM interop quant capital calculator
