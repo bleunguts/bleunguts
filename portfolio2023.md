@@ -5,7 +5,7 @@ _This section outlines the projects I have been involved in during the period 20
 
 # (Credit Suisse) Counterparty Credit Risk CVA desk
 
-_ **Period** __:_ May '22 – Apr '23
+_ **Period** __:_ Mar '22 – Apr '23
 
 _ **Length** __:_ 1 year
 
