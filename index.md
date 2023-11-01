@@ -45,6 +45,7 @@ Others include:
 * passion for end-user delivery and a permeating CAN DO attitude!
 
 ## GitHub Projects
+* Trading Signals Backtesting application is the newest addition, using cutting edge technology, cloud-ready, and finance apis (NinjaTrader, QL.NET, live market source) it can help test long-short mean reversion trading strategies. [github](https://github.com/bleunguts/ProjectX)
 * FX real-time trading application looking at engineering concepts in scalability on [github](https://github.com/bleunguts/FXTrader) 
 * My implemention of the SOLID pricinples Coffee Maker Mark IV on [github](https://github.com/bleunguts/CoffeeMaker)
 * Options Pricing C++ demo working with monte-carlo and blackscholes routines [github](https://github.com/bleunguts/OptionsPricerCpp)
