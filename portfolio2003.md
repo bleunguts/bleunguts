@@ -23,17 +23,17 @@ _ **Projects** _ **:**
 
 _Centrally Allocated Booking System ASP.NET_
 
-- CATS is a web application that allows university staff to automate booking of university rooms for lectures, presentations or tutorials.
-- Implemented ASP.NET ASCX pages allowing staff to book presentation rooms and associated presentation equipment in C# SQLServer
+- Enhanced a web application that allows university staff to automate the booking of rooms for lectures, presentations or tutorials.
+- Implemented ASP.NET ASCX pages enabling staff to book presentation rooms and associated equipment using C# and SQL Server.
 
 _Travel Agency J2EE web app_
 
-- Developed new web page form for the travel agency to perform flight quote sales in JSP & Servlets, Tomcat App server, ODBC interfacing with MySql DB
-- Tomcat J2EE server administration and security role configuration for different university staff roles
+- Created a new web form for the travel agency to perform flight quote sales using JSP & Servlets. JSP & Servlets, Tomcat App server, ODBC interfacing with MySql DB
+- Administered Tomcat J2EE server and configured security roles for different university staff roles.
 
 _Corptel PHP web page_
 
-- Implemented a form that allowed users to submit telco related surveys in PHP which emailed the results to a central email address.
+- Developed a form in PHP allowing users to submit telco-related surveys, which were then emailed to a central address.
 
 # Basis Design
 
@@ -57,6 +57,6 @@ _ **Projects** _ **:**
 
 _Macro Media Manager (MMM)_
 
-- Developed Klystron oscilloscope generator that packs laser position coordinates into PCM audio signals via a multiplexer through to the laser mechanical hardware
-- Developed a real-time digital & analogue clock that draws the clock sprites with colour out to the laser hardware
-- Implemented MIDI device control to play music notes via a MIDI keyboard
+- Developed a Klystron oscilloscope generator that packs laser position coordinates into PCM audio signals via a multiplexer to the laser mechanical hardware.
+- Created a real-time digital & analog clock that draws clock sprites with color output to the laser hardware.
+- Implemented MIDI device control to play music notes via a MIDI keyboard.
