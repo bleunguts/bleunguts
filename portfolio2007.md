@@ -21,35 +21,35 @@ _ **Environments:** _ Windows XP/Vista
 
 _ **Tools:** _ CVS, PR Tracker, Wise for Windows Installer, Windows Vista Certification
 
-_ **Methodology:** _ Siemens Evolution Proceess (bespoke software process designed by process engineering to coordinated delivery and iteration with software, firmware, hardware, and on-site deployment technicians)
+_ **Methodology:** _ Siemens Evolution Process (bespoke software process for coordinated delivery and iteration with software, firmware, hardware, and on-site deployment technicians)
 
-_ **Description:** _ SiPass has been installed in 1300 sites over 55 countries world-wide. Sipass has secured 2000 doors in Huawei HQ, 784 doors in Beijing Television Centre and 744 doors in Wohnpark Alt Erlaa in Austria.
+_ **Description:** _ SiPass has been installed at 1300 sites in 55 countries world-wide, securing notable locations Huawei HQ (2000 doors), Beijing Television Centre (784 doors) and Wohnpark Alt Erlaa in Austria (744 doors).
 
 _ **Achievements:** _
 
-- Smart Card Hardware API development expertise (GemPlus 332, HID 6055B)
-- Spearheaded a major innovative feature of our product which made it in the release as a key product selling point. I researched & developed a component to support smart card access control on personal office rooms' cylinders. This was a successful feature, in which I was nominated by project management to head up this user story.
-- Assigned in-charge of the suite of Digital Video Recording (DVR API) module in SiPass. The video surveillance division was responsible for image capturing sequencing based on trigger-able alarm events. Developed 3rd party recording hardware innovations in C++ COM tendered from 3rd party vendor requirements. (C++, ATL, STL, COM)
-- Appraised for succinct analysis skills after delivering solutions to non-deterministic critical live anomalies which eliminated the negative impact to the system resulting in noticeable reduction to end-user complaints.
+- Smart Card Hardware API Development: Gained development expertise in smart card hardware APIs (GemPlus 332, HID 6055B).
+- Innovative Feature Development: Developed a component supporting smart card access control for personal office rooms' cylinders, a major product selling point. Contributed to 15% uptick in sales.
+- DVR API Module Lead: Managed the Digital Video Recording (DVR) API module, responsible for image capturing sequencing based on alarm events. Developed C++ COM solutions for third party recording hardware innovations working directly with third party DVR vendors to source requirements. (C++, ATL, STL, COM)
+- Live Anomaly Solutions: Delivered solutions to non-deterministic critical live anomalies, reducing end-user client complaints.  Glowing feedback from client appraising analysis skills and won team award for 'anomaly hunter' 
 - Recognised for my diligence to follow through pursuing tracking the bad patterns throughout the code base and resolving accordingly. C++, C# .NET, COM, .NET Remoting, SQL Server, Wise, Memory Leaks
 - Driven with a sense of ownership & proven ability to deliver zero-risk solutions the project manager consequently delegated more show-stopping site issues, more enhancements and more development areas to take charge of. Assigned lead dev with one to three engineers in recognition of my leadership qualities and knowledge in development areas and was assigned responsibility of the outcome of the leading tasks.
 - Resolved a complex, non-deterministic OLE Server Busy issue which was left unsolved for many years. Through rigorous root cause analysis, identified the issue to be performance related in the C++ RPC connectivity to the server. Resolved & delivered with assistance from engineers that had experience with these legacy modules. (C++, MFC)
 - Assigned responsibility for quality assurance of requirements, design & API manuals from other engineers in recognition to my attention to quality.
-- Strategized an automation tool to cut the huge costs €1.5 million in localizing the software into 12+ languages per release. Recognised as the SME and consequently supervised 2-3 engineers to develop the automated solution using C#, scripting, C++ API interfacing and was highly appraised for cutting the cost of effort by 40+%. (C# .NET, Scripting, C++ RC-WinTrans API)
+- Cost-Reduction Automation Tool: Developed a tool that cut language localization costs by over 40% reducing expenses by €1.5 million. With the growing number of languages (12+) per release moving away from manual steps, I was self-motivated to engineer process optimization.  Promoted to localization expert and led a team of two to three engineers to push this engineering effort. (C# .NET, Scripting, C++ RC-WinTrans API)
 
 _ **Projects** __:_
 
 _SiPass Enterprise_
 
-- Designed from inception the alarm module for the new SiPass Enterprise system. The alarms alerting module provides a system wide ability to trigger, acknowledge, report on alarms. Implemented integration bridge with SiPass for cross-communication. (C# .NET, WinForms .NET, Composite UI Application Block, NUnit .NET, COM+ Message Queue, XML)
-- Designed the licence generation mechanism with a custom hashing algorithm for SiPass Enterprise (C++.NET, NUnit .NET, C++ COM Unit Test, ASP.NET Unit Test). Managed the licencing module thereon.
+- Designed and implemented the alarm module for system-wide alarm triggering, acknowledging, and reporting.  Implemented integration bridge with SiPass (C++) and Enterprise (C#) for cross-communication interop. (C# .NET, WinForms .NET, Composite UI Application Block, NUnit .NET, COM+ Message Queue, XML)
+- Created a custom hashing algorithm for license generation (C++.NET, NUnit .NET, C++ COM Unit Test, ASP.NET Unit Test).  
 
 _Sipass Hardware Mechanics_
 
 - Designed & Implemented a module that supports pre-released smart card readers (two developments; GemPlus, HID, OmniKey) using a C++ API interface. (C++, OO Design, API interfacing). Managed the smart card division of SiPass from thereon.
 - Designed & implemented a module that introduced turnstile door types to the system. Required conceptualisation of the turnstile operation. (C++, MFC, COM, SQL Server, XML)
-- Led the suite of Digital Video Recording division of SiPass using C++ / COM interfacing to 3rd parties for them to develop device drivers. This included developing enhancements using C++ COM to maintain the video stream between the hardware in SiPass. (C++, ATL, STL, COM)
-- Designed & developed an innovative key marketable component a smart-card digital locking cylinder (HID's new R&D invention) effectively creating a wireless unlocking effect for door users. This invention was designed with one fellow engineer and the framework that we designed was commended template for future client-server developments. (C#, .NET, Design Patterns, .NET Remoting, SQL Server)
+- Led the Digital Video Recording division, developing C++ COM interfaces for third party device drivers. Developed enhancement C++ COM to maintain the video stream between the hardware in SiPass. (C++, ATL, STL, COM)
+- Innovated a smart-card digital locking cylinder with a fellow engineer, providing a wireless unlocking effect for door users (HID's new R&D invention).  This was a success and the pattern we invented were used henceforth for future client-server developments. (C#, .NET, Design Patterns, .NET Remoting, SQL Server)
 
 _SiPass Integrated_
 
@@ -81,16 +81,16 @@ _ **Tools:** _ CVS, Bugzilla
 
 _ **Methodology** __:_ BDD, Story driven development, TDD.
 
-_ **Description:** _ AMAT is a software consulting start-up that provides consultancy for mortgage companies. The core product is MortgageFirst which provides workflow for mortgage associates to drive the mortgage application process.
+_ **Description:** _ AMAT is a software consulting start-up providing consultancy for mortgage companies. The core product, MortgageFirst, facilitates workflow for mortgage associates throughout the mortgage application process.
 
 _ **Consultancy Experience:** _
 
 As a boutique software consultancy house, I gained hands on experience from inception to delivery:
 
-- New client acquisition by providing on-site software sales promoting value add to their day-to-day operations
+- Acquired new clients through on-site software sales promoting day-to-day workflow value-add to the mortgage application process.
 - Customer facing role involving requirements gathering, business analysis of mortgage workflow, commissioning rule and loan structuring nuances for new clients
-- Delivered the document automation component, commissions distribution component
-- Direct client request support for the product over the telephone or weekly on-site visits
+- Delivered document automation and commissions distribution components.
+- Provided direct client support and on-site user training (telephone support, on-site visits).
 - Responsible for on-site user training post product development to over ten mortgage institutions
 - Administered Windows servers and related software deployments and maintenance
 - Administered Linux servers for source control(CVS) and business data backups
@@ -102,9 +102,8 @@ _Commissions C#.NET_
 
 This system enables mortgage funders to upload spreadsheets for agent commissions processing.
 
-- Developed a rules based module to encapsulate commission reconciliation rules sourced from disparate clients with different rules.
-
-- Developed a C# data extraction bridge from C# to Lotus Domino via COM interfacing
+- Developed a rules-based module for commission reconciliation.
+- Created a C# data extraction bridge to Lotus Domino via COM interfacing
 - Developed new Lotus Domino ODBC data adaptor for the new C# commissions system
 
 _MortgageFirst_
@@ -129,11 +128,11 @@ Mystery shoppers survey retail stores providing feedback to the head marketing t
 
 _ **Achievements:** _
 
-- Acquired domain expertise in the Mortgage Loan Application workflow
-- Designed an agile requirements management system to manage projects on site and in the office
-- Successfully developed and migrated a medium-scale database for Acceptance Finance improving their day-to-day productivity dramatically whilst preserving two years of their business data
-- Re-factored and improved the document generation modules / commissions module to a point which slashed development costs in adding new features to the MortgageFirst database system
-- Successfully influenced the team on the importance of configuration management (CVS) which achieved phenomenal productivity gains (vs legacy method of copies of source on file shares)
+- Gained domain expertise in mortgage loan application workflows
+- Designed an agile requirements management system
+- Migrated a medium-scale database for Acceptance Finance improving weekly productivity whilst yet still obeying existing business data preservation two years of data rule.
+- Refactored document generation modules and commissions module slashed development costs for  new features added to the MortgageFirst database.
+- Advocated for configuration management (CVS) leading to productivity gains, successfully moved away from source code copy onto file shares.
 
 # UTS
 
@@ -149,9 +148,9 @@ _ **Environments** _ **:** Linux/Windows
 
 _ **Methodology** _ **:** IEEE Software Engineering Process, UML modelling, Rational Rose, Archstyler
 
-_ **Description** _ **:** A unique role created by the programme coordinator of software engineering in recognition of my entrepreneurship, critical thinking and technical competence.
+_ **Description** _ **:** A unique role created by the Programme Coordinator of Software Engineering, recognizing my entrepreneurship, critical thinking, and technical competence. 
 
-This placement involved assisting in subject development of core software engineering subjects (software architecture, software systems analysis and design, software systems middleware) aimed at undergraduate/postgraduate level for the Software Engineering disciplines at the university.
+Assisted in subject development for core software engineering subjects at the university. (undergrad/postgrad software architecture, software systems analysis and design, software systems middleware subjects)
 
 _ **Achievements** _:
 
@@ -162,9 +161,9 @@ _ **Achievements** _:
 
 _ **Projects** _ **:**
 
-- Supervising students in software design for particular technologies throughout the software development life cycle (J2EE, Corba, Jini, J2SE, Microsoft .NET.)
-- Installed, designed new mobile enterprise system that presents wireless connectivity to an enterprise control context (20 working days – in progress)
-- Java & .NET Mobile development for Personal Digital Assistance (PDAs)
+- Supervised students in software design throughout the software development life cycle (J2EE, Corba, Jini, J2SE, Microsoft .NET.)
+- Installed and designed a new mobile enterprise system that presents wireless connectivity to an enterprise control context 
+- Developed Java & .NET Mobile applications for PDAs
 - Bluetooth Wireless Radio Technology on Linux enterprise connectivity application
 - Class presentations on J2EE
 - Presentations and tutorials on Java 2 EE technology (Autumn 2003)
