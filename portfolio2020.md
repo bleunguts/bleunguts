@@ -19,7 +19,7 @@ _ **Methodology** _ **:** Agile, Micro Services, Scrum of Scrum, Pair Programmin
 
 _ **Consultancy Experience:** _ Software engineering, Analyst Developer, Complex Data Analysis & Business Intelligence of valuations, Feature management Release Management
 
-_ **Description** _ **:** Giraffe risk management system is the firm's strategic unification of trading and risk management. The Credit Suisse global franchise Global Markets, Equities, Fixed Income and Prime Brokerage runs off the Giraffe platform worldwide producing accurate data for trading and risk aggregation feeds servicing capital regulatory requirements and business demands from the trading desks.
+_ **Description** _ **:** Giraffe is the risk management system for Credit Suisse unifying trading and risk management across Global Markets, Equities, Fixed Income and Prime Brokerage.  It produces accurate data for trading and risk aggregation meeting regulatory requirements and business demands.
 
 Awarded the "Risk Management House of the Year 2015 Award" largely contributed to extremely small and fast product test and automated release cycle, well-engineered agile design effort, achieving efficient business requirements response and the risk-related requirements of regulators.
 
@@ -74,7 +74,7 @@ _ **Methodology** _ **:** Scrum/Agile, Pair Programming, Micro-services, TDD
 
 _ **Consultancy Experience** _: Software engineering, Business Intelligence, Grid Computing Collaboration
 
-_ **Description** _ **:** As the lead developer of EDIT Valuation services, I covered all aspects of the valuation service which included developing new risks for Giraffe RealTime (a separate Real-time risk team).
+_ **Description** _ **:** As the lead developer of EDIT Valuation services, I covered all aspects of the valuation service development which included developing new risks for Giraffe RealTime (a separate Real-time risk team).
 
 The implementation involved calling the quant core libraries and placing the execution on the compute grid via the Symphony API.
 
