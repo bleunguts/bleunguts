@@ -17,12 +17,12 @@ _ **Environments** _ **:** Windows
 
 _ **Methodology** _ **:** Agile
 
-_ **Description** _ **:** WPF GUI development for LBG's core ecommerce FX system responsible for mark-up structuring and pricing model configuration. WPF GUI client interfacing via WCF Web services with the Java SOAP web server.
+_ **Description** _ **:** Developed the WPF GUI for Lloyds Banking Group’s core ecommerce FX system. This system was responsible for mark-up structuring and pricing model configuration, with the WPF GUI interfacing via WCF Web Services with the Java SOAP web server.
 
 _ **Projects** _ **:**
 
-- Implemented features related to Dodd Frank regulations with enhancements to the model pricing configuration module used by trading to configure the FX pricing models
-- Coordinated face-to-face with the trading desk to source requirements for a WPF custom control which presented traders with a hybrid dropdown and check box control with tool tips to help them select different pricing configurations
+- Implemented features related to Dodd Frank regulations, enhancing the FX model pricing configuration module for tradures 
+- Collaberated with the trading desk to develop a custom WPF control that presented traders with a hybrid dropdown and checkbox control with instructional tooltips to help them select different pricing configurations.
 
 # Credit Agricole
 
@@ -38,12 +38,12 @@ _ **Environments** _ **:** Windows
 
 _ **Methodology** _ **:** Agile
 
-_ **Description** _ **:** In house eCommerce FX low-latency real-time pricing and trading execution platform. The GUI subscribes to RMDS Reuters price ticks and calculates and publishes sales prices to external clients through ECN FIX channels (360T, FXALL,RTFX) and the CA traders via a Request For Quote (RFQ) or auto-trading configuration screen.
+_ **Description** _ **:** In house eCommerce FX low-latency real-time pricing and trading execution platform. The GUI subscribed to RMDS Reuters price ticks, calculates and publishes sales prices to external clients through ECN FIX channels (360T, FXALL,RTFX) and CA traders via RFQ or auto-trading configuration screen.
 
 _ **Projects** _ **:**
 
-- Developed enhancements for new asset classes FX Spot, FX Forwards, FX Swaps, Options (Vanilla Sales & Structured FX)
-- Included spread calculation based on traders and sales spread building forward points for corresponding derivative products (Forwards, Swaps, Options)
+- Developed enhancements for FX Spot, FX Forwards, FX Swaps, Options (Vanilla Sales & Structured FX)
+- Implemented spread calculation based on traders and sales spread building forward points for corresponding asset classes (Forwards, Swaps, Options)
 - Streaming new RICS from RMDS to generate live price tick input feed into the eCommerce platform, Implemented conflation of dropped price ticks improving overall system resilience.
 - Support new QuickFix protocol ECN (360T, FXALL) for publishing prices to external downstream market interbank platforms
 - Cash Deal Request for Quote(RFQ) GUI development screen for traders to add their spreads in the FX pricing module
@@ -64,7 +64,7 @@ _ **Environments** _ **:** Windows
 
 _ **Methodology** _ **:** Agile
 
-_ **Description** _ **:** Lead developer for the Oil & Metals legacy enterprise platform. Supervision and mentoring 10+ team members with implementation & delivery.
+_ **Description** _ **:** Served as the lead developer for the Oil & Metals legacy enterprise platform, supervising and mentoring 10+ team members.  Focused on enhancing code quality, devising development best practices, and coordinating sensitive production releases.
 
 _ **Consultancy Experience** _: One of the pivotal things our consultancy team came in to solve was the sensitivity of the production releases and the impact to the business, originating from defects or bad release coordination.
 
@@ -74,11 +74,9 @@ Achieved client recognition and gained exclusivity for BJSS, yielding an explosi
 
 _ **Projects** _ **:**
 
-- Middle office development in Trade Capture, Derivatives trading (primarily Oil & NATGAS Futures/Options/Swaps)
-- Implemented additional BlackScholes model calibration parameters in the Oils Options module
-- Release management activities which include coordinating with seven different teams to bring release artefacts into a global & volatile production environment smoothly
-
--
+- Developed middle office solutions for Trade Capture and Derivatives trading (Oil & NATGAS Futures/Options/Swaps).
+- Added Black-Scholes model calibration parameters to the Oils Options module.
+- Conducted release management activities, coordinating seven different teams for smooth deployment in a volatile production environment.
 
 # UBS
 
@@ -94,7 +92,7 @@ _ **Environments** _ **:** Windows
 
 _ **Methodology** _ **:** Agile, Cruise Control
 
-_ **Description** _ **:** I acted as the C#/C++ Architect responsible for leading development of the self-service products and deployment tools for the 'Distributed Storage System group' at UBS.
+_ **Description** _ **:** Acted as the C#/C++ Architect, leading the development of self-service products and deployment tools for UBS's Distributed Storage System group
 
 Helped shape the engineering roadmap work which required revisions to the architecture to give the deployment tools used by UBS staff a plug-and-play feature architecture.
 
@@ -124,12 +122,12 @@ _ **Environments** _ **:** Windows
 
 _ **Methodology** _ **:** Scrum plugin for TFS, TFS Team Explorer, TDD
 
-_ **Description** _ **:** IGT specializes in the design, manufacturing, distribution and sales of FOBT slot gaming terminals. This role involved Greenfield development of a new CVT gaming system which manages an enterprise of FOBT betting terminals (C# server, C++ transport layer, .NET 3.5)
+_ **Description** _ **:** IGT specializes in the design, manufacturing, distribution and sales of FOBT slot gaming terminals. Engaged in the greenfield development of a new CVT gaming system for FOBT betting terminals, managing communications between the C# server and C++ transport layer. (C# server, C++ transport layer, .NET 3.5)
 
 _ **Projects** _ **:**
 
-- Developed orchestrating system that distributes game packages to hardware game terminals. (C#, gaming protocol SSAS)
-- Developed communications to BetServer C++ that receives a random seed for betting outcome calculations
+- Developed an orchestrating system for distributing game packages to hardware game terminals. (C#, gaming protocol SSAS)
+- Developed communications layer to the BetServer (C++) that produces betting outcome calculations from a random seed.
 - Implemented features on the Ticket in and Ticket out bet terminal management module (C#)
 - Developed estate wide reporting module of gaming terminal PnL.
 
@@ -167,7 +165,7 @@ _ **Achievements** _ **:**
 
 - Major strength is in root-cause analysis of problem, proposing solutions to core developers. My breadth of knowledge in programming languages allowed me to be effective in identifying root cause (C++, Java, .NET).
 - Balance of prioritization, liaising with skilled team members, making right judgments is a day-to-day aspect and plays a crucial part to the tight bi-weekly release schedule
-- Contributed in improving core software release success rate from 5% to 100% (through diligent process optimization & team command), thereafter received recognition by the Core team and thereafter I was wholly assigned for signing off SecDb releases. Commended by upper management for improving the quality of global SecDb releases!
+- Improved core software release success rate from 5% to 100% (through diligent process optimization & team command), thereafter received recognition by the Core team and thereafter I was wholly assigned for signing off SecDb releases. Commended by upper management for improving the quality of global SecDb releases!
 - Working with global team members to bring resolution of many defects & flaws in code that reduced down-time in real-time trading consequently reducing system risk to the corporations applications.
 - Successfully drove QA process for VC6 to VC8 (.NET) upgrade for all applications/computers world-wide. In 2006 core has failed to release VC8 because of the complexity of a global upgrade from legacy VC6 to VC8. Leveraging from my prior experience in VC++ migrations to .NET and depth of understanding in memory / performance potential issues Goldman Sachs world-wide now utilizes VC8 for all its pricing/financial applications.
 - Gained experience with dealing with financial pricing applications
