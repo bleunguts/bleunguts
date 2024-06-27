@@ -31,10 +31,10 @@ _ **Achievements:** _
 - *Innovative Feature Development:* Developed a component supporting smart card access control for personal office rooms' cylinders, a major product selling point. Contributed to 15% uptick in sales.
 - *DVR API Module Lead:* Managed the Digital Video Recording (DVR) API module, responsible for image capturing sequencing based on alarm events. Developed C++ COM solutions for third party recording hardware innovations working directly with third party DVR vendors to source requirements. (C++, ATL, STL, COM)
 - *Live Anomaly Solutions:* Delivered solutions to non-deterministic critical live anomalies, reducing end-user client complaints.  Glowing feedback from client appraising analysis skills and won team award for 'anomaly hunter' 
-- Recognised for my diligence to follow through pursuing tracking the bad patterns throughout the code base and resolving accordingly. C++, C# .NET, COM, .NET Remoting, SQL Server, Wise, Memory Leaks
-- Driven with a sense of ownership & proven ability to deliver zero-risk solutions the project manager consequently delegated more show-stopping site issues, more enhancements and more development areas to take charge of. Assigned lead dev with one to three engineers in recognition of my leadership qualities and knowledge in development areas and was assigned responsibility of the outcome of the leading tasks.
-- Resolved a complex, non-deterministic OLE Server Busy issue which was left unsolved for many years. Through rigorous root cause analysis, identified the issue to be performance related in the C++ RPC connectivity to the server. Resolved & delivered with assistance from engineers that had experience with these legacy modules. (C++, MFC)
-- Assigned responsibility for quality assurance of requirements, design & API manuals from other engineers in recognition to my attention to quality.
+- Recognized for my diligence in tracking and resolving bad patterns throughout the codebase. C++, C# .NET, COM, .NET Remoting, SQL Server, Wise, Memory Leaks
+- Driven by a strong sense of ownership and a proven ability to deliver zero-risk solutions, I earned the trust of the project manager, who consequently delegated more critical site issues, enhancements, and development areas to me. Recognized for my leadership qualities and development expertise, I was assigned as the lead developer, managing a team of one to three engineers and taking full responsibility for the outcome of our key tasks.
+- Resolved a complex, non-deterministic OLE Server Busy issue that had remained unsolved for many years. Through rigorous root cause analysis, I identified the issue as a performance related in the C++ RPC connectivity to the server. With the help of engineers experienced in these legacy modules (C++, MFC), we successfully resolved and delivered the solution.
+- I was also assigned the responsibility for quality assurance of requirements, design, and API manuals from other engineers, in recognition of my attention to quality.
 - *Cost-Reduction Automation Tool:* Developed a tool that cut language localization costs by over 40% reducing expenses by €1.5 million. With the growing number of languages (12+) per release moving away from manual steps, I was self-motivated to engineer process optimization.  Promoted to localization expert and led a team of two to three engineers to push this engineering effort. (C# .NET, Scripting, C++ RC-WinTrans API)
 
 _ **Projects** __:_
@@ -108,28 +108,27 @@ This system enables mortgage funders to upload spreadsheets for agent commission
 
 _MortgageFirst_
 
-- Loan Processing workflow system allows financial consultants to keep track of the full lifecycle of loans till post-settlement
-- CRM that stores applications of clients and associated personal documents in the document management system
-- keeps details of brokers and introducers for commissioning purposes
-- keeps details of banks for commissioning purposes
-- provides 'Income Conversion' calculator, 'Property Investment calculator', Cost estimate calculators
-- developed mail merge facilities for bulk marketing campaigns
-- Allowed brokers to create appointments and tasks which they can associate to related accountants etc.
-- loan status tracking
-- appointment calendars
-- creating reports for employee performance tracking, introducer tracking, overall loan statuses, loan processing deficiencies
-- creation of product matrix that compares different loan products
-- creation of serviceability calculator .NET C#, ASP.NET
-- loan amortisation calculation
+- Loan Processing workflow system allows financial consultants to track the full lifecycle of loans until post-settlement
+- CRM that stores client applications and associated personal documents in the document management system
+- Maintains details of brokers and introducers for commissioning purposes.
+- Provides 'Income Conversion' calculator, 'Property Investment calculator', Cost estimate calculators
+- Developed mail merge facilities for bulk marketing campaigns
+- Allowed brokers to create appointments and tasks which can be associated with related accountants etc.
+- Loan status tracking
+- Provides Appointment calendars
+- Generates reports for employee performance tracking, introducer tracking, overall loan statuses and loan processing deficiencies
+- Creation of product matrix to compare different loan products
+- Provides a serviceability calculator .NET C#, ASP.NET
+- Provides Loan amortisation calculation
 
 _OptusWorld_
 
-Mystery shoppers survey retail stores providing feedback to the head marketing team in the form of marketing reports. Scoped and developed web application that provided data capture and reporting capabilities using .NET Nuke and .NET NEO. (.NET 1.1, .NET 2.0, C#, ASP.NET, .NET Nuke (ASP.NET framework), .NET NEO (DAL), SQL Server, CSS, HTML, JavaScript, XML)
+Mystery shoppers survey retail stores providing feedback to the head marketing team via marketing reports. Scoped and developed a web application for data capture and reporting. (.NET 1.1, .NET 2.0, C#, ASP.NET, .NET Nuke (ASP.NET framework), .NET NEO (DAL), SQL Server, CSS, HTML, JavaScript, XML)
 
 _ **Achievements:** _
 
 - Gained domain expertise in mortgage loan application workflows
-- Designed an agile requirements management system
+- Advocated an agile requirements management system (Story tracking, weekly pulse meetings, CVSTrac)
 - Migrated a medium-scale database for Acceptance Finance improving weekly productivity whilst yet still obeying existing business data preservation two years of data rule.
 - Refactored document generation modules and commissions module slashed development costs for  new features added to the MortgageFirst database.
 - Advocated for configuration management (CVS) leading to productivity gains, successfully moved away from source code copy onto file shares.
@@ -148,27 +147,23 @@ _ **Environments** _ **:** Linux/Windows
 
 _ **Methodology** _ **:** IEEE Software Engineering Process, UML modelling, Rational Rose, Archstyler
 
-_ **Description** _ **:** A unique role created by the Programme Coordinator of Software Engineering, recognizing my entrepreneurship, critical thinking, and technical competence. 
-
-Assisted in subject development for core software engineering subjects at the university. (undergrad/postgrad software architecture, software systems analysis and design, software systems middleware subjects)
+_ **Description** _ **:** This unique role was created by the Programme Coordinator of Software Engineering to recognize my entrepreneurship, critical thinking, and technical competence. I assisted in developing core software engineering subjects at the university, including undergraduate and postgraduate courses in software architecture, systems analysis and design, and middleware.
 
 _ **Achievements** _:
 
-- Trained & co-supervised an undergraduate thesis project with the end delivery of a Web Application Development for the software education laboratory. WebML+, HTML, CSS
-- Trained & supported a postgraduate thesis project that deals with a network performance management system project using Sun JINI self-discovery middleware
-- Full lifecycle development of a PDA class library, which provides students with a framework for software development using PDA's. (Java based embedded, Server-side Java, DBMS – Intersystems Caché)
+- Trained and co-supervised an undergraduate thesis project culminating in the delivery of Web Application Development for the software education laboratory. WebML+, HTML, CSS
+- Trained and supported a postgraduate thesis project focused on a network performance management system using Sun JINI self-discovery middleware
+- Developed a PDA class library that provided students with a framework for software development using PDAs (Java-based embedded, server-side Java, DBMS – Intersystems Caché).
 - Gained formal lecturing and technical speaking experience
 
 _ **Projects** _ **:**
 
 - Supervised students in software design throughout the software development life cycle (J2EE, Corba, Jini, J2SE, Microsoft .NET.)
 - Installed and designed a new mobile enterprise system that presents wireless connectivity to an enterprise control context 
-- Developed Java & .NET Mobile applications for PDAs
-- Bluetooth Wireless Radio Technology on Linux enterprise connectivity application
-- Class presentations on J2EE
-- Presentations and tutorials on Java 2 EE technology (Autumn 2003)
-- Corba tutorials (May 2003)
-- Supervising Intersystems Caché OODBMS development
-- Application Server support in the software lab, BEA Weblogic 8.1, SunOne Application Server 6.0, CVS on Unix
+- Developed Java and .NET Mobile applications for PDAs
+- Created a Bluetooth wireless radio technology application for Linux enterprise connectivity
+- Delivered class presentations on J2EE and conducted tutorials on Java 2 EE technology (Autumn 2003) and CORBA (May 2003).
+- Supervised development using Intersystems Caché OODBMS
+- Provided application server support in the software lab, including BEA Weblogic 8.1, SunOne Application Server 6.0, CVS on Unix
 - Installation, configuration and assistance on using software development environments, languages, configuration management and modelling.
-- Supervising in the application of software engineering process using CASE tools, Rational Suite, Archstyler
+- Supervised the application of software engineering process using CASE tools, Rational Suite, Archstyler

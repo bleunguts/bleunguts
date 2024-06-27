@@ -38,17 +38,17 @@ _ **Environments** _ **:** Windows
 
 _ **Methodology** _ **:** Agile
 
-_ **Description** _ **:** In house eCommerce FX low-latency real-time pricing and trading execution platform. The GUI subscribed to RMDS Reuters price ticks, calculates and publishes sales prices to external clients through ECN FIX channels (360T, FXALL,RTFX) and CA traders via RFQ or auto-trading configuration screen.
+_ **Description** _ **:** In house eCommerce FX low-latency real-time pricing and trading execution platform. The GUI subscribed to RMDS Reuters price ticks, calculates and publishes sales prices to external clients through ECN FIX channels (360T, FXALL,RTFX) and to CA traders via RFQ or auto-trading configuration screens.
 
 _ **Projects** _ **:**
 
 - Developed enhancements for FX Spot, FX Forwards, FX Swaps, Options (Vanilla Sales & Structured FX)
-- Implemented spread calculation based on traders and sales spread building forward points for corresponding asset classes (Forwards, Swaps, Options)
+- Implemented spread calculation based on traders' sales' spread, building forward points to price the corresponding asset classes (Forwards, Swaps, Options)
 - Streaming new RICS from RMDS to generate live price tick input feed into the eCommerce platform, Implemented conflation of dropped price ticks improving overall system resilience.
 - Support new QuickFix protocol ECN (360T, FXALL) for publishing prices to external downstream market interbank platforms
-- Cash Deal Request for Quote(RFQ) GUI development screen for traders to add their spreads in the FX pricing module
-- Implemented with the team price and trader spreads stream aggregation push-based SOA design pattern, an extension to the existing price/spread tick pub sub model
-- Conducted Root cause Analysis for trading losses which involved investigating price and order execution logs. Commonly related to latency and system latency tolerance limit, so isolated offending code, and utilized Redgate Performance Profiler to isolate limiting code. Presented and resolved performance designs to the price subscription and trade execution pipeline.
+- Developed Cash Deal Request for Quote(RFQ) GUI screen, allowing traders to add their spreads in the FX pricing module
+- Implemented price and trader spreads stream aggregation using a push-based SOA design pattern, extending the existing price/spread tick pub-sub pattern.
+- Conducted Root cause Analysis for trading losses, investigating price and order execution logs. Isolated offending code related to latency and system latency tolerance limits, used Redgate Performance Profiler to analyze performance degradation trends in code resulting to the trading loss impact. Presented and resolved performance designs in the price subscription and trade execution pipeline.
 
 # Trafigura
 
@@ -149,17 +149,17 @@ _ **Environments** _ **:** Windows / RHEL4 Linux / Solaris
 
 _ **Methodology** _ **:** Open Source, Code Approvals
 
-_ **Description** _ **:** As a Core QA strategist we were expected to employ our leadership and initiative in identifying areas within the platform that require a QA focus and act promptly to take said issues to resolution in the expeditious, complex, mission critical environment of the core SecDb programming platform. SecDb distributes financial calculations units world-wide via its in-house compute grid and spans over equities, commodities, fixed income, IRP, emerging markets worldwide (NY, LDN, TKO, HK, BGL).
+_ **Description** _ **:** As a Core QA strategist, my role required leadership and initiative to identify and resolve issues within the platform in the fast-paced, complex, mission-critical environment of the core SecDb programming platform. SecDb distributes financial calculation units worldwide via its in-house compute grid, covering equities, commodities, fixed income, IRP, and emerging markets across New York, London, Tokyo, Hong Kong, and Bangalore.
 
-I worked on a regular basis with the world-class team of core devs, core quants, core installs and desk strategists focusing on the unforgivingly tight bi-weekly SecDB releases.
+*Collaborative Problem-Solving:* Worked closely with core developers, quants, installers, and desk strategists to manage the bi-weekly SecDb releases.
 
-This involved but not limited to capturing production issues from desks or working laterally through code inspection and investigating owners and impacted parties by rapidly programming Slang scripts to traverse the strategic, colossal, open-source eco-system deployed on every computer globally within the investment bank.
+*Production Issue Resolution:* Captured and resolved production issues reported by desks or identified through code inspection. This involved programming Slang scripts to navigate the extensive, open-source ecosystem deployed globally within the investment bank.
 
-Code inspection to identify design flaws and following-up with analysis of such impact, risk and potential future issues to improve the code base, and was frequently involved in code inspection to identify scalability and performance issues during times of volatile trading volumes.
+*Code Inspection and Analysis:* Regularly inspected code to identify design flaws, assess their impact, and determine potential risks. Focused on scalability and performance issues, particularly during volatile trading periods.
 
-Implementing improvements & fine-tuning the distributed regression rig results to ensure the timely delivery of code regressions, analysing cyclomatic complexity of code to unveil potential issues in code, crafting tests for low level API code entry points such as popular programming paradigms that Slang exhibits.
+*Communication and Collaboration:* Effectively managed contradictory assumptions between developers, using judgment and team collaboration skills to ensure successful global releases, directly impacting Goldman Sachs' bottom line.
 
-Especially when sifting through contradictory implied assumptions from developer to developer, judgment & team collaboration skills were imperative as global releases have a direct impact on the bottom line of Goldman Sachs.
+My work involved identifying areas requiring QA focus and promptly resolving issues to maintain the platform's integrity and performance. This proactive approach ensured the reliability and efficiency of SecDb releases, which are crucial to the firm's operations.
 
 _ **Achievements** _ **:**
 
@@ -174,11 +174,11 @@ _ **Achievements** _ **:**
 
 _ **Projects** _ **:**
 
-- RAMS (Regression Analysis) distributed over 1 billion calculation units running on the in-house grid to test regressions in releases or pricing sensitive changes
-- Price regression analysis on all SecDb assets (equities, commodities, fixed income, IRP)
+- RAMS (Regression Analysis) distributed over 1 billion calculation units (in-house grid) to verify pricing sensitive changes and discrepancies between release versions
+- Price regression analysis tests pricing variations across SecDb assets including equities, commodities, fixed income and IRP.
 - Day-to-day PreProd differences analysis, analysis of test results including pricing model tests, pricing variation results, SecDb Core technology test results.
 
-As it is infeasible to achieve test coverage for every aspect of system, pioneered an idea to use code inspection as to identify flaws in design and worked with core devs to resolve issues preventing production defect rate.
+As it is infeasible to achieve test coverage for every aspect of system, pioneered an idea to use code inspection to identify design flaws and collaborated with core devs to resolve issues reducing production defect rate dramatically.
 
 - Conceptualize, implement and refine test algorithms systems, based on inspection of application code, known defects and very limited functional requirements.
 - Heavy design + development of workflow tools, Designing & implementing tools for the QA infrastructure are a day-to-necessity at GS.
