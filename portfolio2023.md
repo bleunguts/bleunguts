@@ -25,7 +25,7 @@ _ **Consultancy Experience:** _ Analyst Developer, Credit Valuation Adjustments,
 
 _ **Description** _ **:**
 
-FRTB CVA technology team works with the bank's distributed risk system including sophisticated risk analysis and reporting functionality, market and trade data interfaces, services to integrate risk analytics engine with the FRTB application layer to comply with the Basel III Regulatory CVA risk requirements.
+The FRTB CVA technology team works with the bank's distributed risk system integrating risk analytics engines with the FRTB application layer to comply with Basel III Regulatory CVA risk requirements. (credit risk analysis, risk reporting, market data interfaces and trade data interfaces)
 
 Main goal of FRTB CVA programme is to capture risk drivers of CVA risk to better align capital standards with accounting practices. The role demanded end-to-end ownership of stories, from technical business analysis incl. breaking down into manageable sub-stories and tickets, full stack development of the React UI, ASP.NET Web API, DB changes, changes to calc workflow and quant analytics layer, triggering valuation batch workflows with carefully configured pricing parameters, manual UI acceptance testing and automated unit tests/BDD Specflow acceptance tests. We were responsible for the cohesive end-to-end full stack delivery of each user story. I must stand behind my delivery and the risk results produced to be ready to answer any questions that arrive from the desk and project management.
 
@@ -39,7 +39,7 @@ _FRTB Capital Requirements Breakdown story_
 
 Computation of capital requirements is one of the main drivers of FRTB CVA; the trading desk is required to hedge against the huge capital numbers produced in compliance with Basel III. This story required producing portfolio level capital requirements for SA-CVA, BA-CVA for the bank's netting agreements. Ongoing responsibility of this story involved root cause analysis on capital number discrepancies and working with various team members and quants to take to resolution.
 
-- Extended the batch workflow to source hedge allocation reference data and funnelled to the capital calculator (Backend C#, SQL stored procs, Batch workflow XAML)
+- Extended batch workflow to source hedge allocation reference data and funnelled it to the capital calculator (Backend C#, SQL stored procs, Batch workflow XAML)
 
 - Implemented Capital Breakdown UI screen, capital breakdown by legal entity and capital request (Gross Capital, Hedges applied, and Net Capital). (React UI, Backend C#)
 - Investigated issue due to incorrect sourcing of hedge risks because the backend sourcing of Accounting CVA trade-level hedges did not account for the fact that FRTB CVA specific calcs aggregate tenors at a yearly level. Fixed backend server to implement correct grouping of risk hedges to be supplied to the capital calc
@@ -49,7 +49,7 @@ _FRTB Capital Calculator Hedge Risk verification story_
 
 This feature exposed key inputs of the capital calculator for capital calc batch runs to the end user
 
-- Implemented the Hedge Verification MI screen that exposed credit spread hedges, credit quality per netting set (key model inputs to the capital calculator). (React, Backend C#)
+- Implemented Hedge Verification MI screen exposing key inputs of the capital calculator such as credit spread hedges, credit quality per netting set. (React, Backend C#)
 - Involved understanding and execution of capital calc workflows for testing, analysing valuation snapshot cache service for correct calc input parameters for the COM interop quant capital calculator
 - Implemented the sourcing of published reference data (credit quality, region) in the backend and conducted thorough user acceptance testing simulating trader usage of the UI to assign and publish credit quality, region to cpty for the valuation batch and the analytics to process (Backend C#, SQL)
 
@@ -106,7 +106,7 @@ _ **Methodology** _ **:** Scrum/Agile, Pair Programming, Micro-services, Legacy 
 
 _ **Consultancy Experience** _: Risk system rationalisation & system integrations, Ticking OLAP relational table transformations, incomplete testing and lengthy releases
 
-_ **Description** _ **:** GRT is recognised as the banks unifying intraday platform for Equities and Rates; boasting simplicity, regular, consistent and automated tested releases, the gold standard of best utilization of the CS ticking OLAP relational algebra platform that is responsible for processing huge streams of financial data sets in real-time.
+_ **Description** _ **:** The GRT platform processes huge streams of financial data in real-time, providing unified intraday risk results for Equites and Rates. GRT boasts simplicity, regular automated tested releases, the gold standard of best utilization of the CS ticking OLAP relational algebra platform (huge financial data real-time cruncher).
 
 This programme involved migrating CS's FX intraday system that also publishes real-time P&L for spot/forwards/spot ladder but for the FX market into the wider and larger GRT ecosystem.
 
