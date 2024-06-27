@@ -21,8 +21,8 @@ _ **Description** _ **:** Developed the WPF GUI for Lloyds Banking Group’s cor
 
 _ **Projects** _ **:**
 
-- Implemented features related to Dodd Frank regulations, enhancing the FX model pricing configuration module for tradures 
-- Collaberated with the trading desk to develop a custom WPF control that presented traders with a hybrid dropdown and checkbox control with instructional tooltips to help them select different pricing configurations.
+- Implemented features related to Dodd Frank regulations, enhancing the FX model pricing configuration module for traders 
+- Collaborated with the trading desk to develop a custom WPF control that presented traders with a hybrid dropdown and checkbox control with instructional tooltips to help them select different pricing configurations.
 
 # Credit Agricole
 
