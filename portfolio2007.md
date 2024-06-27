@@ -58,7 +58,6 @@ _SiPass Integrated_
 - Designed & implemented mechanism for system-wide fetching of database credential information. (C++, COM, C++ .NET, C# .NET, C++ Cryptology, Wise for Windows Installer). The challenge overcame was designing it with extensibility in mind as it was used for all future projects data access.
 - Designed & implemented mechanism for system-wide fetching of system sensitive database credential information. (C++, COM, C++ .NET, C# .NET, C++ Cryptology, Wise for Windows Installer)
 - Integrated an external legacy access control system into SiPass by designing a migration tool and developing integration features into SiPass. (C++, COM, MFC, ODBC)
-
 - Resolved issue with where user sessions were not identified properly and caused reporting of logged in users incorrectly, C++, COM
 - Designed 20+ system bite sized enhancements requested by product line (C# .NET, COM+ MFC, .NET Message Queue, Crystal Reports, C++)
 - Designed & implemented VC++7 module to detect which SQLServer versions are available on the domain & implementing into Wise for Windows Installer. (VC++7, Wise for Windows Installer)

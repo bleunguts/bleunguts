@@ -48,7 +48,6 @@ _FRTB Capital Requirements Breakdown story_
 [Objective:](#) Computation of capital requirements is one of the main drivers of FRTB CVA; the trading desk is required to hedge against the huge capital numbers produced in compliance with Basel III. Produce portfolio level capital requirements for SA-CVA, BA-CVA against the bank's netting agreements. Ongoing responsibility of this story involved root cause analysis on capital number discrepancies and working with various team members and quants to take issues to resolution.
 
 - Extended batch workflow to source hedge allocation reference data and funnelled it to the capital calculator (Backend C#, SQL stored procs, Batch workflow XAML)
-
 - Implemented Capital Breakdown UI screen, displaying capital breakdown by legal entity and capital request (Gross Capital, Hedges applied, and Net Capital). (React UI, Backend C#)
 - Investigated and fix issues with the hedge risks backend sourcing of Accounting CVA trade-level hedges did not account for the fact that FRTB CVA specific calcs aggregate tenors at a yearly level. Fixed backend server to implement correct grouping of risk hedges to be supplied to the capital calc
 - Investigating valuation batch workflow pricing parameters to be used to debug quant capital calculator (via COM interop) producing incorrect capital. Fixed by working with team members to fix the pricing model parameters in the pricing configuration store
@@ -91,7 +90,6 @@ _Other features_
 
   - Implemented Hedge Allocation validation that validated that all counterparties are 100% hedged before publication to SA-CVA calculators. (React, C# backend)
 - Implemented Risk Selection Modal that allows users to select risk results from a selection of batch runs as inputs for capital batch runs.
-
 - Implemented calc exception drill-in screen that sources detailed exception stack-trace from backend (React, Backend C#)
 - Fixed issue with applied controls returning incorrect comparison values due to flaws in comparison logic (React, Backend)
 - Enhanced batch comparison screens so that risk values shows column filter (React 7 tables)
@@ -130,18 +128,20 @@ _ **Projects** _ **:**
 
 _Risk Server migration_
 
-Migration of components of the main risk engine (Risk Server, C# WebApi) that serves risk results to the WPF UI via its various connectors (through the CS OLAP services cluster including DB/Redis, Grpc connector to RiskServer). Included migrating and porting sourcing/pivots/groupings/aggregations table definitions which are written in CS OLAP DSL.
+[Objective:](#) Migrate components of the main risk engine (Risk Server, C# WebApi) that serves risk results to the WPF UI via its various connectors (through the CS OLAP services cluster including DB/Redis, Grpc connector to RiskServer).
 
-- Paired with colleague to decouple the risk data streaming into a new GrpcServer component (C# WebApi/SQL)
-- Extended the WPF UI communications layer to discover the new Linux servers based on a user whitelist to facilitate a staged release, Implemented external test to find root cause and fix efficiently to overcome the challenge of ticking UI data streams (C#, WPF, Consul)
-- Extended transformer that code generates Java classes, OLAP DSL table definitions (1,000+ risk value table shape, joins/filters, projections, aggregation) from the FX system (GoLang)
-- Worked with the team domain experts to configure trade loading, spot ladder, 'On demand risk runs' (separate code path) and various core risk reports (FX Spot/Forward and the Spot Ladder report) for post migration testing. Reported surfaced issues with team for further development fixes.
+-  Migrated and ported sourcing/pivots/groupings/aggregations table definitions written in CS OLAP DSL.
+- Paired with a colleague to decouple the risk data streaming into a new GrpcServer component (C# WebApi/SQL)
+- Extended the WPF UI communications layer to discover the new Linux servers based on a user whitelist, facilitating a staged release. 
+Implemented external test to find root cause and fix efficiently to overcome the challenge of ticking UI data streams (C#, WPF, Consul)
+- Extended a transformer that code generates Java classes, OLAP DSL table definitions (1,000+ risk value table shape, joins/filters, projections, aggregation) from the FX system (GoLang)
+- Worked with domain experts to configure trade loading, spot ladder, 'On demand risk runs' (alternative code path) and various core risk reports (FX Spot/Forward and the Spot Ladder report) for post-migration testing. Reported issues for further development fixes.
 - Refactored RiskServer components to support Nancy IOC (C# Backend, Nancy)
-- Root cause analysis on GrpcServer hanging on shutdown using memory dumps and VS Parallel Task view
+- Conducted root cause analysis on GrpcServer hang-ups during shutdown using memory dumps and VS Parallel Task view
 
 _Automated Regressions_
 
-The regression system was built with a GoLang runner that triggers regression workers (Scala/Java) on OpenShift/Kubernetes to perform diffs between risk sets in two environments. The regression run results are stored in Postgres and visualized in Kotlin Ktor Web UI.
+[Objective:](#) Extend the regression system built with a GoLang runner that triggers regression workers (Scala/Java) on OpenShift/Kubernetes to perform diffs between risk sets in two environments to support new FX rec runs. The regression run results are stored in Postgres and visualized in Kotlin Ktor Web UI.
 
-- Address the challenge of regressing large data sets (3 million data rows) when regressing single currency ladder reports. Implemented regression runners on Openshift/Kubernetes and tuning the openshift platform based on measured memory consumption (GoLang, Openshift)
-- Resolved challenge where regression runs timed out after 6 hours, implemented a chunking strategy of reports (by sub report types) so that RegressionWorkers can process large regression runs reliability. (Scala)
+- Address the challenge of regressing large data sets (3 million data rows) when regressing single currency ladder reports by implementing regression runners on Openshift/Kubernetes and tuning the openshift platform based on measured memory consumption (GoLang, Openshift)
+- Resolved timeout issues with regression runs exceeding 6 hours by implementing a chunking strategy for reports (by sub-report types), enabling RegressionWorkers to process large runs reliably (Scala).
