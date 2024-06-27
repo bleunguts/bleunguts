@@ -165,12 +165,12 @@ _ **Achievements** _ **:**
 
 - Major strength is in root-cause analysis of problem, proposing solutions to core developers. My breadth of knowledge in programming languages allowed me to be effective in identifying root cause (C++, Java, .NET).
 - Balance of prioritization, liaising with skilled team members, making right judgments is a day-to-day aspect and plays a crucial part to the tight bi-weekly release schedule
-- Improved core software release success rate from 5% to 100% (through diligent process optimization & team command), thereafter received recognition by the Core team and thereafter I was wholly assigned for signing off SecDb releases. Commended by upper management for improving the quality of global SecDb releases!
-- Working with global team members to bring resolution of many defects & flaws in code that reduced down-time in real-time trading consequently reducing system risk to the corporations applications.
-- Successfully drove QA process for VC6 to VC8 (.NET) upgrade for all applications/computers world-wide. In 2006 core has failed to release VC8 because of the complexity of a global upgrade from legacy VC6 to VC8. Leveraging from my prior experience in VC++ migrations to .NET and depth of understanding in memory / performance potential issues Goldman Sachs world-wide now utilizes VC8 for all its pricing/financial applications.
-- Gained experience with dealing with financial pricing applications
-- Initiated the Core QA presence in LDN – as the sole member in LDN I had to figure out the requirements of the role, how to best utilize the differences in time-zones between LDN and NY in which we were able to grow the LDN team to two members as per date.
-- Successfully conceptualized and implemented workflow enhancements into our existing QA Dashboard in Slang. Required accurate identification of workflow inefficiencies, implementing the enhancement and socializing in a timely matter.
+- Improved the core software release success rate from 5% to 100% through diligent process optimization and effective team management. This achievement was recognized by the Core team, and I was subsequently given sole responsibility for signing off SecDb releases. Commended by upper management for significantly enhancing the quality of global SecDb releases.
+- Collaborated with global team members to resolve numerous defects and code flaws, reducing real-time trading downtime and mitigating system risk for corporate applications.
+- Successfully drove QA process for upgrading VC6 to VC8(.NET) across all applications and compute hosts globally. Overcome challenges from the failed 2006 VC8 release by leveraging expertise in VC++ migrations to .NET and addressing memory/performance issues. Goldman Sachs now universally employs for pricing and financial applications.
+- Acquired extensive experience with financial pricing applications.
+- Pioneered the establishment of the Core QA presence in LDN. As the initial member, identified role requirements and optimized the use of time-zone differences between LDN and NY, leading to the expansion of the LDN team to two members.
+- Conceptualized and implemented workflow enhancements in our QA Dashboard (Slang). This initiative involved identifying and addressing workflow inefficiencies, implementing improvements, and effectively communicating these changes.
 
 _ **Projects** _ **:**
 

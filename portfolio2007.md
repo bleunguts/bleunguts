@@ -27,15 +27,15 @@ _ **Description:** _ SiPass has been installed at 1300 sites in 55 countries wor
 
 _ **Achievements:** _
 
-- Smart Card Hardware API Development: Gained development expertise in smart card hardware APIs (GemPlus 332, HID 6055B).
-- Innovative Feature Development: Developed a component supporting smart card access control for personal office rooms' cylinders, a major product selling point. Contributed to 15% uptick in sales.
-- DVR API Module Lead: Managed the Digital Video Recording (DVR) API module, responsible for image capturing sequencing based on alarm events. Developed C++ COM solutions for third party recording hardware innovations working directly with third party DVR vendors to source requirements. (C++, ATL, STL, COM)
-- Live Anomaly Solutions: Delivered solutions to non-deterministic critical live anomalies, reducing end-user client complaints.  Glowing feedback from client appraising analysis skills and won team award for 'anomaly hunter' 
+- *Smart Card Hardware API Development:* Gained development expertise in smart card hardware APIs (GemPlus 332, HID 6055B).
+- *Innovative Feature Development:* Developed a component supporting smart card access control for personal office rooms' cylinders, a major product selling point. Contributed to 15% uptick in sales.
+- *DVR API Module Lead:* Managed the Digital Video Recording (DVR) API module, responsible for image capturing sequencing based on alarm events. Developed C++ COM solutions for third party recording hardware innovations working directly with third party DVR vendors to source requirements. (C++, ATL, STL, COM)
+- *Live Anomaly Solutions:* Delivered solutions to non-deterministic critical live anomalies, reducing end-user client complaints.  Glowing feedback from client appraising analysis skills and won team award for 'anomaly hunter' 
 - Recognised for my diligence to follow through pursuing tracking the bad patterns throughout the code base and resolving accordingly. C++, C# .NET, COM, .NET Remoting, SQL Server, Wise, Memory Leaks
 - Driven with a sense of ownership & proven ability to deliver zero-risk solutions the project manager consequently delegated more show-stopping site issues, more enhancements and more development areas to take charge of. Assigned lead dev with one to three engineers in recognition of my leadership qualities and knowledge in development areas and was assigned responsibility of the outcome of the leading tasks.
 - Resolved a complex, non-deterministic OLE Server Busy issue which was left unsolved for many years. Through rigorous root cause analysis, identified the issue to be performance related in the C++ RPC connectivity to the server. Resolved & delivered with assistance from engineers that had experience with these legacy modules. (C++, MFC)
 - Assigned responsibility for quality assurance of requirements, design & API manuals from other engineers in recognition to my attention to quality.
-- Cost-Reduction Automation Tool: Developed a tool that cut language localization costs by over 40% reducing expenses by €1.5 million. With the growing number of languages (12+) per release moving away from manual steps, I was self-motivated to engineer process optimization.  Promoted to localization expert and led a team of two to three engineers to push this engineering effort. (C# .NET, Scripting, C++ RC-WinTrans API)
+- *Cost-Reduction Automation Tool:* Developed a tool that cut language localization costs by over 40% reducing expenses by €1.5 million. With the growing number of languages (12+) per release moving away from manual steps, I was self-motivated to engineer process optimization.  Promoted to localization expert and led a team of two to three engineers to push this engineering effort. (C# .NET, Scripting, C++ RC-WinTrans API)
 
 _ **Projects** __:_
 
