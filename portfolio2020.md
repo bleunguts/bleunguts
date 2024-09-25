@@ -97,6 +97,7 @@ _GiraffeRT (Giraffe Real-Time Risk Development)_
 - Implemented enterprise circuit breaker of MQ to resolve production issue that caysed server crashes and loss of risk results
 - Assessing and implementing caching technologies to support high volumes of market data and trade position data sourcing. (Oracle Coherence local/remote caching, HTTP caching using CacheCow, Grid Computing Caching technologies)
 
+<a id="computedgrid"></a>
 _Yeti (Compute Grid Submitter)_
 
 - Development of valuation system using grid technologies and bank's analytics libraries serviced by a REST API (ASP.NET WebApi, IBM Spectrum Symphony 7)
