@@ -35,7 +35,7 @@ Post-investigation, I discussed performance enhancements and raised work items. 
 
 _ **Projects** _ **:**
 
-_Giraffe Core (Risk Development)_
+###### Giraffe Core (Risk Development)
 
 - Implemented new risk types by sourcing market data, funnelling the correct data shape into the quant dictionary and handling quant risk results. Enhanced the Risk UI for trading to value against the new risk types and fed the risks to the relevant overnight risk reports.
 - Implemented additional risk reports including new risk bump scenario and the scheduling code that ensure risk reports results were fed to the data services cluster within scheduling requirements.
@@ -54,7 +54,7 @@ _Giraffe Core (Risk Development)_
 - Implemented support for Commodities Index and Spot Bumping for Full Revaluation (VaR) reports.
 - Resolved a long standing anomaly with the Apache Artemis cluster that caused  non-deterministic message loss.  This edge case happened during automatic self-restart after server crashes. It was complex to solve as the obvious options for MQ brokers to set up message redistribution have always been turned on.  Led the investigation with chief SMEs and brought the issue to a resolution reducing the out-of-support calls for server crashes significantly.
 
-_Giraffe Emu (Compute Grid Submitter)_
+###### Giraffe Emu (Compute Grid Submitter)
 
 - Spearheaded the design of a Greenfield micro-service that receives quant valuation requests via MQ and processes it on the compute grid. This included elastic compute grid session management and processing the huge volumes of execution results received from the compute grid. (Kotlin 1.3, Kotlin CoRoutines, Kotlin Flows, Apache Artemis MQ, IBM Symphony 7)
 - Implemented and delivered end-to-end compute grid submitter from inception, including a clustered session closing feature to purge selected compute workloads.
