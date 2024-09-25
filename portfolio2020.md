@@ -87,7 +87,7 @@ Throughout my tenure, I demonstrated expertise in grid computing, performance op
 
 _ **Projects** _ **:**
 
-_GiraffeRT (Giraffe Real-Time Risk Development)_
+###### GiraffeRT (Giraffe Real-Time Risk Development)
 
 - Implemented new risks and supporting various asset classes for the real-time business including Options, VIX, ETFs, Bonds, Exotics.
 - Implemented attribution and scenario analysis to evaluate risk changes due to market movements
@@ -97,8 +97,8 @@ _GiraffeRT (Giraffe Real-Time Risk Development)_
 - Implemented enterprise circuit breaker of MQ to resolve production issue that caysed server crashes and loss of risk results
 - Assessing and implementing caching technologies to support high volumes of market data and trade position data sourcing. (Oracle Coherence local/remote caching, HTTP caching using CacheCow, Grid Computing Caching technologies)
 
-<a id="computedgrid"></a>
-_Yeti (Compute Grid Submitter)_
+
+###### Yeti (Compute Grid Submitter)
 
 - Development of valuation system using grid technologies and bank's analytics libraries serviced by a REST API (ASP.NET WebApi, IBM Spectrum Symphony 7)
 - Core programming of the IBM Symphony Grid API to launch worker calculations on the compute grid
@@ -107,7 +107,7 @@ _Yeti (Compute Grid Submitter)_
 - Performance analysis on compute grid slot ratios, successfully delivered achieving 3 times compute capacity cutting TCO costs by 1/3
 - Participated as an SME in the Azure and GPU program rollout.
 
-_Walrus (Desk Asset Configuration provider)_
+###### Walrus (Desk Asset Configuration provider)
 
 - Contributed to the architectural design of a greenfield configuration system for desk pricing parameters, pricing model data, and instrument configuration using ASP.NET WebAPI and MongoDB.
 - Led the implementation of the Data Access Layer with MongoDB, including cross-regional replication design and schema definition to meet HA and resilience requirements.
