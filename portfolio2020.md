@@ -37,7 +37,7 @@ _ **Projects** _ **:**
 
 ###### Giraffe Core (Risk Development)
 
-- Implemented new risk types by sourcing market data, funnelling the correct data shape into the quant dictionary and handling quant risk results. Enhanced the Risk UI for trading to value against the new risk types and fed the risks to the relevant overnight risk reports.
+- •	Implemented new risk types by sourcing market data, funnelling the correct data shape into the quant dictionary and handling quant risk results. Enhanced the Risk UI for trading to value against the new risk types and fed the risks to the relevant overnight risk reports. (Full-stack HTML5,Javascript,Java) 
 - Implemented additional risk reports including new risk bump scenario and the scheduling code that ensure risk reports results were fed to the data services cluster within scheduling requirements.
 - Implemented book level Time Scenario bumping, sourcing market data for a specified date (e.g. T+1) and designing UI elements for the intraday GUI. Coordinated with BAs to set regulatory reporting schedules and implemented batch triggers. This allowed trading to run T+1 scenario before public holidays by supplying regional calendars to the quant routines resulting in more accurate pricing.
 - Implemented SA-CCR risk to capture the new standard for counterparty credit risk exposure, sourcing supervisory delta and volatility data from market data service to be supplied to the quant library calculation.
@@ -58,6 +58,7 @@ _ **Projects** _ **:**
 
 - Spearheaded the design of a Greenfield micro-service that receives quant valuation requests via MQ and processes it on the compute grid. This included elastic compute grid session management and processing the huge volumes of execution results received from the compute grid. (Kotlin 1.3, Kotlin CoRoutines, Kotlin Flows, Apache Artemis MQ, IBM Symphony 7)
 - Implemented and delivered end-to-end compute grid submitter from inception, including a clustered session closing feature to purge selected compute workloads.
+- Implemented stress testing solution that allowed us to measure impact of latency on binary versions. (Gatling Simulation Design)
 
 # (Credit Suisse) Giraffe Yeti
 
@@ -103,9 +104,11 @@ _ **Projects** _ **:**
 - Development of valuation system using grid technologies and bank's analytics libraries serviced by a REST API (ASP.NET WebApi, IBM Spectrum Symphony 7)
 - Core programming of the IBM Symphony Grid API to launch worker calculations on the compute grid
 - Implementing workload priority, gaining deep knowledge of grid scheduling policies, task pre-emption algorithms based on priority and selective reclaim of compute resources. This would be exposed via the API to end users so they can prioritize huge workloads to get an idea
-- Designed dashboards to visualize the valuation compute on the grid such that the firm-wide 22,000 compute units can be visualized and monitored and reviewed for bottlenecks to maximise compute usage. Performance metrics were an integral part of periodic business capacity reporting as an attempt to manage the volatility of valuation volumes due to BAU or could be impact of certain design decisions. (Splunk Enterprise Dashboards and Alerts)
+- Developed a full-stack solution using HTML5 and Knockout JS to streamline the complex workflow of pushing analytics quant libraries to both internal grids and external clouds. Designed a Single Page Application (SPA) to manage the deployment of quant libraries across limited slots, seamlessly integrating with IaC tools like the Octopus and TeamCity APIs to deploy packages globally across server farms and external clouds. The dashboard provided real-time visibility into available analytics versions, live instances, and current usage metrics.
+- Designed dashboards to visualize the valuation compute on the grid such that the firm-wide 22,000 compute units can be visualized and monitored and reviewed for bottlenecks to maximise compute usage.  Performance metrics were an integral part of periodic business capacity reporting as an attempt to manage the volatility of valuation volumes due to BAU or could be impact of certain design decisions.   (Splunk Enterprise Dashboards and Alerts, InfluxDB, Grafana, Redgate Performance Profiling, JMeter, Gatling)
 - Performance analysis on compute grid slot ratios, successfully delivered achieving 3 times compute capacity cutting TCO costs by 1/3
 - Participated as an SME in the Azure and GPU program rollout.
+- Conducted data analysis for valuation capacity forecasting, utilizing performance metric charts to optimize host and Azure slot purchases. With the introduction of Kubernetes, implemented its API to dynamically spin up new server hosts and automate build pushes.
 
 ###### Walrus (Desk Asset Configuration provider)
 
