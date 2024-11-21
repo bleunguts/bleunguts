@@ -64,19 +64,17 @@ _ **Environments** _ **:** Windows
 
 _ **Methodology** _ **:** Agile
 
-_ **Description** _ **:** Served as the lead developer for the Oil & Metals legacy enterprise platform, supervising and mentoring 10+ team members.  Focused on enhancing code quality, devising development best practices, and coordinating sensitive production releases.
+_ **Description** _ **:** Served as the lead developer for Trafigura’s Oil & Metals legacy enterprise platform, supporting one of the world’s largest end-to-end crude oil supply chains.  My role focused on reliability and performance in a high-stakes environment by enhancing code quality, devising development best practices, and coordinating sensitive production releases whereby operational efficiency directly impacts $70billion commodities under management.  Supervised and mentored 10+ developers driving critical improvements to code quality and development standards tailored to the high impact oil desks.
 
-_ **Consultancy Experience** _: One of the pivotal things our consultancy team came in to solve was the sensitivity of the production releases and the impact to the business, originating from defects or bad release coordination.
+_ **Consultancy Experience** _: Our consultancy team orchestrated critical overhauls to mitigate risks by re-engineering release management processes and developing innovative tools to streamline production and system uptime.  I spearheaded initiatives to optimize middle-office trade capture and risk management, leveraging domain-specific expertise in crude oil logistics, futures pricing, and supply chain dynamics.
 
-I drove innovations to enhance code quality, code analytics, devising development best practices and coding standards, team hiring for developing the trade capture trading system.
-
-Achieved client recognition and gained exclusivity for BJSS, yielding an explosion of consultancy headcount deeming this a consultancy success for our consultancy.
+This successful engagement earned BJSS exclusivity with Trafigura, significantly expanding consultancy involvement within the company and solidifying our reputation for delivering high-impact transformative results. 
 
 _ **Projects** _ **:**
 
-- Developed middle office solutions for Trade Capture and Derivatives trading (Oil & NATGAS Futures/Options/Swaps).
-- Added Black-Scholes model calibration parameters to the Oils Options module.
-- Conducted release management activities, coordinating seven different teams for smooth deployment in a volatile production environment.
+- Developed middle office solutions for Trade Capture and Derivatives trading covering Oil & Natural Gas Futures , Options and Swaps.
+- Enhanced the Oils Options module with Black-Scholes model calibration parameters, improving valuation precision for crude oil derivatives.
+- Led complex release operations, coordinating efforts across seven teams to ensure smooth deployment and mitigate risks in a volatile production environment.
 
 # UBS
 
