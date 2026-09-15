@@ -22,19 +22,19 @@ Other Languages: Kotlin
   <img src="https://bleunguts.github.io/bleunguts/images/tech/cpluspluslogo.PNG" alt="C++" title="C++ Interop" height="42" />
   <img src="https://bleunguts.github.io/bleunguts/images/tech/DotNetCoreLogo.PNG" alt=".NET Core" title=".NET Core / .NET 9" height="42" />
   <img src="https://bleunguts.github.io/bleunguts/images/tech/jetbrainsriderlogo.PNG" alt="Rider" title="JetBrains Rider" height="42" />
+  <img src="https://bleunguts.github.io/bleunguts/images/tech/splunkenterpriselogo.PNG" alt="Splunk" title="Splunk" height="42" />
 </div>
 
 <div class="telemetry-stack-row" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 15px 0;">
   <!-- Analytics & Telemetry Icons -->
-  <img src="https://bleunguts.github.io/bleunguts/images/tech/splunkenterpriselogo.PNG" alt="Splunk" title="Splunk" height="42" />
-  <img src="https://bleunguts.github.io/bleunguts/images/tech/KDBXLogo.PNG" alt="KDB/Q" title="KDB/Q Analytics" height="42" />
   <img src="https://bleunguts.github.io/bleunguts/images/tech/KibanaLogo.PNG" alt="Kibana" title="Kibana Telemetry" height="42" />
   <img src="https://bleunguts.github.io/bleunguts/images/tech/GrafanaLogo.PNG" alt="Grafana" title="Grafana Dashboards" height="42" />
+  <img src="https://bleunguts.github.io/bleunguts/images/tech/KDBXLogo.PNG" alt="KDB/Q" title="KDB/Q Analytics" height="42" />
 </div>
 
 <div class="domain-badges-row" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 15px 0;">
   <!-- Interest Rate Swaps (IRS) -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="42" height="42" title="Interest Rate Swaps (IRS)">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="84" height="84" title="Interest Rate Swaps (IRS)">
     <rect width="100" height="100" rx="16" fill="#0f172a"/>
     <path d="M 28 46 A 22 22 0 0 1 72 46" fill="none" stroke="#38bdf8" stroke-width="5.5" stroke-linecap="round"/>
     <polygon points="72,39 82,47 70,53" fill="#38bdf8"/>
@@ -47,7 +47,7 @@ Other Languages: Kotlin
   </svg>
 
   <!-- CVA Risk -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="42" height="42" title="CVA Risk & Exposure">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="84" height="84" title="CVA Risk & Exposure">
     <rect width="100" height="100" rx="16" fill="#0f172a"/>
     <line x1="18" y1="82" x2="85" y2="82" stroke="#64748b" stroke-width="3"/>
     <line x1="18" y1="82" x2="18" y2="18" stroke="#64748b" stroke-width="3"/>
@@ -60,7 +60,7 @@ Other Languages: Kotlin
   </svg>
 
   <!-- Equity Risk -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="42" height="42" title="Equity Risk & Volatility">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="84" height="84" title="Equity Risk & Volatility">
     <rect width="100" height="100" rx="16" fill="#0f172a"/>
     <path d="M 18 65 Q 40 25, 60 50 T 85 20 L 85 40 Q 60 70, 40 45 T 18 80 Z" fill="#ec4899" fill-opacity="0.15"/>
     <path d="M 18 65 Q 40 25, 60 50 T 85 20" fill="none" stroke="#ec4899" stroke-width="2" stroke-dasharray="3,2"/>
