@@ -83,18 +83,20 @@ Throughout my career, I have acquired a diverse skill set and extensive experien
 
 ## Key Skills and Experience
 * **Core Software Development:** Expertise in .NET Core, Microservices, ReactiveX, SQL, Azure/Grid Computing, and Typescript front ends.
-* **Business Analysis & Client-Facing:** Strong focus on understanding business requirements and delivering client-oriented solutions.
+* **Agentic AI & Custom MCP Tooling:** Building custom C# Model Context Protocol (MCP) servers and Claude multi-agentic workflows to command AI for deterministic code execution, rapid prototyping, and automated system diagnostics.
+* **Business Analysis & Client-Facing:** Strong focus on understanding business requirements and translating business needs to client-oriented software solutions.
 * **Data Analytics:** Proficient in Splunk, including dashboard creation, alerts design, and capturing business intelligence.
 * **Release Management:** Coordination of large systems with numerous sub-systems, ensuring smooth and efficient releases.
 * **User Training & Presentations:** Experienced in training end-users and delivering presentations to enhance software adoption and usability.
-* **Software Sales & Rapid Prototyping:** Skilled in demonstrating software capabilities and quickly prototyping solutions to meet business needs.
+* **Rapid Prototyping & demos:** skilled in quickly building proof-of-concept solutions and demonstrating software capabilities to stakeholders.
 * **Scalability & Distributed Computing:** Expertise in scaling business functions using distributed computing and computing grids.
 * **Cross-Regional Team Collaboration:** Proven ability to work effectively with disparate teams across regions using open-source Git PR platforms.
 * **End-User Delivery:** Passionate about delivering high-quality solutions with a CAN DO attitude.
+* **AI-Amplified Delivery:** Combining 20+ years of core software engineering fundamentals with modern AI tooling to accelerate client deliverables with high precision and execution speed.
 
-## GitHub Projects
-* [Trading Signals Backtesting application:](https://github.com/bleunguts/ProjectX) The newest addition to my portfolio, this cloud-ready application uses cutting-edge technology and finance APIs (NinjaTrader, QL.NET, live market sources) to test long-short mean reversion trading strategies. 
-* [FX Real-Time Trading Application:](https://github.com/bleunguts/FXTrader) Focuses on engineering concepts in scalability. 
+## Featured GitHub Repositories
+* [ProjectX - Cloud Trading Signals & Backtesting application:](https://github.com/bleunguts/ProjectX) Full-stack cloud trading platform and strategy backtester, this cloud-enabled application uses cutting-edge technology and finance APIs (NinjaTrader, QL.NET, live market sources) to test long-short mean reversion trading strategies. The latest update includes integrated with custom Claude C# MCP servers for AI-assisted quantitative execution
+* [FX Real-Time Trading Platform:](https://github.com/bleunguts/FXTrader) High-throughput FX trading architecture focusing on reactive streaming, thread-safe memory allocations, and distributed scalability concepts.
 * [SOLID Principles Coffee Maker Mark IV:](https://github.com/bleunguts/CoffeeMaker) Demonstrates my implementation of SOLID principles in a practical project. 
 * [Options Pricing C++ Demo:](https://github.com/bleunguts/OptionsPricerCpp) Works with Monte Carlo and Black-Scholes routines for options pricing. 
 
