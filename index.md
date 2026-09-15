@@ -3,7 +3,7 @@
 
 C# / C++ Analyst Developer in Financial Markets / Engineering
 
-> *20+ years building high-throughput trading platforms, CVA/Risk pricing engines, and real-time eTrading pipelines—combining deep quantitative domain knowledge with Claude agentic workflows and custom MCP tooling to deliver high-quality software at speed.*[cite: 1, 2, 3, 4]
+> *20+ years building high-throughput trading platforms, CVA/Risk pricing engines, and real-time eTrading pipelines—combining deep quantitative domain knowledge with Claude agentic workflows and custom MCP tooling to to unleash high-quality software deliveries at a whole new level.*
 
 Core Skills: C# / C++ .NET
 
@@ -12,8 +12,8 @@ Other Languages: Kotlin
 *An in-depth detailed portfolio describing my work experience is available* *[here](https://bleunguts.github.io/bleunguts/portfolio)*
 
 ### Featured Personal Showcase & Innovation
-* **[ProjectX & Custom C# MCP Tooling](https://github.com/bleunguts/ProjectX):** Building full-stack cloud trading platforms and strategy backtesters (NinjaTrader / QuantLib) integrated with custom Claude Model Context Protocol (MCP) servers—converting agentic AI concepts into live, deterministic C# code execution[cite: 2, 4].
-* **Quantitative Domain Expertise:** Direct experience across Interest Rate Swaps (OIS/CORRA), yield curve bootstrapping, CVA/FRTB risk engines, and C++ quant library integration into low-latency C# services[cite: 1, 2, 3].
+* **[ProjectX & Custom C# MCP Tooling](https://github.com/bleunguts/ProjectX):** Building full-stack cloud trading platforms and strategy backtesters (NinjaTrader / QuantLib) integrated with custom Claude Model Context Protocol (MCP) servers—converting agentic AI concepts into live, deterministic C# code execution.
+* **Quantitative Domain Expertise:** Direct experience across Interest Rate Swaps (OIS/CORRA), yield curve bootstrapping, CVA/FRTB risk engines, and C++ quant library integration into low-latency C# services.
 
 <div class="tech-stack-badges" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 15px 0;">
   <!-- Standard Tech Logos -->
@@ -24,9 +24,9 @@ Other Languages: Kotlin
   
   <!-- Analytics & Telemetry Icons -->
   <img src="https://bleunguts.github.io/bleunguts/images/tech/splunkenterpriselogo.PNG" alt="Splunk" title="Splunk" height="42" />
-  <img src="/assets/images/icons/kdb.svg" alt="KDB/Q" title="KDB/Q Analytics" height="42" onerror="this.style.display='none'" />
-  <img src="/assets/images/icons/kibana.svg" alt="Kibana" title="Kibana Telemetry" height="42" onerror="this.style.display='none'" />
-  <img src="/assets/images/icons/grafana.svg" alt="Grafana" title="Grafana Dashboards" height="42" onerror="this.style.display='none'" />
+  <img src="https://bleunguts.github.io/bleunguts/images/tech/kdbxLogo.PNG" alt="KDB/Q" title="KDB/Q Analytics" height="42" onerror="this.style.display='none'" />
+  <img src="https://bleunguts.github.io/bleunguts/images/tech/kibanaLogo.PNG" alt="Kibana" title="Kibana Telemetry" height="42" onerror="this.style.display='none'" />
+  <img src="https://bleunguts.github.io/bleunguts/images/tech/grafanaLogo.PNG" alt="Grafana" title="Grafana Dashboards" height="42" onerror="this.style.display='none'" />
 
   <!-- Financial Domain Visual Badges -->
   <!-- Interest Rate Swaps (IRS) -->
