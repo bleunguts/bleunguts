@@ -3,30 +3,85 @@
 
 C# / C++ Analyst Developer in Financial Markets / Engineering
 
+> *20+ years building high-throughput trading platforms, CVA/Risk pricing engines, and real-time eTrading pipelines—combining deep quantitative domain knowledge with Claude agentic workflows and custom MCP tooling to deliver high-quality software at speed.*[cite: 1, 2, 3, 4]
+
 Core Skills: C# / C++ .NET
 
-Other Languages: Kotlin 
+Other Languages: Kotlin
 
 *An in-depth detailed portfolio describing my work experience is available* *[here](https://bleunguts.github.io/bleunguts/portfolio)*
 
-![CSharp Logo](https://bleunguts.github.io/bleunguts/images/tech/csharplogo.PNG)
-![Cpp Logo](https://bleunguts.github.io/bleunguts/images/tech/cpluspluslogo.PNG)
-![DotNet Logo](https://bleunguts.github.io/bleunguts/images/tech/DotNetCoreLogo.PNG)
-![AspNet Logo](https://bleunguts.github.io/bleunguts/images/tech/AspNetLogo.PNG)
-![WPF Logo](https://bleunguts.github.io/bleunguts/images/tech/WPFLogo.PNG)
-![Reactive Logo](https://bleunguts.github.io/bleunguts/images/tech/ReactiveLogo.PNG)
-![VS Logo](https://bleunguts.github.io/bleunguts/images/tech/VsLogo.PNG)
-![Rider Logo](https://bleunguts.github.io/bleunguts/images/tech/jetbrainsriderlogo.PNG)
+### Featured Personal Showcase & Innovation
+* **[ProjectX & Custom C# MCP Tooling](https://github.com/bleunguts/ProjectX):** Building full-stack cloud trading platforms and strategy backtesters (NinjaTrader / QuantLib) integrated with custom Claude Model Context Protocol (MCP) servers—converting agentic AI concepts into live, deterministic C# code execution[cite: 2, 4].
+* **Quantitative Domain Expertise:** Direct experience across Interest Rate Swaps (OIS/CORRA), yield curve bootstrapping, CVA/FRTB risk engines, and C++ quant library integration into low-latency C# services[cite: 1, 2, 3].
 
-![React Logo](https://bleunguts.github.io/bleunguts/images/tech/ReactLogo3.PNG)
-![Kotlin Logo](https://bleunguts.github.io/bleunguts/images/tech/kotlinlogo.PNG)
-![Intellij Logo](https://bleunguts.github.io/bleunguts/images/tech/IntellijLogo.PNG)
-![ActiveMQ Logo](https://bleunguts.github.io/bleunguts/images/tech/ActiveMQLogo.PNG)
-![Symphony Logo](https://bleunguts.github.io/bleunguts/images/tech/SymphonyLogo.PNG)
+<div class="tech-stack-badges" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 15px 0;">
+  <!-- Standard Tech Logos -->
+  <img src="https://bleunguts.github.io/bleunguts/images/tech/csharplogo.PNG" alt="C#" title="C# / .NET" height="42" />
+  <img src="https://bleunguts.github.io/bleunguts/images/tech/cpluspluslogo.PNG" alt="C++" title="C++ Interop" height="42" />
+  <img src="https://bleunguts.github.io/bleunguts/images/tech/DotNetCoreLogo.PNG" alt=".NET Core" title=".NET Core / .NET 9" height="42" />
+  <img src="https://bleunguts.github.io/bleunguts/images/tech/jetbrainsriderlogo.PNG" alt="Rider" title="JetBrains Rider" height="42" />
+  
+  <!-- Analytics & Telemetry Icons -->
+  <img src="https://bleunguts.github.io/bleunguts/images/tech/splunkenterpriselogo.PNG" alt="Splunk" title="Splunk" height="42" />
+  <img src="/assets/images/icons/kdb.svg" alt="KDB/Q" title="KDB/Q Analytics" height="42" onerror="this.style.display='none'" />
+  <img src="/assets/images/icons/kibana.svg" alt="Kibana" title="Kibana Telemetry" height="42" onerror="this.style.display='none'" />
+  <img src="/assets/images/icons/grafana.svg" alt="Grafana" title="Grafana Dashboards" height="42" onerror="this.style.display='none'" />
 
-![Splunk Logo](https://bleunguts.github.io/bleunguts/images/tech/splunkenterpriselogo.PNG)
-![Reuters Logo](https://bleunguts.github.io/bleunguts/images/tech/ReutersLogo.PNG)
-![Fix Logo](https://bleunguts.github.io/bleunguts/images/tech/FixLogo.PNG)
+  <!-- Financial Domain Visual Badges -->
+  <!-- Interest Rate Swaps (IRS) -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="42" height="42" title="Interest Rate Swaps (IRS)">
+    <rect width="100" height="100" rx="16" fill="#0f172a"/>
+    <path d="M 28 46 A 22 22 0 0 1 72 46" fill="none" stroke="#38bdf8" stroke-width="5.5" stroke-linecap="round"/>
+    <polygon points="72,39 82,47 70,53" fill="#38bdf8"/>
+    <path d="M 72 54 A 22 22 0 0 1 28 54" fill="none" stroke="#f59e0b" stroke-width="5.5" stroke-linecap="round"/>
+    <polygon points="28,61 18,53 30,47" fill="#f59e0b"/>
+    <rect x="22" y="12" width="56" height="16" rx="4" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+    <text x="50" y="23" fill="#38bdf8" font-family="monospace" font-size="8.5" font-weight="bold" text-anchor="middle">FIXED %</text>
+    <rect x="18" y="72" width="64" height="16" rx="4" fill="#1e293b" stroke="#f59e0b" stroke-width="1"/>
+    <text x="50" y="83" fill="#f59e0b" font-family="monospace" font-size="8.5" font-weight="bold" text-anchor="middle">FLT (SOFR)</text>
+  </svg>
+
+  <!-- Yield Curve (OIS / CORRA) -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="42" height="42" title="Yield Curves (OIS/CORRA)">
+    <rect width="100" height="100" rx="16" fill="#0f172a"/>
+    <line x1="20" y1="80" x2="85" y2="80" stroke="#64748b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="20" y1="80" x2="20" y2="18" stroke="#64748b" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 20 72 Q 35 30, 85 25" fill="none" stroke="#10b981" stroke-width="5" stroke-linecap="round"/>
+    <path d="M 20 76 Q 40 48, 85 40" fill="none" stroke="#3b82f6" stroke-width="3" stroke-dasharray="4,3" stroke-linecap="round"/>
+    <circle cx="35" cy="48" r="3.5" fill="#10b981"/><circle cx="55" cy="33" r="3.5" fill="#10b981"/><circle cx="85" cy="25" r="3.5" fill="#10b981"/>
+    <text x="52" y="93" fill="#94a3b8" font-family="sans-serif" font-size="8" font-weight="bold" text-anchor="middle">TENOR (T)</text>
+  </svg>
+
+  <!-- CVA Risk -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="42" height="42" title="CVA Risk & Exposure">
+    <rect width="100" height="100" rx="16" fill="#0f172a"/>
+    <line x1="18" y1="82" x2="85" y2="82" stroke="#64748b" stroke-width="3"/>
+    <line x1="18" y1="82" x2="18" y2="18" stroke="#64748b" stroke-width="3"/>
+    <path d="M 18 82 Q 30 50, 45 65 T 85 30" fill="none" stroke="#38bdf8" stroke-width="1.5" opacity="0.4"/>
+    <path d="M 18 82 Q 35 70, 50 40 T 85 55" fill="none" stroke="#38bdf8" stroke-width="1.5" opacity="0.4"/>
+    <path d="M 18 82 Q 25 30, 45 35 T 85 70" fill="none" stroke="#38bdf8" stroke-width="1.5" opacity="0.4"/>
+    <path d="M 18 82 C 30 20, 55 30, 85 60" fill="none" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+    <rect x="52" y="15" width="32" height="16" rx="4" fill="#ef4444"/>
+    <text x="68" y="26" fill="#ffffff" font-family="sans-serif" font-size="8" font-weight="bold" text-anchor="middle">CVA</text>
+  </svg>
+
+  <!-- Equity Risk -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="42" height="42" title="Equity Risk & Volatility">
+    <rect width="100" height="100" rx="16" fill="#0f172a"/>
+    <path d="M 18 65 Q 40 25, 60 50 T 85 20 L 85 40 Q 60 70, 40 45 T 18 80 Z" fill="#ec4899" fill-opacity="0.15"/>
+    <path d="M 18 65 Q 40 25, 60 50 T 85 20" fill="none" stroke="#ec4899" stroke-width="2" stroke-dasharray="3,2"/>
+    <path d="M 18 80 Q 40 45, 60 70 T 85 40" fill="none" stroke="#ec4899" stroke-width="2" stroke-dasharray="3,2"/>
+    <line x1="30" y1="40" x2="30" y2="70" stroke="#10b981" stroke-width="1.5"/>
+    <rect x="27" y="48" width="6" height="14" rx="1" fill="#10b981"/>
+    <line x1="50" y1="30" x2="50" y2="60" stroke="#ef4444" stroke-width="1.5"/>
+    <rect x="47" y="36" width="6" height="16" rx="1" fill="#ef4444"/>
+    <line x1="70" y1="18" x2="70" y2="52" stroke="#10b981" stroke-width="1.5"/>
+    <rect x="67" y="24" width="6" height="18" rx="1" fill="#10b981"/>
+    <rect x="52" y="74" width="34" height="15" rx="4" fill="#ec4899"/>
+    <text x="69" y="84.5" fill="#ffffff" font-family="sans-serif" font-size="8" font-weight="bold" text-anchor="middle">EQ RISK</text>
+  </svg>
+</div>
 
 ## Consultancy Experience
 With over 20 years in the industry, I began my career in start-ups and client-facing consultancies, spending the first eight years primarily in engineering software for door controllers, smart cards, digital video recording surveillance, and laser animation. In 2008, I moved to the UK to specialize in finance, working for investment banks and financial institutions since then.
