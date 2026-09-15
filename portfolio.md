@@ -6,14 +6,13 @@ Below is a career snapshot, click on the corresponding link to see an in-depth p
 
 Period | Title | Link
 ------------ | ------------- | -------------
-May 2025 – May 2026 | eFI C# Quant Developer @ CIBC | **[2025-2026](https://bleunguts.github.io/bleunguts/portfolio2026)** |
-Mar 2022 – Apr 2023 | Counterparty Credit Risk Developer @ Credit Suisse | **[2023-2022](https://bleunguts.github.io/bleunguts/portfolio2023)** |
-Mar2022 - Apr 2023 | Counterparty Credit Risk Developer @ Credit Suisse | **[2023-2022](https://bleunguts.github.io/bleunguts/portfolio2023)**
-Sep2021 - Mar 2022 | Intraday Risk Developer @ Credit Suisse | **[2022-2021](https://bleunguts.github.io/bleunguts/portfolio2023)**
-Sep2013 - Apr 2020 | Equity Derivatives Risk Developer @ Credit Suisse | **[2020-2013](https://bleunguts.github.io/bleunguts/portfolio2020)**
+May 2025 – May 2026 | eFI C# Quant Developer @ CIBC | **[2025-2026](https://bleunguts.github.io/bleunguts/portfolio2026)** 
+Mar 2022 – Apr 2023 | Counterparty Credit Risk Developer @ Credit Suisse | **[2023-2022](https://bleunguts.github.io/bleunguts/portfolio2023)** 
+Sep 2021 - Mar 2022 | Intraday Risk Developer @ Credit Suisse | **[2022-2021](https://bleunguts.github.io/bleunguts/portfolio2023)**
+Sep 2013 - Apr 2020 | Equity Derivatives Risk Developer @ Credit Suisse | **[2020-2013](https://bleunguts.github.io/bleunguts/portfolio2020)**
 Jan 2013 – Aug 2013	| FX WPF C# GUI Developer @ Lloyds | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#lloyds)** 
 Feb 2012 – Jan 2013	| FX Low Latency Pricing & Execution C# Developer @ Credit Agricole | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#credit-agricole)** 
-Apr 2011  - Jan 2012 |Commodities C# Developer @ Trafigura | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#trafigura)** 
+Apr 2011 - Jan 2012 |Commodities C# Developer @ Trafigura | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#trafigura)** 
 Mar 2010 – Oct 2010	| C# Developer @ UBS | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#ubs)** 
 Jan 2009 – Jan 2010	| C# Developer @ IGT | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#international-gaming-technology-igt)** 
 Feb 2008 – Nov 2008	| Core Slang/SecDb Strategist @ Goldman Sachs | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013#goldman-sachs)** 
