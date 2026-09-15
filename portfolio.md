@@ -6,7 +6,7 @@ Below is a career snapshot, click on the corresponding link to see an in-depth p
 
 Period | Title | Link
 ------------ | ------------- | -------------
-May 2025 – May 2026 | eFI C# Quant Developer @ CIBC | **[2025-2026](https://bleunguts.github.io/bleunguts/portfolio2026))** |
+May 2025 – May 2026 | eFI C# Quant Developer @ CIBC | **[2025-2026](https://bleunguts.github.io/bleunguts/portfolio2026)** |
 Mar 2022 – Apr 2023 | Counterparty Credit Risk Developer @ Credit Suisse | **[2023-2022](https://bleunguts.github.io/bleunguts/portfolio2023)** |
 Mar2022 - Apr 2023 | Counterparty Credit Risk Developer @ Credit Suisse | **[2023-2022](https://bleunguts.github.io/bleunguts/portfolio2023)**
 Sep2021 - Mar 2022 | Intraday Risk Developer @ Credit Suisse | **[2022-2021](https://bleunguts.github.io/bleunguts/portfolio2023)**
