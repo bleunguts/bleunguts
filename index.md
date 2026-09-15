@@ -98,4 +98,4 @@ Throughout my career, I have acquired a diverse skill set and extensive experien
 * [SOLID Principles Coffee Maker Mark IV:](https://github.com/bleunguts/CoffeeMaker) Demonstrates my implementation of SOLID principles in a practical project. 
 * [Options Pricing C++ Demo:](https://github.com/bleunguts/OptionsPricerCpp) Works with Monte Carlo and Black-Scholes routines for options pricing. 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbleunguts.github.io%2Fbleunguts&count_bg=%2379C83D&title_bg=%23555555&icon=clyp.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fbleunguts.github.io%2Fbleunguts%2F&label=Hits&icon=github&color=%23198754&message=&style=flat&tz=UTC)
