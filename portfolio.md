@@ -1,11 +1,13 @@
-**[HOME](https://bleunguts.github.io/bleunguts)** | **[CV PORTFOLIO](https://bleunguts.github.io/bleunguts/portfolio)** | **[2023-2021](https://bleunguts.github.io/bleunguts/portfolio2023)** | **[2020-2013](https://bleunguts.github.io/bleunguts/portfolio2020)** | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007)** | **[2003-2000](https://bleunguts.github.io/bleunguts/portfolio2003)** 
+**[HOME](https://bleunguts.github.io/bleunguts)** | **[CV PORTFOLIO](https://bleunguts.github.io/bleunguts/portfolio)** | **[2026-2025](https://bleunguts.github.io/bleunguts/portfolio2026)** | **[2023-2021](https://bleunguts.github.io/bleunguts/portfolio2023)** | **[2020-2013](https://bleunguts.github.io/bleunguts/portfolio2020)** | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007)** | **[2003-2000](https://bleunguts.github.io/bleunguts/portfolio2003)** 
 # CV PORTFOLIO
-This portfolio consists of several sub sections spanning from 2000 to present (sub-sections: 2023-2021, 2013-2020, 2008-2013, 2003-2007, 2000-2003)
+This portfolio consists of several sub sections spanning from 2000 to present (sub-sections: 2026-2025, 2023-2021, 2013-2020, 2008-2013, 2003-2007, 2000-2003)
 
 Below is a career snapshot, click on the corresponding link to see an in-depth portfolio for that placement.  
 
 Period | Title | Link
 ------------ | ------------- | -------------
+May 2025 – May 2026 | eFI C# Quant Developer @ CIBC | **[2025-2026](https://bleunguts.github.io/bleunguts/portfolio2026))** |
+Mar 2022 – Apr 2023 | Counterparty Credit Risk Developer @ Credit Suisse | **[2023-2022](https://bleunguts.github.io/bleunguts/portfolio2023)** |
 Mar2022 - Apr 2023 | Counterparty Credit Risk Developer @ Credit Suisse | **[2023-2022](https://bleunguts.github.io/bleunguts/portfolio2023)**
 Sep2021 - Mar 2022 | Intraday Risk Developer @ Credit Suisse | **[2022-2021](https://bleunguts.github.io/bleunguts/portfolio2023)**
 Sep2013 - Apr 2020 | Equity Derivatives Risk Developer @ Credit Suisse | **[2020-2013](https://bleunguts.github.io/bleunguts/portfolio2020)**
@@ -24,6 +26,7 @@ Aug 2000 – Feb 2001	| C++ Hardware Developer @ Basis Design | **[2003-2000](ht
 
 \* *Portfolios describe projects and achievements with greater detail than my CV.* 
 
+![CIBC Logo](https://bleunguts.github.io/bleunguts/images/CIBCLogo.PNG) 
 ![CS Logo](https://bleunguts.github.io/bleunguts/images/CSlogo.PNG) 
 ![CA Logo](https://bleunguts.github.io/bleunguts/images/CreditAgricolelogo.PNG)
 ![TSB Logo](https://bleunguts.github.io/bleunguts/images/lloydslogo.PNG)
