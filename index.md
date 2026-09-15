@@ -24,9 +24,9 @@ Other Languages: Kotlin
   
   <!-- Analytics & Telemetry Icons -->
   <img src="https://bleunguts.github.io/bleunguts/images/tech/splunkenterpriselogo.PNG" alt="Splunk" title="Splunk" height="42" />
-  <img src="https://bleunguts.github.io/bleunguts/images/tech/kdbxLogo.PNG" alt="KDB/Q" title="KDB/Q Analytics" height="42" onerror="this.style.display='none'" />
-  <img src="https://bleunguts.github.io/bleunguts/images/tech/kibanaLogo.PNG" alt="Kibana" title="Kibana Telemetry" height="42" onerror="this.style.display='none'" />
-  <img src="https://bleunguts.github.io/bleunguts/images/tech/grafanaLogo.PNG" alt="Grafana" title="Grafana Dashboards" height="42" onerror="this.style.display='none'" />
+  <img src="https://bleunguts.github.io/bleunguts/images/tech/KDBXLogo.PNG" alt="KDB/Q" title="KDB/Q Analytics" height="42" />
+  <img src="https://bleunguts.github.io/bleunguts/images/tech/KibanaLogo.PNG" alt="Kibana" title="Kibana Telemetry" height="42" />
+  <img src="https://bleunguts.github.io/bleunguts/images/tech/GrafanaLogo.PNG" alt="Grafana" title="Grafana Dashboards" height="42" />
 
   <!-- Financial Domain Visual Badges -->
   <!-- Interest Rate Swaps (IRS) -->
