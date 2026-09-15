@@ -1,9 +1,10 @@
 **[CLICK HERE FOR CV PORTFOLIO](https://bleunguts.github.io/bleunguts/portfolio)** 
+
 # Summary
 
 C# / C++ Analyst Developer in Financial Markets / Engineering
 
-> *20+ years building high-throughput trading platforms, CVA/Risk pricing engines, and real-time eTrading pipelines—combining deep quantitative domain knowledge with Claude agentic workflows and custom MCP tooling to to unleash high-quality software deliveries at a whole new level.*
+> *20+ years building high-throughput trading platforms, CVA/Risk pricing engines, and real-time eTrading pipelines—combining deep quantitative domain knowledge with Claude agentic workflows and custom MCP tooling to unleash high-quality software deliveries at a whole new level.*
 
 Core Skills: C# / C++ .NET
 
@@ -15,20 +16,23 @@ Other Languages: Kotlin
 * **[ProjectX & Custom C# MCP Tooling](https://github.com/bleunguts/ProjectX):** Building full-stack cloud trading platforms and strategy backtesters (NinjaTrader / QuantLib) integrated with custom Claude Model Context Protocol (MCP) servers—converting agentic AI concepts into live, deterministic C# code execution.
 * **Quantitative Domain Expertise:** Direct experience across Interest Rate Swaps (OIS/CORRA), yield curve bootstrapping, CVA/FRTB risk engines, and C++ quant library integration into low-latency C# services.
 
-<div class="tech-stack-badges" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 15px 0;">
+<div class="tech-stack-row" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 15px 0;">
   <!-- Standard Tech Logos -->
   <img src="https://bleunguts.github.io/bleunguts/images/tech/csharplogo.PNG" alt="C#" title="C# / .NET" height="42" />
   <img src="https://bleunguts.github.io/bleunguts/images/tech/cpluspluslogo.PNG" alt="C++" title="C++ Interop" height="42" />
   <img src="https://bleunguts.github.io/bleunguts/images/tech/DotNetCoreLogo.PNG" alt=".NET Core" title=".NET Core / .NET 9" height="42" />
   <img src="https://bleunguts.github.io/bleunguts/images/tech/jetbrainsriderlogo.PNG" alt="Rider" title="JetBrains Rider" height="42" />
-  
+</div>
+
+<div class="telemetry-stack-row" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 15px 0;">
   <!-- Analytics & Telemetry Icons -->
   <img src="https://bleunguts.github.io/bleunguts/images/tech/splunkenterpriselogo.PNG" alt="Splunk" title="Splunk" height="42" />
   <img src="https://bleunguts.github.io/bleunguts/images/tech/KDBXLogo.PNG" alt="KDB/Q" title="KDB/Q Analytics" height="42" />
   <img src="https://bleunguts.github.io/bleunguts/images/tech/KibanaLogo.PNG" alt="Kibana" title="Kibana Telemetry" height="42" />
   <img src="https://bleunguts.github.io/bleunguts/images/tech/GrafanaLogo.PNG" alt="Grafana" title="Grafana Dashboards" height="42" />
+</div>
 
-  <!-- Financial Domain Visual Badges -->
+<div class="domain-badges-row" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 15px 0;">
   <!-- Interest Rate Swaps (IRS) -->
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="42" height="42" title="Interest Rate Swaps (IRS)">
     <rect width="100" height="100" rx="16" fill="#0f172a"/>
@@ -40,17 +44,6 @@ Other Languages: Kotlin
     <text x="50" y="23" fill="#38bdf8" font-family="monospace" font-size="8.5" font-weight="bold" text-anchor="middle">FIXED %</text>
     <rect x="18" y="72" width="64" height="16" rx="4" fill="#1e293b" stroke="#f59e0b" stroke-width="1"/>
     <text x="50" y="83" fill="#f59e0b" font-family="monospace" font-size="8.5" font-weight="bold" text-anchor="middle">FLT (SOFR)</text>
-  </svg>
-
-  <!-- Yield Curve (OIS / CORRA) -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="42" height="42" title="Yield Curves (OIS/CORRA)">
-    <rect width="100" height="100" rx="16" fill="#0f172a"/>
-    <line x1="20" y1="80" x2="85" y2="80" stroke="#64748b" stroke-width="3" stroke-linecap="round"/>
-    <line x1="20" y1="80" x2="20" y2="18" stroke="#64748b" stroke-width="3" stroke-linecap="round"/>
-    <path d="M 20 72 Q 35 30, 85 25" fill="none" stroke="#10b981" stroke-width="5" stroke-linecap="round"/>
-    <path d="M 20 76 Q 40 48, 85 40" fill="none" stroke="#3b82f6" stroke-width="3" stroke-dasharray="4,3" stroke-linecap="round"/>
-    <circle cx="35" cy="48" r="3.5" fill="#10b981"/><circle cx="55" cy="33" r="3.5" fill="#10b981"/><circle cx="85" cy="25" r="3.5" fill="#10b981"/>
-    <text x="52" y="93" fill="#94a3b8" font-family="sans-serif" font-size="8" font-weight="bold" text-anchor="middle">TENOR (T)</text>
   </svg>
 
   <!-- CVA Risk -->
