@@ -6,6 +6,8 @@ baseurl : /bleunguts
 # Your name to show in the footer
 author: Billy Leung
 
+google_analytics: G-Q0QP4WBPSS
+
 # --- List of links in the navigation bar --- #
 navbar-links:
  About Me: "aboutme"
