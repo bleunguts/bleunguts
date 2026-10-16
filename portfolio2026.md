@@ -34,11 +34,11 @@ I joined alongside the outgoing quant developer and, after an intensive handover
 
 [Skills Required:](#)
 * **Functional Quant Knowledge:** Yield curve construction (OIS discounting, O/N curve, Fed Curve and Basis Curve multi-curve, central-bank meeting-date jumps, futures convexity adjustments, bond-yield-plus-spread marking for the CAD long end), swap conventions (IMM dates, day counts, fixings, stubs), bond futures and cheapest-to-deliver mechanics, and RFQ workflows.
-* **Technical breadth:** Strong C#/.NET background with the ability to debug into native C++ analytics, the capacity to learn new tooling quickly (KDB+/q, Solace, Grafana, Prism), self-drive and ownership, and proactive communication across the desk, quants, desk developers, platform, market-data and KDB teams.
+* **Technical breadth:** Strong C#/.NET background with the ability to debug into native C++ analytics, the capacity to learn new tooling quickly (KDB+/q, Solace, Grafana), self-drive and ownership, and proactive communication across the desk, quants, desk developers, platform, market-data and KDB teams.
 
 _ **Projects** __:_
 
-### PRISM Integration
+### PLATFORM Integration
 
 [Delivery Summary:](#)
 * **Problem & Context:** Alma required migration onto Platform — the bank’s high-throughput service framework that drives the battle-tested strategic risk system — to leverage standardized request routing and high-frequency Solace messaging. 
