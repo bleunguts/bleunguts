@@ -1,21 +1,21 @@
-<div style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border: 1px solid #334155; border-radius: 12px; padding: 24px; text-align: center; margin-bottom: 30px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
-  <h2 style="color: #38bdf8; margin-top: 0; font-size: 1.5rem; font-family: monospace;">PRINCIPAL C# / C++ QUANT DEVELOPER</h2>
-  <p style="color: #e2e8f0; font-size: 1.05rem; margin-bottom: 20px;">
+<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border: 1px solid #cbd5e1; border-radius: 12px; padding: 24px; text-align: center; margin-bottom: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+  <h2 style="color: #0284c7; margin-top: 0; font-size: 1.5rem; font-family: monospace;">C# / C++ QUANT DEVELOPER</h2>
+  <p style="color: #334155; font-size: 1.05rem; margin-bottom: 20px;">
     20+ years building high-throughput trading platforms, CVA/Risk pricing engines, and real-time eTrading pipelines in top investment banks.
   </p>
-  <a href="https://bleunguts.github.io/bleunguts/portfolio" style="background: #0284c7; color: #ffffff; padding: 12px 28px; border-radius: 6px; font-weight: bold; text-decoration: none; display: inline-block; font-size: 1.05rem; box-shadow: 0 2px 8px rgba(2,132,199,0.4); transition: background 0.2s;">
+  <a href="https://bleunguts.github.io/bleunguts/portfolio" style="background: #0284c7; color: #ffffff; padding: 12px 28px; border-radius: 6px; font-weight: bold; text-decoration: none; display: inline-block; font-size: 1.05rem; box-shadow: 0 2px 8px rgba(2,132,199,0.3);">
     📂 VIEW FULL CV & CAREER PORTFOLIO →
   </a>
 </div>
 
 # Executive Summary
 
-> *Combining deep quantitative domain knowledge across fixed income derivatives and risk engines with modern Claude agentic workflows and custom MCP tooling to deliver robust, high-performance financial software.*
+> *Combining deep quantitative domain knowledge across fixed income, credit valuation adjustments, equity risk engines with modern Claude agentic workflows and custom MCP tooling to unleash high-quality software deliveries at a whole new level.*
 
-**Core Stack:** C# / .NET 9 / C++ Interop | **Other:** Kotlin  
+**Core Skills:** C# / C++ .NET | **Other:** Kotlin  
 *Detailed institutional project histories available in the [CV Portfolio](https://bleunguts.github.io/bleunguts/portfolio).*
 
-### Featured R&D & Innovation
+### Featured Personal Showcase & Innovation
 * **[ProjectX & Custom C# MCP Tooling](https://github.com/bleunguts/ProjectX):** Building full-stack cloud trading platforms and strategy backtesters (NinjaTrader / QuantLib) integrated with custom Claude Model Context Protocol (MCP) servers—converting agentic AI concepts into live, deterministic C# code execution.
 * **Quantitative Domain Expertise:** Direct experience across Interest Rate Swaps (OIS/CORRA), yield curve bootstrapping, CVA/FRTB risk engines, and C++ quant library integration into low-latency C# services.
 
