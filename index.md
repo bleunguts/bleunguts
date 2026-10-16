@@ -16,7 +16,7 @@
 *Detailed institutional project histories available in the [CV Portfolio](https://bleunguts.github.io/bleunguts/portfolio).*
 
 ### Featured Personal Showcase & Innovation
-* **[ProjectX & Custom C# MCP Tooling](https://github.com/bleunguts/ProjectX):** Building full-stack cloud trading platforms and strategy backtesters (NinjaTrader / QuantLib) integrated with custom Claude Model Context Protocol (MCP) servers—converting agentic AI concepts into live, deterministic C# code execution. [MCP Mispricing WIP](https://github.com/bleunguts/claude-mcp-mispricing-watch-agent)
+* **[ProjectX & Custom C# MCP Tooling](https://github.com/bleunguts/ProjectX):** Building full-stack cloud trading platforms and strategy backtesters (NinjaTrader / QuantLib) integrated with custom Claude Model Context Protocol (MCP) servers—converting agentic AI concepts into live, deterministic C# code execution. [MCP Mispricing Agent](https://github.com/bleunguts/claude-mcp-mispricing-watch-agent) [AI-SDLC React CVA dashboard](https://github.com/bleunguts/claude-ai-sdlc-cva-dashboard)
 * **Quantitative Domain Expertise:** Direct experience across Interest Rate Swaps (OIS/CORRA), yield curve bootstrapping, CVA/FRTB risk engines, and C++ quant library integration into low-latency C# services.
 
 ### Core Technology Stack & Telemetry
