@@ -17,6 +17,8 @@
 
 ### Featured Personal Showcase & Innovation
 * **[ProjectX & Custom C# MCP Tooling](https://github.com/bleunguts/ProjectX):** Building full-stack cloud trading platforms and strategy backtesters (NinjaTrader / QuantLib) integrated with custom Claude Model Context Protocol (MCP) servers—converting agentic AI concepts into live, deterministic C# code execution. [MCP Mispricing Agent](https://github.com/bleunguts/claude-mcp-mispricing-watch-agent) [AI-SDLC React CVA dashboard](https://github.com/bleunguts/claude-ai-sdlc-cva-dashboard)
+* **[claude-ai-sdlc-cva-dashboard](https://github.com/bleunguts/claude-ai-sdlc-cva-dashboard):** A mini CVA (Credit Valuation Adjustment) monitoring dashboard built as an end-to-end guided tour through an AI-assisted SDLC. Demonstrates stage-appropriate AI tool selection (Stitch for mockups, Replit Agent for scaffolding, Storybook for component isolation, Playwright for E2E tests, CodeRabbit for PR reviews, and Notion AI for documentation) applied to a domain-accurate counterparty CVA exposure and CDS spread monitoring UI.
+* **[claude-mcp-flaky-test-agent](https://github.com/bleunguts/claude-mcp-flaky-test-agent):** A hand-written agentic loop built in C#/.NET on the Anthropic SDK. Features a dedicated Model Context Protocol (McpServer) exposing test-running, code-reading, git/PR, and notification tools to diagnose and resolve deliberately flaky NUnit test suites within a controlled sandbox.
 * **Quantitative Domain Expertise:** Direct experience across Interest Rate Swaps (OIS/CORRA), yield curve bootstrapping, CVA/FRTB risk engines, and C++ quant library integration into low-latency C# services.
 
 ### Core Technology Stack & Telemetry
