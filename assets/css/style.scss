@@ -5,17 +5,15 @@
 @import "{{ site.theme }}";
 
 header {
-  // Replace 'images/banner.png' with your actual image filename/path
+  // Your banner image setup
   background: url("https://bleunguts.github.io/bleunguts/images/banner.jpeg") no-repeat center center !important;
-  background-size: cover !important; // Ensures the image scales cleanly across all screen sizes
-  min-height: 180px; // Adjust this height to fit your banner image proportion
-  padding: 30px !important;
+  background-size: cover !important;
+  min-height: 180px; // Adjust height to fit your banner proportion
   border-bottom: 3px solid #0d233a;
 
-  // Optional: keeps text readable if your banner image has text overlays inside it
-  h1, h2, small, a {
-    color: #ffffff !important;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6); // Adds contrast over image background
+  // Hide all text, titles, links, and divs inside the header banner
+  h1, h2, div, a, small {
+    display: none !important;
   }
 }
 
