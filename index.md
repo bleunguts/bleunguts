@@ -1,40 +1,43 @@
-**[CLICK HERE FOR CV PORTFOLIO](https://bleunguts.github.io/bleunguts/portfolio)** 
+<div style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border: 1px solid #334155; border-radius: 12px; padding: 24px; text-align: center; margin-bottom: 30px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+  <h2 style="color: #38bdf8; margin-top: 0; font-size: 1.5rem; font-family: monospace;">PRINCIPAL C# / C++ QUANT DEVELOPER</h2>
+  <p style="color: #e2e8f0; font-size: 1.05rem; margin-bottom: 20px;">
+    20+ years building high-throughput trading platforms, CVA/Risk pricing engines, and real-time eTrading pipelines in top investment banks.
+  </p>
+  <a href="https://bleunguts.github.io/bleunguts/portfolio" style="background: #0284c7; color: #ffffff; padding: 12px 28px; border-radius: 6px; font-weight: bold; text-decoration: none; display: inline-block; font-size: 1.05rem; box-shadow: 0 2px 8px rgba(2,132,199,0.4); transition: background 0.2s;">
+    📂 VIEW FULL CV & CAREER PORTFOLIO →
+  </a>
+</div>
 
-# Summary
+# Executive Summary
 
-C# / C++ Analyst Developer in Financial Markets / Engineering
+> *Combining deep quantitative domain knowledge across fixed income derivatives and risk engines with modern Claude agentic workflows and custom MCP tooling to deliver robust, high-performance financial software.*
 
-> *20+ years building high-throughput trading platforms, CVA/Risk pricing engines, and real-time eTrading pipelines—combining deep quantitative domain knowledge with Claude agentic workflows and custom MCP tooling to unleash high-quality software deliveries at a whole new level.*
+**Core Stack:** C# / .NET 9 / C++ Interop | **Other:** Kotlin  
+*Detailed institutional project histories available in the [CV Portfolio](https://bleunguts.github.io/bleunguts/portfolio).*
 
-Core Skills: C# / C++ .NET
-
-Other Languages: Kotlin
-
-*An in-depth detailed portfolio describing my work experience is available* *[here](https://bleunguts.github.io/bleunguts/portfolio)*
-
-### Featured Personal Showcase & Innovation
+### Featured R&D & Innovation
 * **[ProjectX & Custom C# MCP Tooling](https://github.com/bleunguts/ProjectX):** Building full-stack cloud trading platforms and strategy backtesters (NinjaTrader / QuantLib) integrated with custom Claude Model Context Protocol (MCP) servers—converting agentic AI concepts into live, deterministic C# code execution.
 * **Quantitative Domain Expertise:** Direct experience across Interest Rate Swaps (OIS/CORRA), yield curve bootstrapping, CVA/FRTB risk engines, and C++ quant library integration into low-latency C# services.
 
-<div class="tech-stack-row" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 15px 0;">
-  <!-- Standard Tech Logos -->
-  <img src="https://bleunguts.github.io/bleunguts/images/tech/csharplogo.PNG" alt="C#" title="C# / .NET" height="42" />
-  <img src="https://bleunguts.github.io/bleunguts/images/tech/cpluspluslogo.PNG" alt="C++" title="C++ Interop" height="42" />
-  <img src="https://bleunguts.github.io/bleunguts/images/tech/DotNetCoreLogo.PNG" alt=".NET Core" title=".NET Core / .NET 9" height="42" />
-  <img src="https://bleunguts.github.io/bleunguts/images/tech/jetbrainsriderlogo.PNG" alt="Rider" title="JetBrains Rider" height="42" />
-  <img src="https://bleunguts.github.io/bleunguts/images/tech/splunkenterpriselogo.PNG" alt="Splunk" title="Splunk" height="42" />
+### Core Technology Stack & Telemetry
+<div class="tech-stack-container" style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 16px; margin: 15px 0;">
+  <div style="font-size: 0.85rem; font-weight: bold; color: #64748b; text-transform: uppercase; margin-bottom: 10px; letter-spacing: 0.05em;">Engineering & Telemetry Stack</div>
+  <div style="display: flex; gap: 14px; flex-wrap: wrap; align-items: center;">
+    <img src="https://bleunguts.github.io/bleunguts/images/tech/csharplogo.PNG" alt="C#" title="C# / .NET" height="38" />
+    <img src="https://bleunguts.github.io/bleunguts/images/tech/cpluspluslogo.PNG" alt="C++" title="C++ Interop" height="38" />
+    <img src="https://bleunguts.github.io/bleunguts/images/tech/DotNetCoreLogo.PNG" alt=".NET Core" title=".NET Core / .NET 9" height="38" />
+    <img src="https://bleunguts.github.io/bleunguts/images/tech/jetbrainsriderlogo.PNG" alt="Rider" title="JetBrains Rider" height="38" />
+    <img src="https://bleunguts.github.io/bleunguts/images/tech/splunkenterpriselogo.PNG" alt="Splunk" title="Splunk" height="38" />
+    <img src="https://bleunguts.github.io/bleunguts/images/tech/KibanaLogo.PNG" alt="Kibana" title="Kibana Telemetry" height="38" />
+    <img src="https://bleunguts.github.io/bleunguts/images/tech/GrafanaLogo.PNG" alt="Grafana" title="Grafana Dashboards" height="38" />
+    <img src="https://bleunguts.github.io/bleunguts/images/tech/KDBXLogo.PNG" alt="KDB/Q" title="KDB/Q Analytics" height="38" />
+  </div>
 </div>
 
-<div class="telemetry-stack-row" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 15px 0;">
-  <!-- Analytics & Telemetry Icons -->
-  <img src="https://bleunguts.github.io/bleunguts/images/tech/KibanaLogo.PNG" alt="Kibana" title="Kibana Telemetry" height="42" />
-  <img src="https://bleunguts.github.io/bleunguts/images/tech/GrafanaLogo.PNG" alt="Grafana" title="Grafana Dashboards" height="42" />
-  <img src="https://bleunguts.github.io/bleunguts/images/tech/KDBXLogo.PNG" alt="KDB/Q" title="KDB/Q Analytics" height="42" />
-</div>
-
-<div class="domain-badges-row" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin: 15px 0;">
+### Quantitative & Risk Domains
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; margin: 15px 0;">
   <!-- Interest Rate Swaps (IRS) -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="84" height="84" title="Interest Rate Swaps (IRS)">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="75" height="75" title="Interest Rate Swaps (IRS)">
     <rect width="100" height="100" rx="16" fill="#0f172a"/>
     <path d="M 28 46 A 22 22 0 0 1 72 46" fill="none" stroke="#38bdf8" stroke-width="5.5" stroke-linecap="round"/>
     <polygon points="72,39 82,47 70,53" fill="#38bdf8"/>
@@ -47,7 +50,7 @@ Other Languages: Kotlin
   </svg>
 
   <!-- CVA Risk -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="84" height="84" title="CVA Risk & Exposure">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="75" height="75" title="CVA Risk & Exposure">
     <rect width="100" height="100" rx="16" fill="#0f172a"/>
     <line x1="18" y1="82" x2="85" y2="82" stroke="#64748b" stroke-width="3"/>
     <line x1="18" y1="82" x2="18" y2="18" stroke="#64748b" stroke-width="3"/>
@@ -60,7 +63,7 @@ Other Languages: Kotlin
   </svg>
 
   <!-- Equity Risk -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="84" height="84" title="Equity Risk & Volatility">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="75" height="75" title="Equity Risk & Volatility">
     <rect width="100" height="100" rx="16" fill="#0f172a"/>
     <path d="M 18 65 Q 40 25, 60 50 T 85 20 L 85 40 Q 60 70, 40 45 T 18 80 Z" fill="#ec4899" fill-opacity="0.15"/>
     <path d="M 18 65 Q 40 25, 60 50 T 85 20" fill="none" stroke="#ec4899" stroke-width="2" stroke-dasharray="3,2"/>
@@ -76,28 +79,4 @@ Other Languages: Kotlin
   </svg>
 </div>
 
-## Consultancy Experience
-With over 20 years in the industry, I began my career in start-ups and client-facing consultancies, spending the first eight years primarily in engineering software for door controllers, smart cards, digital video recording surveillance, and laser animation. In 2008, I moved to the UK to specialize in finance, working for investment banks and financial institutions since then.
-
-Throughout my career, I have acquired a diverse skill set and extensive experience in all phases of the software engineering lifecycle, from inception and concept development to construction, delivery, and maintenance, for both greenfield and maturing products.
-
-## Key Skills and Experience
-* **Core Software Development:** Expertise in .NET Core, Microservices, ReactiveX, SQL, Azure/Grid Computing, and Typescript front ends.
-* **Agentic AI & Custom MCP Tooling:** Building custom C# Model Context Protocol (MCP) servers and Claude multi-agentic workflows to command AI for deterministic code execution, rapid prototyping, and automated system diagnostics.
-* **Business Analysis & Client-Facing:** Strong focus on understanding business requirements and translating business needs to client-oriented software solutions.
-* **Data Analytics:** Proficient in Splunk, including dashboard creation, alerts design, and capturing business intelligence.
-* **Release Management:** Coordination of large systems with numerous sub-systems, ensuring smooth and efficient releases.
-* **User Training & Presentations:** Experienced in training end-users and delivering presentations to enhance software adoption and usability.
-* **Rapid Prototyping & demos:** skilled in quickly building proof-of-concept solutions and demonstrating software capabilities to stakeholders.
-* **Scalability & Distributed Computing:** Expertise in scaling business functions using distributed computing and computing grids.
-* **Cross-Regional Team Collaboration:** Proven ability to work effectively with disparate teams across regions using open-source Git PR platforms.
-* **End-User Delivery:** Passionate about delivering high-quality solutions with a CAN DO attitude.
-* **AI-Amplified Delivery:** Combining 20+ years of core software engineering fundamentals with modern AI tooling to accelerate client deliverables with high precision and execution speed.
-
-## Featured GitHub Repositories
-* [ProjectX - Cloud Trading Signals & Backtesting application:](https://github.com/bleunguts/ProjectX) Full-stack cloud trading platform and strategy backtester, this cloud-enabled application uses cutting-edge technology and finance APIs (NinjaTrader, QL.NET, live market sources) to test long-short mean reversion trading strategies. The latest update includes integrated with custom Claude C# MCP servers for AI-assisted quantitative execution
-* [FX Real-Time Trading Platform:](https://github.com/bleunguts/FXTrader) High-throughput FX trading architecture focusing on reactive streaming, thread-safe memory allocations, and distributed scalability concepts.
-* [SOLID Principles Coffee Maker Mark IV:](https://github.com/bleunguts/CoffeeMaker) Demonstrates my implementation of SOLID principles in a practical project. 
-* [Options Pricing C++ Demo:](https://github.com/bleunguts/OptionsPricerCpp) Works with Monte Carlo and Black-Scholes routines for options pricing. 
-
-![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fbleunguts.github.io%2Fbleunguts%2F&label=Hits&icon=github&color=%23198754&message=&style=flat&tz=UTC)
+---
