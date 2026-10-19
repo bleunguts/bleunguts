@@ -1,5 +1,5 @@
 <div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border: 1px solid #cbd5e1; border-radius: 12px; padding: 24px; text-align: center; margin-bottom: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-  <h2 style="color: #0284c7; margin-top: 0; font-size: 1.5rem; font-family: monospace;">C# / C++ QUANT DEVELOPER</h2>
+  <h2 style="color: #0284c7; margin-top: 0; font-size: 1.5rem; font-family: monospace;">SENIOR C#/C++ DEVELOPER | TRADING SYSTEMS & RISK</h2>
   <p style="color: #334155; font-size: 1.05rem; margin-bottom: 20px;">
     20+ years building high-throughput trading platforms, CVA/Risk pricing engines, and real-time eTrading pipelines in top investment banks.
   </p>
