@@ -2,7 +2,7 @@
 # CV PORTFOLIO
 My engineering journal per role: click on the corresponding link to see the sub-projects I delivered, each in technical deep-dive detail.
 
-**Real problems, real fixes, no marketing. A career of notes, kept at the time and written up role by role. Pick one and see how it was done.**
+**Real problems, real fixes, straight to the point. A career of notes, kept at the time and written up role by role. Pick one and see how it was done.**
 
 Period | Title | Link
 ------------ | ------------- | -------------
