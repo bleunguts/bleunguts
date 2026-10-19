@@ -1,14 +1,12 @@
 **[HOME](https://bleunguts.github.io/bleunguts)** | **[CV PORTFOLIO](https://bleunguts.github.io/bleunguts/portfolio)** | **[2026-2025](https://bleunguts.github.io/bleunguts/portfolio2026)** | **[2023-2021](https://bleunguts.github.io/bleunguts/portfolio2023)** | **[2020-2013](https://bleunguts.github.io/bleunguts/portfolio2020)** | **[2013-2008](https://bleunguts.github.io/bleunguts/portfolio2013)** | **[2007-2003](https://bleunguts.github.io/bleunguts/portfolio2007)** | **[2003-2000](https://bleunguts.github.io/bleunguts/portfolio2003)** 
 # CV PORTFOLIO
-This portfolio consists of several sub sections spanning from 2000 to present (sub-sections: 2026-2025, 2023-2021, 2013-2020, 2008-2013, 2003-2007, 2000-2003)
-
 My engineering journal per role: click on the corresponding link to see the sub-projects I delivered, each in technical deep-dive detail.
 
 **Real problems, real fixes, no marketing. A career of notes, kept at the time and written up role by role. Pick one and see how it was done.**
 
 Period | Title | Link
 ------------ | ------------- | -------------
-May 2025 – May 2026 | eFI C# Quant Developer @ CIBC | **[2025-2026](https://bleunguts.github.io/bleunguts/portfolio2026)** 
+May 2025 – May 2026 | eFI C# Quant Developer @ CIBC | **[2025-2026](https://bleunguts.github.io/bleunguts/portfolio2026)** ← latest
 Mar 2022 – Apr 2023 | Counterparty Credit Risk Developer @ Credit Suisse | **[2023-2022](https://bleunguts.github.io/bleunguts/portfolio2023)** 
 Sep 2021 - Mar 2022 | Intraday Risk Developer @ Credit Suisse | **[2022-2021](https://bleunguts.github.io/bleunguts/portfolio2023)**
 Sep 2013 - Apr 2020 | Equity Derivatives Risk Developer @ Credit Suisse | **[2020-2013](https://bleunguts.github.io/bleunguts/portfolio2020)**
@@ -24,8 +22,6 @@ Jul 2003 – Jun 2004	| C#/C++/Java Developer @ UTS | **[2007-2003](https://bleu
 Feb 2003 – Jun 2003	| C# ASP.NET/ J2EE Web Developer @ FarEdge | **[2003-2000](https://bleunguts.github.io/bleunguts/portfolio2003#faredge-technologies)**
 Aug 2000 – Feb 2001	| C++ Hardware Developer @ Basis Design | **[2003-2000](https://bleunguts.github.io/bleunguts/portfolio2003#basis-design)**
 
-
-\* *Portfolios describe projects and achievements with greater detail than my CV.* 
 
 ![CIBC Logo](https://bleunguts.github.io/bleunguts/images/CIBCLogo.PNG) 
 ![CS Logo](https://bleunguts.github.io/bleunguts/images/CSlogo.PNG) 
