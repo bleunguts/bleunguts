@@ -4,8 +4,9 @@
     20+ years building high-throughput trading platforms, CVA/Risk pricing engines, and real-time eTrading pipelines in top investment banks.
   </p>
   <a href="https://bleunguts.github.io/bleunguts/portfolio" style="background: #0284c7; color: #ffffff; padding: 12px 28px; border-radius: 6px; font-weight: bold; text-decoration: none; display: inline-block; font-size: 1.05rem; box-shadow: 0 2px 8px rgba(2,132,199,0.3);">
-    📂 VIEW FULL CV & CAREER PORTFOLIO →
+    📂 VIEW MY ENGINEERING PORTFOLIO →
   </a>
+  <p style="color: #475569; font-size: 0.95rem; margin: 16px 0 0 0;">Not a rewrite of my CV: for each placement, the projects I delivered and exactly what I built and fixed. The latest, CIBC, dates each item to the week it shipped.</p>
 </div>
 
 # Executive Summary
@@ -13,7 +14,7 @@
 > *Combining deep quantitative domain knowledge across fixed income, credit valuation adjustments, equity risk engines with modern Claude agentic workflows and custom MCP tooling to unleash high-quality software deliveries at a whole new level.*
 
 **Core Skills:** C# / C++ .NET | **Other:** Kotlin  
-*Detailed institutional project histories available in the [CV Portfolio](https://bleunguts.github.io/bleunguts/portfolio).*
+**The CV tells you what I did. The journals show how.** [See the CIBC swaps pricer →](https://bleunguts.github.io/bleunguts/portfolio2026) · [All roles →](https://bleunguts.github.io/bleunguts/portfolio)
 
 ### Featured Personal Showcase & Innovation
 * **[ProjectX & Custom C# MCP Tooling](https://github.com/bleunguts/ProjectX):** Building full-stack cloud trading platforms and strategy backtesters (NinjaTrader / QuantLib) integrated with custom Claude Model Context Protocol (MCP) servers—converting agentic AI concepts into live, deterministic C# code execution. [MCP Mispricing Agent](https://github.com/bleunguts/claude-mcp-mispricing-watch-agent) 

@@ -2,7 +2,9 @@
 # CV PORTFOLIO
 This portfolio consists of several sub sections spanning from 2000 to present (sub-sections: 2026-2025, 2023-2021, 2013-2020, 2008-2013, 2003-2007, 2000-2003)
 
-Below is a career snapshot, click on the corresponding link to see an in-depth portfolio for that placement.  
+My engineering journal per role: click on the corresponding link to see the sub-projects I delivered, each in technical deep-dive detail.
+
+**Real problems, real fixes, no marketing. A career of notes, kept at the time and written up role by role. Pick one and see how it was done.**
 
 Period | Title | Link
 ------------ | ------------- | -------------
