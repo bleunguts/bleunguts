@@ -16,11 +16,11 @@
 **Core Skills:** C# / C++ .NET | **Other:** Kotlin  
 **The CV tells you what I did. The journals show how.** [See the CIBC swaps pricer →](https://bleunguts.github.io/bleunguts/portfolio2026) · [All roles →](https://bleunguts.github.io/bleunguts/portfolio)
 
-### Featured Personal Showcase & Innovation
-* **[ProjectX Cloud Trading Platform & Pricing Engines](https://github.com/bleunguts/ProjectX):** A hand-written C# trading platform and strategy backtester built entirely from scratch. It features cloud-native ASP.NET Core compute grids running .NET pricing services and low-latency native C++ interop for millisecond execution (including Vanilla Black-Scholes in C# and C++, Monte Carlo pricing, and full Greeks valuation). Powered by a cross-platform architecture (Win/Mac/Linux, React web stack, and WPF desktop UI) and backed by automated CI/CD Azure DevOps pipelines.
-* **[MCP Mispricing Agent](https://github.com/bleunguts/claude-mcp-mispricing-watch-agent):** integrated with custom Claude Model Context Protocol (MCP) servers—converting agentic AI concepts into live, deterministic C# code execution. 
-* **[claude-ai-sdlc-cva-dashboard](https://github.com/bleunguts/claude-ai-sdlc-cva-dashboard):** A domain-accurate CVA and CDS spread monitoring React UI built as an end-to-end showcase of an AI-assisted SDLC, leveraging specialized tooling across every stage (Stitch, Replit Agent, Storybook, Playwright, CodeRabbit).
-* **[claude-mcp-flaky-test-agent](https://github.com/bleunguts/claude-mcp-flaky-test-agent):** A C#/.NET agentic loop and custom MCP server built to tackle a high-value engineering pain point: intermittent test failures that traditionally stall developer backlogs..
+### Featured Personal Showcase \& Innovation
+* [**ProjectX Cloud Trading Platform \& Pricing Engines**](https://github.com/bleunguts/ProjectX)**:** A hand-written C# trading platform and strategy backtester built entirely from scratch. It features cloud-native ASP.NET Core compute grids running .NET pricing services and low-latency native C++ interop for millisecond execution (including Vanilla Black-Scholes in C# and C++, Monte Carlo pricing, and full Greeks valuation). Powered by a cross-platform architecture (Win/Mac/Linux, React web stack, and WPF desktop UI) and backed by automated CI/CD Azure DevOps pipelines.
+* **Custom C# MCP Tooling \& Agentic Workflows:** Extended with custom Claude Model Context Protocol (MCP) servers—converting agentic AI concepts into live, deterministic C# code execution.
+  * [**claude-mcp-flaky-test-agent**](https://github.com/bleunguts/claude-mcp-flaky-test-agent)**:** A C#/.NET MCP agentic loop that tackles a high-value engineering pain point, intermittent test failures that stalls backlogs...
+  * [**Mispricing signals MCP Agent**](https://github.com/bleunguts/claude-mcp-mispricing-watch-agent) - Mispricing agentic loop that flags pricing anomalies in the market, [**CDS Spread Monitor React rapid UI prototyping**](https://github.com/bleunguts/claude-ai-sdlc-cva-dashboard) - AI driven end-to-end showcase (Stitch, Replit Agent, Storybook, Playwright).
 * **Quantitative Domain Expertise:** Direct experience across Interest Rate Swaps (OIS/CORRA), yield curve bootstrapping, CVA/FRTB risk engines, and C++ quant library integration into low-latency C# services.
 
 ### Core Technology Stack & Telemetry
@@ -53,8 +53,8 @@
     <text x="50" y="83" fill="#f59e0b" font-family="monospace" font-size="8.5" font-weight="bold" text-anchor="middle">FLT (SOFR)</text>
   </svg>
 
-  <!-- CVA Risk -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="75" height="75" title="CVA Risk & Exposure">
+<!-- CVA Risk -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="75" height="75" title="CVA Risk & Exposure">
     <rect width="100" height="100" rx="16" fill="#0f172a"/>
     <line x1="18" y1="82" x2="85" y2="82" stroke="#64748b" stroke-width="3"/>
     <line x1="18" y1="82" x2="18" y2="18" stroke="#64748b" stroke-width="3"/>
@@ -66,8 +66,8 @@
     <text x="68" y="26" fill="#ffffff" font-family="sans-serif" font-size="8" font-weight="bold" text-anchor="middle">CVA</text>
   </svg>
 
-  <!-- Equity Risk -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="75" height="75" title="Equity Risk & Volatility">
+<!-- Equity Risk -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="75" height="75" title="Equity Risk & Volatility">
     <rect width="100" height="100" rx="16" fill="#0f172a"/>
     <path d="M 18 65 Q 40 25, 60 50 T 85 20 L 85 40 Q 60 70, 40 45 T 18 80 Z" fill="#ec4899" fill-opacity="0.15"/>
     <path d="M 18 65 Q 40 25, 60 50 T 85 20" fill="none" stroke="#ec4899" stroke-width="2" stroke-dasharray="3,2"/>
