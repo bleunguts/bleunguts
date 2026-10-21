@@ -18,9 +18,9 @@
 
 ### Featured Personal Showcase \& Innovation
 * [**ProjectX Cloud Trading Platform & Pricing Engines**](https://github.com/bleunguts/ProjectX)**:** A hand-written C# trading platform and strategy backtester built entirely from scratch. It features cloud-native ASP.NET Core compute grids running .NET pricing services and low-latency native C++ interop for millisecond execution (including Vanilla Black-Scholes in C# and C++, Monte Carlo pricing, and full Greeks valuation). Powered by a cross-platform architecture (Win/Mac/Linux, React web stack, and WPF desktop UI) and backed by automated CI/CD Azure DevOps pipelines.
-* **Custom C# MCP Tooling \& Agentic Workflows:** Extending C# services with custom Claude Model Context Protocol (MCP) servers—converting agentic AI concepts into live, deterministic C# code execution.
-  * [**claude-mcp-flaky-test-agent**](https://github.com/bleunguts/claude-mcp-flaky-test-agent)**:** A C#/.NET agentic loop targetting _high-pain, low-priority_ backlog items (flaky tests) that drains velocity while carrying zero production risk.
-  * [**MCP Mispricing Agent**](https://github.com/bleunguts/claude-mcp-mispricing-watch-agent) - agentic loop that flags market pricing anomalies, [**AI-SDLC CVA & CDS Dashboard**](https://github.com/bleunguts/claude-ai-sdlc-cva-dashboard) - CDS Spread Monitor React UI prototyping showcase (Stitch, Replit Agent, Storybook, Playwright).
+* **Custom C# MCP Tooling & Agentic Workflows:** Extending C# services with custom Claude Model Context Protocol (MCP) servers—converting agentic AI concepts into live, deterministic C# code execution.
+  * [**Flaky Test Diagnostic Agent**](https://github.com/bleunguts/claude-mcp-flaky-test-agent)**:** A C#/.NET agentic loop targetting _high-pain, low-priority_ backlog items (flaky tests) that drains velocity while carrying zero production risk.
+  * [**MCP Mispricing Watch**](https://github.com/bleunguts/claude-mcp-mispricing-watch-agent) - agentic loop that flags market pricing anomalies, [**AI-SDLC CVA & CDS Dashboard**](https://github.com/bleunguts/claude-ai-sdlc-cva-dashboard) - CDS Spread Monitor React UI prototyping showcase (Stitch, Replit Agent, Storybook, Playwright).
 * **Quantitative Domain Expertise:** Direct experience across Interest Rate Swaps (OIS/CORRA), yield curve bootstrapping, CVA/FRTB risk engines, and C++ quant library integration into low-latency C# services.
 
 ### Core Technology Stack & Telemetry
